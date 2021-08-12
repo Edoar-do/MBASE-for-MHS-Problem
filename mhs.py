@@ -1,5 +1,8 @@
 from queue import Queue
 import numpy as np
+import ntpath
+import os
+from time import time
 
 def combine_columns(singletonMatrixPartition):
     #VIENE UTILIZZATO -1 al posto di 'x'
@@ -76,19 +79,16 @@ def check(lamda, singletonRepresentativeMatrix):
         return 'KO'
 
 
-def output(lamda):
+def output(lamda, counMHS):
     '''
-    effettua l'ouput dell'insieme lamda, rivelatosi un mhs
+    effettua l'ouput dell'insieme lamda, rivelatosi un mhs, insieme alla sua cardinalità e al conteggio corrente di mhs trovati
     :param lamda: di cui effettuare l'output
     :return: l'output di lamda mhs
     '''
-    #vedere se stampare e basta oppure se creare una lista
-    #che verrà restituita all'utente. In qualche modo devo stampare il numero di MHS
-    #trovati e la cardinalità minima e massima di tali MHS
 
     #VERSIONE DI PROVA
-    print('MHS trovato: {} di cardinalità {}'.format(lamda, lamda.size))
-    print()
+    print('MHS found: {} of dimension {}'.format(lamda, lamda.size))
+    print('MHS encountered : {} \n'.format(counMHS))
 
 def getSingletonRepresentativeMatrix(A):
     '''
@@ -109,8 +109,10 @@ def getSingletonRepresentativeMatrix(A):
     return singletonMatrix
 
 def mbase(A):
+    start = time()
     coda = Queue(maxsize=0)
     coda.put(np.array([], dtype=np.int64))
+    countMHS = 0
 
     singletonRepresentativeMatrix = getSingletonRepresentativeMatrix(A)
     M = list(range(1,A.shape[1]+1)) #prendo gli elementi di M
@@ -130,10 +132,13 @@ def mbase(A):
             if result == 'OK' and e != max(M):
                 coda.put(lamda)
             elif result == 'MHS':
-                output(lamda)
+                countMHS += 1
+                output(lamda, countMHS)
             # else:
             #     print('{} KO'.format(lamda))
             e += 1 #succ(e)
+    end = time()
+    print("MBASE required %.4f seconds to execute" % (end-start))
 
 def getMatrixFromFile(filename):
     '''
@@ -144,22 +149,37 @@ def getMatrixFromFile(filename):
     :param filename: nome del file .matrix (indirizzo completo)
     :return: la matrice A costruita a partire dal contenuto del file
     '''
+    print(ntpath.basename(filename))
+    if os.stat(filename).st_size == 0:
+        return np.matrix([],dtype=np.int64)
+    else:
+        file = open(filename, 'r')
+        lines = file.readlines()
+        lines = lines[5:]
+        lines = [str.replace(line, ' -\n', '') for line in lines]
+        lines = [str.replace(line, ' ', ',') for line in lines]
+        #adesso abbiamo le righe della matrice A e possiamo costruirla
+        rows = []
+        for line in lines:
+            rows.append(np.fromstring(line, sep=','))
+        A = np.matrix(rows, dtype=np.int64)
+        file.close()
+        return A
 
-    file = open(filename, 'r')
-    lines = file.readlines()
-    lines = lines[5:]
-    lines = [str.replace(line, ' -\n', '') for line in lines]
-    lines = [str.replace(line, ' ', ',') for line in lines] #trim
-    #adesso abbiamo le righe della matrice A e possiamo costruirla
-    rows = []
-    for line in lines:
-        rows.append(np.fromstring(line, sep=','))
-    A = np.matrix(rows, dtype=np.int64)
-    file.close()
-    return A
-
-
+#PRIMO FILE DI UN BENCHMARK -> OK!
 A = getMatrixFromFile(filename='74L85.000.matrix')
-print(A)
-print()
-mbase(A)
+if np.size(A) == 0:
+    print("The specified file is empty. Can't start the computation")
+else:
+    print(A)
+    print()
+    mbase(A)
+
+#ESEMPIO VISTO IN AULA -> OK!
+    # A = np.matrix([[1, 1, 1, 0, 0, 0],
+    #               [0, 1, 1, 1, 0, 1],
+    #               [0, 1, 1, 0, 0, 0],
+    #               [1, 0, 1, 0, 0, 1],
+    #               [1, 1, 1, 1, 0, 0],
+    #               [0, 1, 1, 1, 0, 1],
+    #               [0, 0, 1, 1, 0, 0]], dtype=np.int64)
