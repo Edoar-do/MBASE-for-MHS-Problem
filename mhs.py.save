@@ -37,7 +37,11 @@ def build_representativeVector(lamda, singletonRepresentativeMatrix):
     elif lamda.size == 1: #singoletto
         return np.array(singletonRepresentativeMatrix[:, lamda[0]-1])
     else:
-        return combine_columns(singletonRepresentativeMatrix[:, lamda - [1]])
+        temp = np.zeros((singletonRepresentativeMatrix.shape[0], lamda.size), dtype=np.int64)
+        
+for i in lamda:
+            temp[:, i-1] = singletonRepresentativeMatrix[:, i-1]
+        return combine_columns(temp)
 
 def build_projection(lamda, representativeVector):
     '''
@@ -125,14 +129,14 @@ def mbase(A):
             e = np.amax(alpha) + 1
         while e <= max(M):
             lamda = np.append(alpha, np.array(e, dtype=np.int64))
-            #print('Esaminando lamda {}'.format(lamda))
+            print('Esaminando lamda {}'.format(lamda))
             result = check(lamda, singletonRepresentativeMatrix)
             if result == 'OK' and e != max(M):
                 coda.put(lamda)
             elif result == 'MHS':
                 output(lamda)
-            # else:
-            #     print('{} KO'.format(lamda))
+            else:
+                print('{} KO'.format(lamda))
             e += 1 #succ(e)
 
 def getMatrixFromFile(filename):
