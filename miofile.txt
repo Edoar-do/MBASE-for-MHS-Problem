@@ -1,4 +1,4 @@
-riga1 a
+riga1
 riga2
 riga3
 riga4
