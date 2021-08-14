@@ -98,18 +98,15 @@ def getSingletonRepresentativeMatrix(A):
     :return: i vettori rappresentativi degli insiemi singoletti
     '''
     singletonMatrix = A
-    i = 0
-    while i < singletonMatrix.shape[0]:
-        j = 0
-        while j < singletonMatrix.shape[1]:
-            if singletonMatrix[i,j] == 1:
-                singletonMatrix[i,j] = j+1
-            j += 1
-        i += 1
+    for i in range(singletonMatrix.shape[0]):
+        for j in range(singletonMatrix.shape[1]):
+            if singletonMatrix[i, j] == 1:
+                singletonMatrix[i, j] = j + 1
     return singletonMatrix
 
-def mbase(A):
-    start = time()
+def mbase(A, timeEnabled=True):
+    if timeEnabled:
+        start = time()
     coda = Queue(maxsize=0)
     coda.put(np.array([], dtype=np.int64))
     countMHS = 0
@@ -137,8 +134,9 @@ def mbase(A):
             # else:
             #     print('{} KO'.format(lamda))
             e += 1 #succ(e)
-    end = time()
-    print("MBASE required %.4f seconds to execute" % (end-start))
+    if timeEnabled:
+        end = time()
+        print("MBASE required %.4f seconds to execute" % (end-start))
 
 def getMatrixFromFile(filename):
     '''
@@ -151,7 +149,7 @@ def getMatrixFromFile(filename):
     '''
     print(ntpath.basename(filename))
     if os.stat(filename).st_size == 0:
-        return np.matrix([],dtype=np.int64)
+        return np.array([[]],dtype=np.int64)
     else:
         file = open(filename, 'r')
         lines = file.readlines()
@@ -162,17 +160,46 @@ def getMatrixFromFile(filename):
         rows = []
         for line in lines:
             rows.append(np.fromstring(line, sep=','))
-        A = np.matrix(rows, dtype=np.int64)
+        A = np.array(rows, dtype=np.int64)
         file.close()
         return A
 
+def del_rows(A):
+    toBeRemoved = np.array([], dtype=np.int64)
+    i, ii = 0, A.shape[0]-1
+    while i <= A.shape[0] - 2 and ii >= 1:
+        j, jj = i + 1, ii - 1
+        while j <= A.shape[0] - 1 and jj >= 0:
+            diff = A[i] - A[j]
+            if np.count_nonzero(diff == -1) == 0:  # A[i] super A[j]
+                toBeRemoved = np.append(toBeRemoved, [i])
+            diff = A[ii] - A[jj]
+            if np.count_nonzero(diff == -1) == 0:  # A[ii] super A[jj]
+                toBeRemoved = np.append(toBeRemoved, [ii])
+            j += 1
+            jj -= 1
+        i += 1
+        ii -= 1
+    toBeRemoved = np.unique(toBeRemoved)
+    A = np.delete(A, toBeRemoved, axis=0)
+    return A
+
+def del_cols(A):
+    A = A[:, ~np.all(A == 0, axis=0)]
+    return A
+
+def pre_processing(A):
+    A = del_rows(A)
+    A = del_cols(A)
+    return A
+
 #PRIMO FILE DI UN BENCHMARK -> OK!
-A = getMatrixFromFile(filename='74L85.000.matrix')
+A = getMatrixFromFile(filename='74L85.008.matrix')
 if np.size(A) == 0:
     print("The specified file is empty. Can't start the computation")
 else:
-    print(A)
-    print()
+    A = pre_processing(A)
+    print('(|N| = {}, |M| = {}) \n'.format(A.shape[0], A.shape[1]))
     mbase(A)
 
 #ESEMPIO VISTO IN AULA -> OK!
