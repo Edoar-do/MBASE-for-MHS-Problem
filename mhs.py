@@ -5,6 +5,12 @@ import os
 from time import time
 
 def combine_columns(singletonMatrixPartition):
+    '''
+    Funzione che combina due o più colonne nel calcolo del vettore rappresentativo di un insieme lamda
+    composto da due o più elementi del dominio
+    :param singletonMatrixPartition: partizione della matrice dei vettori rappresentativi dei vettori singoletti
+    :return: il vettore rappresentativo dell'insieme lamda composto da due o più elementi di M
+    '''
     #VIENE UTILIZZATO -1 al posto di 'x'
     res = np.zeros((singletonMatrixPartition.shape[0], 1), dtype=np.int64)
     while singletonMatrixPartition.shape[1] >= 2:
@@ -40,7 +46,7 @@ def build_representativeVector(lamda, singletonRepresentativeMatrix):
     elif lamda.size == 1: #singoletto
         return np.array(singletonRepresentativeMatrix[:, lamda[0]-1])
     else: #insieme con almeno due elementi
-        return combine_columns(singletonRepresentativeMatrix[:, lamda - [1]])
+        return combine_columns(singletonRepresentativeMatrix[:, lamda - 1])
 
 def build_projection(lamda, representativeVector):
     '''
@@ -78,7 +84,6 @@ def check(lamda, singletonRepresentativeMatrix):
     else:
         return 'KO'
 
-
 def output(lamda, counMHS, mapping):
     '''
     effettua l'ouput dell'insieme lamda, rivelatosi un mhs, insieme alla sua cardinalità e al conteggio corrente di mhs trovati
@@ -89,13 +94,20 @@ def output(lamda, counMHS, mapping):
         print('MHS found: {} of dimension {}'.format(lamda, len(lamda)))
         print('MHS encountered : {} \n'.format(counMHS))
     else:
-        lamda_remapped = [mapping[elem-1] for elem in lamda]
+        lamda_remapped = [mapping[elem-1] for elem in lamda.tolist()]
         print('MHS found: {} of dimension {}'.format(lamda_remapped, len(lamda_remapped)))
         print('MHS encountered : {} \n'.format(counMHS))
 
 def getMaps(indecesRemoved, MprimeLength):
-
-    indecesRemoved = indecesRemoved + [1]
+    '''
+    Funzione che calcola una mappa delle colonne di A dal dominio M al dominio M'
+    quando si è effettuata una pre-elaborazione
+    :param indecesRemoved: indici delle colonne rimosse nelle pre-elaborazione
+    :param MprimeLength: lunghezza del nuovo dominio M'
+    :return:
+    '''
+    indecesRemoved = np.array(indecesRemoved, dtype=np.int64)
+    indecesRemoved = indecesRemoved + 1
     acc = 0
     mapping = []
     i = 1
@@ -121,6 +133,13 @@ def getSingletonRepresentativeMatrix(A):
     return singletonMatrix
 
 def mbase(A, timeEnabled=True, mapping=None):
+    '''
+    Algoritmo mbase per il calcolo di tutti i mhs data una matrice A che riassume il contenuto del dominio M
+    e delle collezione di insieme N
+    :param A: matrice di ingresso sopracitata
+    :param timeEnabled: flag per il calcolo del tempo necessario alla computazione
+    :param mapping: mapping delle colonne di A qualora si sia compiuta una pre-elaborazione
+    '''
     if timeEnabled:
         start = time()
     coda = Queue(maxsize=0)
@@ -181,6 +200,39 @@ def getMatrixFromFile(filename):
         return A
 
 def del_rows(A):
+    '''
+    Cancellazione di righe della matrice A che specificano per insiemi che sono superinsiemi di altre righe
+    Per esempio, [1, 1, 1, 0] è superinsieme di [1, 1, 0, 0] perché la prima riga contiene tutti gli elementi che
+    sono contenuti anche nella seconda (ne contiene perfino di più)
+    Il ragionamento alla base del funzionamento è indicato tramite i seguenti esempi:
+    Esempio 1:
+    A 1 1 1 0 -
+    B 0 1 1 0 =
+      1 0 0 0  -> A super B
+    Esempio 2:
+    A 1 1 1 0 -
+    B 0 1 1 1 =
+      1 0 0 -1 -> A non super B
+    Se c'è anche solo un -1 nel risultato significa che A non possiede almeno un elemento che invece B possiede. Ergo A non può essere superinsieme di B.
+    Se invece la differenza consiste solo di '1' e '0' allora significa che A possiede tutti gli elementi che anche B possiede e forse anche elementi in più.
+    Quindi si può pensare che se diff non contiene alcun '-1' allora A è superinsieme di B e quindi A va eliminato dalla matrice.
+    Esempio 3:
+    A 0 1 0 0
+    B 0 0 1 0
+      0 1 -1 0
+    C'è un -1 quindi A non è superinsieme di B. Infatti si vede benissimo che A e B sono proprio disgiunti.
+    Esempio 4:
+    A 0 1 1 0
+    B 1 1 1 0
+     -1 0 0 0
+    Contiene un -1 quindi A non è superinsieme di B ma vale il contrario, i.e. B è superinsieme di A
+    Per come è fatto l'algoritmo B non verrebbe eliminato perché la ricerca si concentra sui casi in cui A è superinsieme di B.
+    E' quindi necessario scorrere la matrice di ingresso dalla fine verso l'inizio così che si invertano i ruoli nella differenza vettoriale
+    Sorge quindi un ulteriore problematica: in caso di righe duplicate (cioè A incluso in B e viceversa), l'indice delle righe da eliminare
+    verrebbe indicato due volte. E' sufficiente quindi eliminare i duplicati dell'array degli indici delle righe da rimuovere prima di passare alla rimozione vera e propria
+    :param A: matrice di input dell'algoritmo mhs
+    :return: una matrice privata delle righe che sono superinsieme di altre irghe
+    '''
     toBeRemoved = np.array([], dtype=np.int64)
     i, ii = 0, A.shape[0]-1
     while i <= A.shape[0] - 2 and ii >= 1:
@@ -200,6 +252,13 @@ def del_rows(A):
     return np.delete(A, toBeRemoved, axis=0)
 
 def del_cols(A):
+    '''
+    Cancellazione delle colonne interamente nulla
+    Operazione da eseguirsi solamente dopo aver invocato del_cols
+    Non viene eseguito alcun controllo sulla verifica di effettivo soddisfacimento di tale precedenza
+    :param A:
+    :return:
+    '''
     zeroCols =(~np.all(A==0, axis=0)).tolist()
     indecesRemoved = []
     for i in range(len(zeroCols)):
@@ -215,22 +274,17 @@ def pre_processing(A):
     '''
     return del_cols(del_rows(A))
 
-
-#PRIMO FILE DI UN BENCHMARK -> OK!
-A = getMatrixFromFile(filename='74L85.008.matrix')
+A = getMatrixFromFile(filename='c432.000.matrix')
 if np.size(A) == 0:
     print("The specified file is empty. Can't start the computation")
 else:
-    print(list(range(1, A.shape[1]+1)))
-    print(A, '\n')
     (A_post, indecesRemoved) = pre_processing(A)
+    print(A_post, '\n')
     print('(|N| = {}, |M| = {}) \n'.format(A_post.shape[0], A_post.shape[1]))
     mbase(A_post, mapping=getMaps(indecesRemoved, A_post.shape[1]))
-    #primo giro con mbase normale
+    #secondo giro con mbase normale
     print('(|N| = {}, |M| = {}) \n'.format(A.shape[0], A.shape[1]))
     mbase(A)
-    #secondo giro con mbase con pre-elaborazione
-    
 
 #ESEMPIO VISTO IN AULA -> OK!
     # A = np.matrix([[1, 1, 1, 0, 0, 0],
