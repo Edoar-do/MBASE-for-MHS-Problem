@@ -1,4 +1,4 @@
-A minumum hitting set solver
+A minumum hitting set solver.
 Given a set M and a collection of its subsets, named N,
 we need to find all the minimum hitting sets.
 A hitting set (hs) is a subset of M such that its

@@ -35,11 +35,11 @@ def build_representativeVector(lamda, singletonRepresentativeMatrix):
     sottoinsiemi singoletti di M
     :return: il vettore rappresentativo
     '''
-    if lamda.size == 0:
+    if lamda.size == 0: #insieme vuoto
         return np.zeros((singletonRepresentativeMatrix.shape[0], lamda.size), dtype=np.int64)
     elif lamda.size == 1: #singoletto
         return np.array(singletonRepresentativeMatrix[:, lamda[0]-1])
-    else:
+    else: #insieme con almeno due elementi
         return combine_columns(singletonRepresentativeMatrix[:, lamda - [1]])
 
 def build_projection(lamda, representativeVector):
@@ -79,16 +79,32 @@ def check(lamda, singletonRepresentativeMatrix):
         return 'KO'
 
 
-def output(lamda, counMHS):
+def output(lamda, counMHS, mapping):
     '''
     effettua l'ouput dell'insieme lamda, rivelatosi un mhs, insieme alla sua cardinalità e al conteggio corrente di mhs trovati
     :param lamda: di cui effettuare l'output
     :return: l'output di lamda mhs
     '''
+    if mapping is None:
+        print('MHS found: {} of dimension {}'.format(lamda, len(lamda)))
+        print('MHS encountered : {} \n'.format(counMHS))
+    else:
+        lamda_remapped = [mapping[elem-1] for elem in lamda]
+        print('MHS found: {} of dimension {}'.format(lamda_remapped, len(lamda_remapped)))
+        print('MHS encountered : {} \n'.format(counMHS))
 
-    #VERSIONE DI PROVA
-    print('MHS found: {} of dimension {}'.format(lamda, lamda.size))
-    print('MHS encountered : {} \n'.format(counMHS))
+def getMaps(indecesRemoved, MprimeLength):
+
+    indecesRemoved = indecesRemoved + [1]
+    acc = 0
+    mapping = []
+    i = 1
+    while len(mapping) < MprimeLength:
+        while acc + i in indecesRemoved:
+            acc += 1
+        mapping.append(i+acc)
+        i += 1
+    return mapping
 
 def getSingletonRepresentativeMatrix(A):
     '''
@@ -104,7 +120,7 @@ def getSingletonRepresentativeMatrix(A):
                 singletonMatrix[i, j] = j + 1
     return singletonMatrix
 
-def mbase(A, timeEnabled=True):
+def mbase(A, timeEnabled=True, mapping=None):
     if timeEnabled:
         start = time()
     coda = Queue(maxsize=0)
@@ -118,7 +134,7 @@ def mbase(A, timeEnabled=True):
     while not coda.empty():
         alpha = coda.get()
 
-        if alpha.size == 0:
+        if len(alpha) == 0:
             e = min(M)
         else:
             e = np.amax(alpha) + 1
@@ -130,7 +146,7 @@ def mbase(A, timeEnabled=True):
                 coda.put(lamda)
             elif result == 'MHS':
                 countMHS += 1
-                output(lamda, countMHS)
+                output(lamda, countMHS, mapping)
             # else:
             #     print('{} KO'.format(lamda))
             e += 1 #succ(e)
@@ -181,26 +197,40 @@ def del_rows(A):
         i += 1
         ii -= 1
     toBeRemoved = np.unique(toBeRemoved)
-    A = np.delete(A, toBeRemoved, axis=0)
-    return A
+    return np.delete(A, toBeRemoved, axis=0)
 
 def del_cols(A):
-    A = A[:, ~np.all(A == 0, axis=0)]
-    return A
+    zeroCols =(~np.all(A==0, axis=0)).tolist()
+    indecesRemoved = []
+    for i in range(len(zeroCols)):
+        if zeroCols[i] == False:
+            indecesRemoved.append(i)
+    return (A[:, zeroCols], indecesRemoved)
 
 def pre_processing(A):
-    A = del_rows(A)
-    A = del_cols(A)
-    return A
+    '''
+    Restituisce una tupla contentene la matrice A di N' righe e M' colonne a seguito della
+    pre-elaborazione e gli indici delle colonne che sono state rimosse
+    :param A: matrice A input dell'algoritmo
+    '''
+    return del_cols(del_rows(A))
+
 
 #PRIMO FILE DI UN BENCHMARK -> OK!
 A = getMatrixFromFile(filename='74L85.008.matrix')
 if np.size(A) == 0:
     print("The specified file is empty. Can't start the computation")
 else:
-    A = pre_processing(A)
+    print(list(range(1, A.shape[1]+1)))
+    print(A, '\n')
+    (A_post, indecesRemoved) = pre_processing(A)
+    print('(|N| = {}, |M| = {}) \n'.format(A_post.shape[0], A_post.shape[1]))
+    mbase(A_post, mapping=getMaps(indecesRemoved, A_post.shape[1]))
+    #primo giro con mbase normale
     print('(|N| = {}, |M| = {}) \n'.format(A.shape[0], A.shape[1]))
     mbase(A)
+    #secondo giro con mbase con pre-elaborazione
+    
 
 #ESEMPIO VISTO IN AULA -> OK!
     # A = np.matrix([[1, 1, 1, 0, 0, 0],
