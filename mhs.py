@@ -147,21 +147,21 @@ def mbase(A, timeEnabled=True, mapping=None):
     countMHS = 0
 
     singletonRepresentativeMatrix = getSingletonRepresentativeMatrix(A)
-    M = list(range(1,A.shape[1]+1)) #prendo gli elementi di M
+    M = np.array(list(range(1,A.shape[1]+1))) #prendo gli elementi di M
     #NB: M è già ordinato in ordine crescente per costruzione
 
     while not coda.empty():
         alpha = coda.get()
 
         if len(alpha) == 0:
-            e = min(M)
+            e = np.amin(M)
         else:
             e = np.amax(alpha) + 1
-        while e <= max(M):
+        while e <= np.amax(M):
             lamda = np.append(alpha, np.array(e, dtype=np.int64))
             #print('Esaminando lamda {}'.format(lamda))
             result = check(lamda, singletonRepresentativeMatrix)
-            if result == 'OK' and e != max(M):
+            if result == 'OK' and e != np.amax(M):
                 coda.put(lamda)
             elif result == 'MHS':
                 countMHS += 1
@@ -264,6 +264,7 @@ def del_cols(A):
     for i in range(len(zeroCols)):
         if zeroCols[i] == False:
             indecesRemoved.append(i)
+    print('Columns dropped in preprocessing: ', [idx+1 for idx in indecesRemoved])
     return (A[:, zeroCols], indecesRemoved)
 
 def pre_processing(A):
@@ -272,14 +273,18 @@ def pre_processing(A):
     pre-elaborazione e gli indici delle colonne che sono state rimosse
     :param A: matrice A input dell'algoritmo
     '''
-    return del_cols(del_rows(A))
+    start = time()
+    Aprime = del_cols(del_rows(A))
+    end = time()
+    print("Preprocessing required %.6f seconds to execute" % (end - start))
+    return Aprime
 
 A = getMatrixFromFile(filename='c432.000.matrix')
 if np.size(A) == 0:
     print("The specified file is empty. Can't start the computation")
 else:
     (A_post, indecesRemoved) = pre_processing(A)
-    print(A_post, '\n')
+    #print(A_post, '\n')
     print('(|N| = {}, |M| = {}) \n'.format(A_post.shape[0], A_post.shape[1]))
     mbase(A_post, mapping=getMaps(indecesRemoved, A_post.shape[1]))
     #secondo giro con mbase normale
