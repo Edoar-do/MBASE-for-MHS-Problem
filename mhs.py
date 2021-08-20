@@ -41,9 +41,9 @@ def build_representativeVector(lamda, singletonRepresentativeMatrix):
     sottoinsiemi singoletti di M
     :return: il vettore rappresentativo
     '''
-    if lamda.size == 0: #insieme vuoto
-        return np.zeros((singletonRepresentativeMatrix.shape[0], lamda.size), dtype=np.int64)
-    elif lamda.size == 1: #singoletto
+    if len(lamda) == 0: #insieme vuoto
+        return np.zeros((singletonRepresentativeMatrix.shape[0], len(lamda)), dtype=np.int64)
+    elif len(lamda) == 1: #singoletto
         return np.array(singletonRepresentativeMatrix[:, lamda[0]-1])
     else: #insieme con almeno due elementi
         return combine_columns(singletonRepresentativeMatrix[:, lamda - 1])
@@ -147,21 +147,22 @@ def mbase(A, timeEnabled=True, mapping=None):
     countMHS = 0
 
     singletonRepresentativeMatrix = getSingletonRepresentativeMatrix(A)
-    M = np.array(list(range(1,A.shape[1]+1))) #prendo gli elementi di M
-    #NB: M è già ordinato in ordine crescente per costruzione
+    M = list(range(1,A.shape[1]+1))#prendo gli elementi di M
+    #NB: M è già ordinato in ordine crescente per costruzione quindi non serve
+    #ricalcolare min e max nel codice
 
     while not coda.empty():
         alpha = coda.get()
 
         if len(alpha) == 0:
-            e = np.amin(M)
+            e = M[0] #min(M)
         else:
             e = np.amax(alpha) + 1
-        while e <= np.amax(M):
+        while e <= M[-1]: #e <= max(M)
             lamda = np.append(alpha, np.array(e, dtype=np.int64))
             #print('Esaminando lamda {}'.format(lamda))
             result = check(lamda, singletonRepresentativeMatrix)
-            if result == 'OK' and e != np.amax(M):
+            if result == 'OK' and e != M[-1]:
                 coda.put(lamda)
             elif result == 'MHS':
                 countMHS += 1
@@ -279,7 +280,7 @@ def pre_processing(A):
     print("Preprocessing required %.6f seconds to execute" % (end - start))
     return Aprime
 
-A = getMatrixFromFile(filename='c432.000.matrix')
+A = getMatrixFromFile(filename=input("Insert filename: \n"))
 if np.size(A) == 0:
     print("The specified file is empty. Can't start the computation")
 else:
