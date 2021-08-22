@@ -14,8 +14,8 @@ def combine_columns(singletonMatrixPartition):
     #VIENE UTILIZZATO -1 al posto di 'x'
     res = np.zeros((singletonMatrixPartition.shape[0], 1), dtype=np.int64)
     while singletonMatrixPartition.shape[1] >= 2:
-        c1 = np.array(singletonMatrixPartition[:, 0], dtype=np.int64)
-        c2 = np.array(singletonMatrixPartition[:, 1], dtype=np.int64)
+        c1 = singletonMatrixPartition[:, 0]
+        c2 = singletonMatrixPartition[:, 1]
         i = 0
         while i < singletonMatrixPartition.shape[0]:
             if c1[i] != 0 and c2[i] != 0:
@@ -29,7 +29,7 @@ def combine_columns(singletonMatrixPartition):
             elif c1[i] == 0 and c2[i] == 0:
                 res[i] = 0
             i += 1
-        singletonMatrixPartition = np.delete(singletonMatrixPartition, [0, 1], 1)
+        singletonMatrixPartition = singletonMatrixPartition[:, 2:]
         singletonMatrixPartition = np.concatenate((res, singletonMatrixPartition), axis=1)
     return singletonMatrixPartition
 
@@ -42,9 +42,9 @@ def build_representativeVector(lamda, singletonRepresentativeMatrix):
     :return: il vettore rappresentativo
     '''
     if len(lamda) == 0: #insieme vuoto
-        return np.zeros((singletonRepresentativeMatrix.shape[0], len(lamda)), dtype=np.int64)
+        return np.zeros((singletonRepresentativeMatrix.shape[0], 1), dtype=np.int64)
     elif len(lamda) == 1: #singoletto
-        return np.array(singletonRepresentativeMatrix[:, lamda[0]-1])
+        return singletonRepresentativeMatrix[:, lamda[0]-1]
     else: #insieme con almeno due elementi
         return combine_columns(singletonRepresentativeMatrix[:, lamda - 1])
 
@@ -60,7 +60,7 @@ def build_projection(lamda, representativeVector):
     projection = np.array([], dtype=np.int64)
     for elem in representativeVector:
         if elem in lamda:
-            projection = np.append(projection,[elem])
+            projection = np.append(projection, elem)
     return set(projection)
 
 def check(lamda, singletonRepresentativeMatrix):
@@ -91,7 +91,7 @@ def output(lamda, counMHS, mapping):
     :return: l'output di lamda mhs
     '''
     if mapping is None:
-        print('MHS found: {} of dimension {}'.format(lamda, len(lamda)))
+        print('MHS found: {} of dimension {}'.format(lamda.tolist(), len(lamda)))
         print('MHS encountered : {} \n'.format(counMHS))
     else:
         lamda_remapped = [mapping[elem-1] for elem in lamda.tolist()]
@@ -106,8 +106,7 @@ def getMaps(indecesRemoved, MprimeLength):
     :param MprimeLength: lunghezza del nuovo dominio M'
     :return:
     '''
-    indecesRemoved = np.array(indecesRemoved, dtype=np.int64)
-    indecesRemoved = indecesRemoved + 1
+    indecesRemoved = [idx + 1 for idx in indecesRemoved]
     acc = 0
     mapping = []
     i = 1
@@ -123,14 +122,13 @@ def getSingletonRepresentativeMatrix(A):
     Restituisce una matrice, intesa come vettore di vettori, contenente i vettori
     rappresentativi degli sotto-insiemi singoletti di M
     :param A: matrice di input
-    :return: i vettori rappresentativi degli insiemi singoletti
+    :return: i vettori rappresentativi degli insiemi singoletti sottoforma di matrice
     '''
-    singletonMatrix = A
-    for i in range(singletonMatrix.shape[0]):
-        for j in range(singletonMatrix.shape[1]):
-            if singletonMatrix[i, j] == 1:
-                singletonMatrix[i, j] = j + 1
-    return singletonMatrix
+    for i in range(A.shape[0]):
+        for j in range(A.shape[1]):
+            if A[i, j] == 1:
+                A[i, j] = j + 1
+    return A
 
 def mbase(A, timeEnabled=True, mapping=None):
     '''
@@ -142,11 +140,12 @@ def mbase(A, timeEnabled=True, mapping=None):
     '''
     if timeEnabled:
         start = time()
+        
     coda = Queue(maxsize=0)
     coda.put(np.array([], dtype=np.int64))
     countMHS = 0
 
-    singletonRepresentativeMatrix = getSingletonRepresentativeMatrix(A)
+    singletonRepresentativeMatrix = getSingletonRepresentativeMatrix(np.copy(A))
     M = list(range(1,A.shape[1]+1))#prendo gli elementi di M
     #NB: M è già ordinato in ordine crescente per costruzione quindi non serve
     #ricalcolare min e max nel codice
@@ -157,22 +156,23 @@ def mbase(A, timeEnabled=True, mapping=None):
         if len(alpha) == 0:
             e = M[0] #min(M)
         else:
-            e = np.amax(alpha) + 1
+            e = np.amax(alpha) + 1 
+            
         while e <= M[-1]: #e <= max(M)
             lamda = np.append(alpha, np.array(e, dtype=np.int64))
-            #print('Esaminando lamda {}'.format(lamda))
             result = check(lamda, singletonRepresentativeMatrix)
-            if result == 'OK' and e != M[-1]:
+            
+            if result == 'OK' and e != M[-1]: #result == Ok && e != max(M)
                 coda.put(lamda)
             elif result == 'MHS':
                 countMHS += 1
                 output(lamda, countMHS, mapping)
-            # else:
-            #     print('{} KO'.format(lamda))
+            
             e += 1 #succ(e)
+            
     if timeEnabled:
         end = time()
-        print("MBASE required %.4f seconds to execute" % (end-start))
+        print("MBASE required %.6f seconds to execute \n" % (end-start))
 
 def getMatrixFromFile(filename):
     '''
@@ -228,29 +228,26 @@ def del_rows(A):
      -1 0 0 0
     Contiene un -1 quindi A non è superinsieme di B ma vale il contrario, i.e. B è superinsieme di A
     Per come è fatto l'algoritmo B non verrebbe eliminato perché la ricerca si concentra sui casi in cui A è superinsieme di B.
-    E' quindi necessario scorrere la matrice di ingresso dalla fine verso l'inizio così che si invertano i ruoli nella differenza vettoriale
-    Sorge quindi un ulteriore problematica: in caso di righe duplicate (cioè A incluso in B e viceversa), l'indice delle righe da eliminare
-    verrebbe indicato due volte. E' sufficiente quindi eliminare i duplicati dell'array degli indici delle righe da rimuovere prima di passare alla rimozione vera e propria
+    E' quindi necessario testare anche la differenza di B-A e applicare lo stesso ragionamento
     :param A: matrice di input dell'algoritmo mhs
-    :return: una matrice privata delle righe che sono superinsieme di altre irghe
+    :return: una matrice privata delle righe che sono superinsieme di altre righe
     '''
-    toBeRemoved = np.array([], dtype=np.int64)
-    i, ii = 0, A.shape[0]-1
-    while i <= A.shape[0] - 2 and ii >= 1:
-        j, jj = i + 1, ii - 1
-        while j <= A.shape[0] - 1 and jj >= 0:
+    toBeRemoved = []
+    i = 0
+    while i <= A.shape[0]-2:
+        j = i+1
+        while j <= A.shape[0]-1:
             diff = A[i] - A[j]
-            if np.count_nonzero(diff == -1) == 0:  # A[i] super A[j]
-                toBeRemoved = np.append(toBeRemoved, [i])
-            diff = A[ii] - A[jj]
-            if np.count_nonzero(diff == -1) == 0:  # A[ii] super A[jj]
-                toBeRemoved = np.append(toBeRemoved, [ii])
+            diff2 = A[j] - A[i]
+            if np.count_nonzero(diff == -1) == 0:
+                toBeRemoved.append(i)
+            elif np.count_nonzero(diff2 == -1) == 0:
+                toBeRemoved.append(j)
             j += 1
-            jj -= 1
         i += 1
-        ii -= 1
-    toBeRemoved = np.unique(toBeRemoved)
+    print('Rows dropped in pre-processing: {} \n'.format([x+1 for x in toBeRemoved]))
     return np.delete(A, toBeRemoved, axis=0)
+
 
 def del_cols(A):
     '''
@@ -265,7 +262,7 @@ def del_cols(A):
     for i in range(len(zeroCols)):
         if zeroCols[i] == False:
             indecesRemoved.append(i)
-    print('Columns dropped in preprocessing: ', [idx+1 for idx in indecesRemoved])
+    print('Columns dropped in preprocessing: {} \n'.format([idx+1 for idx in indecesRemoved]))
     return (A[:, zeroCols], indecesRemoved)
 
 def pre_processing(A):
@@ -277,20 +274,21 @@ def pre_processing(A):
     start = time()
     Aprime = del_cols(del_rows(A))
     end = time()
-    print("Preprocessing required %.6f seconds to execute" % (end - start))
+    print("Preprocessing required %.6f seconds to execute \n" % (end - start))
     return Aprime
 
 A = getMatrixFromFile(filename=input("Insert filename: \n"))
 if np.size(A) == 0:
     print("The specified file is empty. Can't start the computation")
 else:
-    (A_post, indecesRemoved) = pre_processing(A)
-    #print(A_post, '\n')
-    print('(|N| = {}, |M| = {}) \n'.format(A_post.shape[0], A_post.shape[1]))
-    mbase(A_post, mapping=getMaps(indecesRemoved, A_post.shape[1]))
-    #secondo giro con mbase normale
     print('(|N| = {}, |M| = {}) \n'.format(A.shape[0], A.shape[1]))
     mbase(A)
+    
+    (A_post, indecesRemoved) = pre_processing(A)
+    print('(|N| = {}, |M| = {}) \n'.format(A_post.shape[0], A_post.shape[1]))
+    mbase(A_post, mapping=getMaps(indecesRemoved, A_post.shape[1]))
+
+    
 
 #ESEMPIO VISTO IN AULA -> OK!
     # A = np.matrix([[1, 1, 1, 0, 0, 0],
