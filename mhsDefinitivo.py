@@ -1,4 +1,4 @@
-from queue import Queue
+from collections import deque
 import numpy as np
 import ntpath
 import os
@@ -15,8 +15,7 @@ def combine_columns(Spart):
     while Spart.shape[1] >= 2:
         c1 = Spart[:, 0]
         c2 = Spart[:, 1]
-        i = 0
-        while i < Spart.shape[0]:
+        for i in range(Spart.shape[0]):
             if c1[i] != 0 and c2[i] != 0:
                 res[i] = -1
             elif c1[i] == -1 or c2[i] == -1:
@@ -25,9 +24,8 @@ def combine_columns(Spart):
                 res[i] = c1[i]
             elif c1[i] == 0 and c2[i] != 0:
                 res[i] = c2[i]
-            elif c1[i] == 0 and c2[i] == 0:
-                res[i] = 0
-            i += 1
+            #elif c1[i] == 0 and c2[i] == 0:
+                #res[i] = 0
         Spart = Spart[:, 2:]
         Spart = np.concatenate((np.array(res).reshape(len(res),1), Spart), axis=1)
     return Spart.flatten().tolist()
@@ -177,15 +175,15 @@ def mbase(A, timeEnabled=True, mapping=None):
     if timeEnabled:
         start = time()
 
-    coda = Queue(maxsize=0)
-    coda.put([])
+    coda = deque()
+    coda.append([])
     countMHS=0
 
     S = getSingletonRepresentativeMatrix(np.copy(A))
     M = list(range(1, len(A[0])+1))
 
-    while not coda.empty():
-        alpha = coda.get()
+    while len(coda)>0:
+        alpha = coda.popleft()
 
         if len(alpha)==0:
             e = M[0]
@@ -197,7 +195,7 @@ def mbase(A, timeEnabled=True, mapping=None):
             result = check(lamda, S)
 
             if result == 'OK' and e != M[-1]:
-                coda.put(lamda)
+                coda.append(lamda)
             elif result == 'MHS':
                 countMHS += 1
                 output(lamda, countMHS, mapping)

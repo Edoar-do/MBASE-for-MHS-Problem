@@ -1,0 +1,1374 @@
+Insert filename: 
+74181.022.matrix
+(|N| = 8, |M| = 66) 
+
+MHS found: [3, 56, 66] of dimension 3
+MHS encountered : 1 
+
+MHS found: [3, 61, 66] of dimension 3
+MHS encountered : 2 
+
+MHS found: [9, 56, 66] of dimension 3
+MHS encountered : 3 
+
+MHS found: [9, 61, 66] of dimension 3
+MHS encountered : 4 
+
+MHS found: [28, 56, 66] of dimension 3
+MHS encountered : 5 
+
+MHS found: [28, 61, 66] of dimension 3
+MHS encountered : 6 
+
+MHS found: [5, 12, 56, 66] of dimension 4
+MHS encountered : 7 
+
+MHS found: [5, 12, 61, 66] of dimension 4
+MHS encountered : 8 
+
+MHS found: [5, 15, 56, 66] of dimension 4
+MHS encountered : 9 
+
+MHS found: [5, 15, 61, 66] of dimension 4
+MHS encountered : 10 
+
+MHS found: [5, 29, 56, 66] of dimension 4
+MHS encountered : 11 
+
+MHS found: [5, 29, 61, 66] of dimension 4
+MHS encountered : 12 
+
+MHS found: [5, 30, 56, 66] of dimension 4
+MHS encountered : 13 
+
+MHS found: [5, 30, 61, 66] of dimension 4
+MHS encountered : 14 
+
+MHS found: [6, 12, 56, 66] of dimension 4
+MHS encountered : 15 
+
+MHS found: [6, 12, 61, 66] of dimension 4
+MHS encountered : 16 
+
+MHS found: [6, 15, 56, 66] of dimension 4
+MHS encountered : 17 
+
+MHS found: [6, 15, 61, 66] of dimension 4
+MHS encountered : 18 
+
+MHS found: [6, 29, 56, 66] of dimension 4
+MHS encountered : 19 
+
+MHS found: [6, 29, 61, 66] of dimension 4
+MHS encountered : 20 
+
+MHS found: [6, 30, 56, 66] of dimension 4
+MHS encountered : 21 
+
+MHS found: [6, 30, 61, 66] of dimension 4
+MHS encountered : 22 
+
+MHS found: [7, 35, 56, 66] of dimension 4
+MHS encountered : 23 
+
+MHS found: [7, 35, 61, 66] of dimension 4
+MHS encountered : 24 
+
+MHS found: [7, 36, 56, 66] of dimension 4
+MHS encountered : 25 
+
+MHS found: [7, 36, 61, 66] of dimension 4
+MHS encountered : 26 
+
+MHS found: [7, 37, 56, 66] of dimension 4
+MHS encountered : 27 
+
+MHS found: [7, 37, 61, 66] of dimension 4
+MHS encountered : 28 
+
+MHS found: [7, 38, 56, 66] of dimension 4
+MHS encountered : 29 
+
+MHS found: [7, 38, 61, 66] of dimension 4
+MHS encountered : 30 
+
+MHS found: [7, 55, 56, 66] of dimension 4
+MHS encountered : 31 
+
+MHS found: [7, 55, 61, 66] of dimension 4
+MHS encountered : 32 
+
+MHS found: [8, 35, 56, 66] of dimension 4
+MHS encountered : 33 
+
+MHS found: [8, 35, 61, 66] of dimension 4
+MHS encountered : 34 
+
+MHS found: [8, 36, 56, 66] of dimension 4
+MHS encountered : 35 
+
+MHS found: [8, 36, 61, 66] of dimension 4
+MHS encountered : 36 
+
+MHS found: [8, 37, 56, 66] of dimension 4
+MHS encountered : 37 
+
+MHS found: [8, 37, 61, 66] of dimension 4
+MHS encountered : 38 
+
+MHS found: [8, 38, 56, 66] of dimension 4
+MHS encountered : 39 
+
+MHS found: [8, 38, 61, 66] of dimension 4
+MHS encountered : 40 
+
+MHS found: [8, 55, 56, 66] of dimension 4
+MHS encountered : 41 
+
+MHS found: [8, 55, 61, 66] of dimension 4
+MHS encountered : 42 
+
+MHS found: [12, 15, 56, 66] of dimension 4
+MHS encountered : 43 
+
+MHS found: [12, 15, 61, 66] of dimension 4
+MHS encountered : 44 
+
+MHS found: [12, 19, 56, 66] of dimension 4
+MHS encountered : 45 
+
+MHS found: [12, 19, 61, 66] of dimension 4
+MHS encountered : 46 
+
+MHS found: [12, 24, 56, 66] of dimension 4
+MHS encountered : 47 
+
+MHS found: [12, 24, 61, 66] of dimension 4
+MHS encountered : 48 
+
+MHS found: [12, 30, 56, 66] of dimension 4
+MHS encountered : 49 
+
+MHS found: [12, 30, 61, 66] of dimension 4
+MHS encountered : 50 
+
+MHS found: [12, 32, 56, 66] of dimension 4
+MHS encountered : 51 
+
+MHS found: [12, 32, 61, 66] of dimension 4
+MHS encountered : 52 
+
+MHS found: [12, 34, 56, 66] of dimension 4
+MHS encountered : 53 
+
+MHS found: [12, 34, 61, 66] of dimension 4
+MHS encountered : 54 
+
+MHS found: [12, 35, 56, 66] of dimension 4
+MHS encountered : 55 
+
+MHS found: [12, 35, 61, 66] of dimension 4
+MHS encountered : 56 
+
+MHS found: [12, 36, 56, 66] of dimension 4
+MHS encountered : 57 
+
+MHS found: [12, 36, 61, 66] of dimension 4
+MHS encountered : 58 
+
+MHS found: [12, 37, 56, 66] of dimension 4
+MHS encountered : 59 
+
+MHS found: [12, 37, 61, 66] of dimension 4
+MHS encountered : 60 
+
+MHS found: [12, 38, 56, 66] of dimension 4
+MHS encountered : 61 
+
+MHS found: [12, 38, 61, 66] of dimension 4
+MHS encountered : 62 
+
+MHS found: [12, 55, 56, 66] of dimension 4
+MHS encountered : 63 
+
+MHS found: [12, 55, 61, 66] of dimension 4
+MHS encountered : 64 
+
+MHS found: [15, 19, 56, 66] of dimension 4
+MHS encountered : 65 
+
+MHS found: [15, 19, 61, 66] of dimension 4
+MHS encountered : 66 
+
+MHS found: [15, 24, 56, 66] of dimension 4
+MHS encountered : 67 
+
+MHS found: [15, 24, 61, 66] of dimension 4
+MHS encountered : 68 
+
+MHS found: [15, 29, 56, 66] of dimension 4
+MHS encountered : 69 
+
+MHS found: [15, 29, 61, 66] of dimension 4
+MHS encountered : 70 
+
+MHS found: [15, 32, 56, 66] of dimension 4
+MHS encountered : 71 
+
+MHS found: [15, 32, 61, 66] of dimension 4
+MHS encountered : 72 
+
+MHS found: [15, 34, 56, 66] of dimension 4
+MHS encountered : 73 
+
+MHS found: [15, 34, 61, 66] of dimension 4
+MHS encountered : 74 
+
+MHS found: [15, 35, 56, 66] of dimension 4
+MHS encountered : 75 
+
+MHS found: [15, 35, 61, 66] of dimension 4
+MHS encountered : 76 
+
+MHS found: [15, 36, 56, 66] of dimension 4
+MHS encountered : 77 
+
+MHS found: [15, 36, 61, 66] of dimension 4
+MHS encountered : 78 
+
+MHS found: [15, 37, 56, 66] of dimension 4
+MHS encountered : 79 
+
+MHS found: [15, 37, 61, 66] of dimension 4
+MHS encountered : 80 
+
+MHS found: [15, 38, 56, 66] of dimension 4
+MHS encountered : 81 
+
+MHS found: [15, 38, 61, 66] of dimension 4
+MHS encountered : 82 
+
+MHS found: [15, 46, 56, 66] of dimension 4
+MHS encountered : 83 
+
+MHS found: [15, 46, 61, 66] of dimension 4
+MHS encountered : 84 
+
+MHS found: [15, 47, 56, 66] of dimension 4
+MHS encountered : 85 
+
+MHS found: [15, 47, 61, 66] of dimension 4
+MHS encountered : 86 
+
+MHS found: [15, 48, 56, 66] of dimension 4
+MHS encountered : 87 
+
+MHS found: [15, 48, 61, 66] of dimension 4
+MHS encountered : 88 
+
+MHS found: [15, 49, 56, 66] of dimension 4
+MHS encountered : 89 
+
+MHS found: [15, 49, 61, 66] of dimension 4
+MHS encountered : 90 
+
+MHS found: [15, 55, 56, 66] of dimension 4
+MHS encountered : 91 
+
+MHS found: [15, 55, 61, 66] of dimension 4
+MHS encountered : 92 
+
+MHS found: [15, 56, 59, 66] of dimension 4
+MHS encountered : 93 
+
+MHS found: [15, 56, 63, 66] of dimension 4
+MHS encountered : 94 
+
+MHS found: [15, 59, 61, 66] of dimension 4
+MHS encountered : 95 
+
+MHS found: [15, 61, 63, 66] of dimension 4
+MHS encountered : 96 
+
+MHS found: [19, 29, 56, 66] of dimension 4
+MHS encountered : 97 
+
+MHS found: [19, 29, 61, 66] of dimension 4
+MHS encountered : 98 
+
+MHS found: [19, 30, 56, 66] of dimension 4
+MHS encountered : 99 
+
+MHS found: [19, 30, 61, 66] of dimension 4
+MHS encountered : 100 
+
+MHS found: [24, 29, 56, 66] of dimension 4
+MHS encountered : 101 
+
+MHS found: [24, 29, 61, 66] of dimension 4
+MHS encountered : 102 
+
+MHS found: [24, 30, 56, 66] of dimension 4
+MHS encountered : 103 
+
+MHS found: [24, 30, 61, 66] of dimension 4
+MHS encountered : 104 
+
+MHS found: [27, 35, 56, 66] of dimension 4
+MHS encountered : 105 
+
+MHS found: [27, 35, 61, 66] of dimension 4
+MHS encountered : 106 
+
+MHS found: [27, 36, 56, 66] of dimension 4
+MHS encountered : 107 
+
+MHS found: [27, 36, 61, 66] of dimension 4
+MHS encountered : 108 
+
+MHS found: [27, 37, 56, 66] of dimension 4
+MHS encountered : 109 
+
+MHS found: [27, 37, 61, 66] of dimension 4
+MHS encountered : 110 
+
+MHS found: [27, 38, 56, 66] of dimension 4
+MHS encountered : 111 
+
+MHS found: [27, 38, 61, 66] of dimension 4
+MHS encountered : 112 
+
+MHS found: [27, 55, 56, 66] of dimension 4
+MHS encountered : 113 
+
+MHS found: [27, 55, 61, 66] of dimension 4
+MHS encountered : 114 
+
+MHS found: [29, 30, 56, 66] of dimension 4
+MHS encountered : 115 
+
+MHS found: [29, 30, 61, 66] of dimension 4
+MHS encountered : 116 
+
+MHS found: [29, 32, 56, 66] of dimension 4
+MHS encountered : 117 
+
+MHS found: [29, 32, 61, 66] of dimension 4
+MHS encountered : 118 
+
+MHS found: [29, 34, 56, 66] of dimension 4
+MHS encountered : 119 
+
+MHS found: [29, 34, 61, 66] of dimension 4
+MHS encountered : 120 
+
+MHS found: [29, 35, 56, 66] of dimension 4
+MHS encountered : 121 
+
+MHS found: [29, 35, 61, 66] of dimension 4
+MHS encountered : 122 
+
+MHS found: [29, 36, 56, 66] of dimension 4
+MHS encountered : 123 
+
+MHS found: [29, 36, 61, 66] of dimension 4
+MHS encountered : 124 
+
+MHS found: [29, 37, 56, 66] of dimension 4
+MHS encountered : 125 
+
+MHS found: [29, 37, 61, 66] of dimension 4
+MHS encountered : 126 
+
+MHS found: [29, 38, 56, 66] of dimension 4
+MHS encountered : 127 
+
+MHS found: [29, 38, 61, 66] of dimension 4
+MHS encountered : 128 
+
+MHS found: [29, 55, 56, 66] of dimension 4
+MHS encountered : 129 
+
+MHS found: [29, 55, 61, 66] of dimension 4
+MHS encountered : 130 
+
+MHS found: [30, 32, 56, 66] of dimension 4
+MHS encountered : 131 
+
+MHS found: [30, 32, 61, 66] of dimension 4
+MHS encountered : 132 
+
+MHS found: [30, 34, 56, 66] of dimension 4
+MHS encountered : 133 
+
+MHS found: [30, 34, 61, 66] of dimension 4
+MHS encountered : 134 
+
+MHS found: [30, 35, 56, 66] of dimension 4
+MHS encountered : 135 
+
+MHS found: [30, 35, 61, 66] of dimension 4
+MHS encountered : 136 
+
+MHS found: [30, 36, 56, 66] of dimension 4
+MHS encountered : 137 
+
+MHS found: [30, 36, 61, 66] of dimension 4
+MHS encountered : 138 
+
+MHS found: [30, 37, 56, 66] of dimension 4
+MHS encountered : 139 
+
+MHS found: [30, 37, 61, 66] of dimension 4
+MHS encountered : 140 
+
+MHS found: [30, 38, 56, 66] of dimension 4
+MHS encountered : 141 
+
+MHS found: [30, 38, 61, 66] of dimension 4
+MHS encountered : 142 
+
+MHS found: [30, 46, 56, 66] of dimension 4
+MHS encountered : 143 
+
+MHS found: [30, 46, 61, 66] of dimension 4
+MHS encountered : 144 
+
+MHS found: [30, 47, 56, 66] of dimension 4
+MHS encountered : 145 
+
+MHS found: [30, 47, 61, 66] of dimension 4
+MHS encountered : 146 
+
+MHS found: [30, 48, 56, 66] of dimension 4
+MHS encountered : 147 
+
+MHS found: [30, 48, 61, 66] of dimension 4
+MHS encountered : 148 
+
+MHS found: [30, 49, 56, 66] of dimension 4
+MHS encountered : 149 
+
+MHS found: [30, 49, 61, 66] of dimension 4
+MHS encountered : 150 
+
+MHS found: [30, 55, 56, 66] of dimension 4
+MHS encountered : 151 
+
+MHS found: [30, 55, 61, 66] of dimension 4
+MHS encountered : 152 
+
+MHS found: [30, 56, 59, 66] of dimension 4
+MHS encountered : 153 
+
+MHS found: [30, 56, 63, 66] of dimension 4
+MHS encountered : 154 
+
+MHS found: [30, 59, 61, 66] of dimension 4
+MHS encountered : 155 
+
+MHS found: [30, 61, 63, 66] of dimension 4
+MHS encountered : 156 
+
+MHS found: [35, 41, 56, 66] of dimension 4
+MHS encountered : 157 
+
+MHS found: [35, 41, 61, 66] of dimension 4
+MHS encountered : 158 
+
+MHS found: [35, 42, 56, 66] of dimension 4
+MHS encountered : 159 
+
+MHS found: [35, 42, 61, 66] of dimension 4
+MHS encountered : 160 
+
+MHS found: [35, 43, 56, 66] of dimension 4
+MHS encountered : 161 
+
+MHS found: [35, 43, 61, 66] of dimension 4
+MHS encountered : 162 
+
+MHS found: [35, 44, 56, 66] of dimension 4
+MHS encountered : 163 
+
+MHS found: [35, 44, 61, 66] of dimension 4
+MHS encountered : 164 
+
+MHS found: [35, 45, 56, 66] of dimension 4
+MHS encountered : 165 
+
+MHS found: [35, 45, 61, 66] of dimension 4
+MHS encountered : 166 
+
+MHS found: [35, 56, 58, 66] of dimension 4
+MHS encountered : 167 
+
+MHS found: [35, 56, 62, 66] of dimension 4
+MHS encountered : 168 
+
+MHS found: [35, 58, 61, 66] of dimension 4
+MHS encountered : 169 
+
+MHS found: [35, 61, 62, 66] of dimension 4
+MHS encountered : 170 
+
+MHS found: [36, 41, 56, 66] of dimension 4
+MHS encountered : 171 
+
+MHS found: [36, 41, 61, 66] of dimension 4
+MHS encountered : 172 
+
+MHS found: [36, 42, 56, 66] of dimension 4
+MHS encountered : 173 
+
+MHS found: [36, 42, 61, 66] of dimension 4
+MHS encountered : 174 
+
+MHS found: [36, 43, 56, 66] of dimension 4
+MHS encountered : 175 
+
+MHS found: [36, 43, 61, 66] of dimension 4
+MHS encountered : 176 
+
+MHS found: [36, 44, 56, 66] of dimension 4
+MHS encountered : 177 
+
+MHS found: [36, 44, 61, 66] of dimension 4
+MHS encountered : 178 
+
+MHS found: [36, 45, 56, 66] of dimension 4
+MHS encountered : 179 
+
+MHS found: [36, 45, 61, 66] of dimension 4
+MHS encountered : 180 
+
+MHS found: [36, 56, 58, 66] of dimension 4
+MHS encountered : 181 
+
+MHS found: [36, 56, 62, 66] of dimension 4
+MHS encountered : 182 
+
+MHS found: [36, 58, 61, 66] of dimension 4
+MHS encountered : 183 
+
+MHS found: [36, 61, 62, 66] of dimension 4
+MHS encountered : 184 
+
+MHS found: [37, 41, 56, 66] of dimension 4
+MHS encountered : 185 
+
+MHS found: [37, 41, 61, 66] of dimension 4
+MHS encountered : 186 
+
+MHS found: [37, 42, 56, 66] of dimension 4
+MHS encountered : 187 
+
+MHS found: [37, 42, 61, 66] of dimension 4
+MHS encountered : 188 
+
+MHS found: [37, 43, 56, 66] of dimension 4
+MHS encountered : 189 
+
+MHS found: [37, 43, 61, 66] of dimension 4
+MHS encountered : 190 
+
+MHS found: [37, 44, 56, 66] of dimension 4
+MHS encountered : 191 
+
+MHS found: [37, 44, 61, 66] of dimension 4
+MHS encountered : 192 
+
+MHS found: [37, 45, 56, 66] of dimension 4
+MHS encountered : 193 
+
+MHS found: [37, 45, 61, 66] of dimension 4
+MHS encountered : 194 
+
+MHS found: [37, 56, 58, 66] of dimension 4
+MHS encountered : 195 
+
+MHS found: [37, 56, 62, 66] of dimension 4
+MHS encountered : 196 
+
+MHS found: [37, 58, 61, 66] of dimension 4
+MHS encountered : 197 
+
+MHS found: [37, 61, 62, 66] of dimension 4
+MHS encountered : 198 
+
+MHS found: [38, 41, 56, 66] of dimension 4
+MHS encountered : 199 
+
+MHS found: [38, 41, 61, 66] of dimension 4
+MHS encountered : 200 
+
+MHS found: [38, 42, 56, 66] of dimension 4
+MHS encountered : 201 
+
+MHS found: [38, 42, 61, 66] of dimension 4
+MHS encountered : 202 
+
+MHS found: [38, 43, 56, 66] of dimension 4
+MHS encountered : 203 
+
+MHS found: [38, 43, 61, 66] of dimension 4
+MHS encountered : 204 
+
+MHS found: [38, 44, 56, 66] of dimension 4
+MHS encountered : 205 
+
+MHS found: [38, 44, 61, 66] of dimension 4
+MHS encountered : 206 
+
+MHS found: [38, 45, 56, 66] of dimension 4
+MHS encountered : 207 
+
+MHS found: [38, 45, 61, 66] of dimension 4
+MHS encountered : 208 
+
+MHS found: [38, 56, 58, 66] of dimension 4
+MHS encountered : 209 
+
+MHS found: [38, 56, 62, 66] of dimension 4
+MHS encountered : 210 
+
+MHS found: [38, 58, 61, 66] of dimension 4
+MHS encountered : 211 
+
+MHS found: [38, 61, 62, 66] of dimension 4
+MHS encountered : 212 
+
+MHS found: [41, 55, 56, 66] of dimension 4
+MHS encountered : 213 
+
+MHS found: [41, 55, 61, 66] of dimension 4
+MHS encountered : 214 
+
+MHS found: [42, 55, 56, 66] of dimension 4
+MHS encountered : 215 
+
+MHS found: [42, 55, 61, 66] of dimension 4
+MHS encountered : 216 
+
+MHS found: [43, 55, 56, 66] of dimension 4
+MHS encountered : 217 
+
+MHS found: [43, 55, 61, 66] of dimension 4
+MHS encountered : 218 
+
+MHS found: [44, 55, 56, 66] of dimension 4
+MHS encountered : 219 
+
+MHS found: [44, 55, 61, 66] of dimension 4
+MHS encountered : 220 
+
+MHS found: [45, 55, 56, 66] of dimension 4
+MHS encountered : 221 
+
+MHS found: [45, 55, 61, 66] of dimension 4
+MHS encountered : 222 
+
+MHS found: [55, 56, 58, 66] of dimension 4
+MHS encountered : 223 
+
+MHS found: [55, 56, 62, 66] of dimension 4
+MHS encountered : 224 
+
+MHS found: [55, 58, 61, 66] of dimension 4
+MHS encountered : 225 
+
+MHS found: [55, 61, 62, 66] of dimension 4
+MHS encountered : 226 
+
+MBASE required 10.487435 seconds to execute 
+ Execution completed 
+
+Rows dropped in pre-processing: [7, 8, 7] 
+
+Columns dropped in preprocessing: [1, 2, 4, 10, 11, 13, 14, 16, 17, 18, 20, 21, 22, 23, 25, 26, 31, 33, 39, 40, 50, 51, 52, 53, 54, 57, 60, 64, 65] 
+
+Preprocessing required 0.000840 seconds to execute 
+
+(|N| = 6, |M| = 37) 
+
+MHS found: [3, 56, 66] of dimension 3
+MHS encountered : 1 
+
+MHS found: [3, 61, 66] of dimension 3
+MHS encountered : 2 
+
+MHS found: [9, 56, 66] of dimension 3
+MHS encountered : 3 
+
+MHS found: [9, 61, 66] of dimension 3
+MHS encountered : 4 
+
+MHS found: [28, 56, 66] of dimension 3
+MHS encountered : 5 
+
+MHS found: [28, 61, 66] of dimension 3
+MHS encountered : 6 
+
+MHS found: [5, 12, 56, 66] of dimension 4
+MHS encountered : 7 
+
+MHS found: [5, 12, 61, 66] of dimension 4
+MHS encountered : 8 
+
+MHS found: [5, 15, 56, 66] of dimension 4
+MHS encountered : 9 
+
+MHS found: [5, 15, 61, 66] of dimension 4
+MHS encountered : 10 
+
+MHS found: [5, 29, 56, 66] of dimension 4
+MHS encountered : 11 
+
+MHS found: [5, 29, 61, 66] of dimension 4
+MHS encountered : 12 
+
+MHS found: [5, 30, 56, 66] of dimension 4
+MHS encountered : 13 
+
+MHS found: [5, 30, 61, 66] of dimension 4
+MHS encountered : 14 
+
+MHS found: [6, 12, 56, 66] of dimension 4
+MHS encountered : 15 
+
+MHS found: [6, 12, 61, 66] of dimension 4
+MHS encountered : 16 
+
+MHS found: [6, 15, 56, 66] of dimension 4
+MHS encountered : 17 
+
+MHS found: [6, 15, 61, 66] of dimension 4
+MHS encountered : 18 
+
+MHS found: [6, 29, 56, 66] of dimension 4
+MHS encountered : 19 
+
+MHS found: [6, 29, 61, 66] of dimension 4
+MHS encountered : 20 
+
+MHS found: [6, 30, 56, 66] of dimension 4
+MHS encountered : 21 
+
+MHS found: [6, 30, 61, 66] of dimension 4
+MHS encountered : 22 
+
+MHS found: [7, 35, 56, 66] of dimension 4
+MHS encountered : 23 
+
+MHS found: [7, 35, 61, 66] of dimension 4
+MHS encountered : 24 
+
+MHS found: [7, 36, 56, 66] of dimension 4
+MHS encountered : 25 
+
+MHS found: [7, 36, 61, 66] of dimension 4
+MHS encountered : 26 
+
+MHS found: [7, 37, 56, 66] of dimension 4
+MHS encountered : 27 
+
+MHS found: [7, 37, 61, 66] of dimension 4
+MHS encountered : 28 
+
+MHS found: [7, 38, 56, 66] of dimension 4
+MHS encountered : 29 
+
+MHS found: [7, 38, 61, 66] of dimension 4
+MHS encountered : 30 
+
+MHS found: [7, 55, 56, 66] of dimension 4
+MHS encountered : 31 
+
+MHS found: [7, 55, 61, 66] of dimension 4
+MHS encountered : 32 
+
+MHS found: [8, 35, 56, 66] of dimension 4
+MHS encountered : 33 
+
+MHS found: [8, 35, 61, 66] of dimension 4
+MHS encountered : 34 
+
+MHS found: [8, 36, 56, 66] of dimension 4
+MHS encountered : 35 
+
+MHS found: [8, 36, 61, 66] of dimension 4
+MHS encountered : 36 
+
+MHS found: [8, 37, 56, 66] of dimension 4
+MHS encountered : 37 
+
+MHS found: [8, 37, 61, 66] of dimension 4
+MHS encountered : 38 
+
+MHS found: [8, 38, 56, 66] of dimension 4
+MHS encountered : 39 
+
+MHS found: [8, 38, 61, 66] of dimension 4
+MHS encountered : 40 
+
+MHS found: [8, 55, 56, 66] of dimension 4
+MHS encountered : 41 
+
+MHS found: [8, 55, 61, 66] of dimension 4
+MHS encountered : 42 
+
+MHS found: [12, 15, 56, 66] of dimension 4
+MHS encountered : 43 
+
+MHS found: [12, 15, 61, 66] of dimension 4
+MHS encountered : 44 
+
+MHS found: [12, 19, 56, 66] of dimension 4
+MHS encountered : 45 
+
+MHS found: [12, 19, 61, 66] of dimension 4
+MHS encountered : 46 
+
+MHS found: [12, 24, 56, 66] of dimension 4
+MHS encountered : 47 
+
+MHS found: [12, 24, 61, 66] of dimension 4
+MHS encountered : 48 
+
+MHS found: [12, 30, 56, 66] of dimension 4
+MHS encountered : 49 
+
+MHS found: [12, 30, 61, 66] of dimension 4
+MHS encountered : 50 
+
+MHS found: [12, 32, 56, 66] of dimension 4
+MHS encountered : 51 
+
+MHS found: [12, 32, 61, 66] of dimension 4
+MHS encountered : 52 
+
+MHS found: [12, 34, 56, 66] of dimension 4
+MHS encountered : 53 
+
+MHS found: [12, 34, 61, 66] of dimension 4
+MHS encountered : 54 
+
+MHS found: [12, 35, 56, 66] of dimension 4
+MHS encountered : 55 
+
+MHS found: [12, 35, 61, 66] of dimension 4
+MHS encountered : 56 
+
+MHS found: [12, 36, 56, 66] of dimension 4
+MHS encountered : 57 
+
+MHS found: [12, 36, 61, 66] of dimension 4
+MHS encountered : 58 
+
+MHS found: [12, 37, 56, 66] of dimension 4
+MHS encountered : 59 
+
+MHS found: [12, 37, 61, 66] of dimension 4
+MHS encountered : 60 
+
+MHS found: [12, 38, 56, 66] of dimension 4
+MHS encountered : 61 
+
+MHS found: [12, 38, 61, 66] of dimension 4
+MHS encountered : 62 
+
+MHS found: [12, 55, 56, 66] of dimension 4
+MHS encountered : 63 
+
+MHS found: [12, 55, 61, 66] of dimension 4
+MHS encountered : 64 
+
+MHS found: [15, 19, 56, 66] of dimension 4
+MHS encountered : 65 
+
+MHS found: [15, 19, 61, 66] of dimension 4
+MHS encountered : 66 
+
+MHS found: [15, 24, 56, 66] of dimension 4
+MHS encountered : 67 
+
+MHS found: [15, 24, 61, 66] of dimension 4
+MHS encountered : 68 
+
+MHS found: [15, 29, 56, 66] of dimension 4
+MHS encountered : 69 
+
+MHS found: [15, 29, 61, 66] of dimension 4
+MHS encountered : 70 
+
+MHS found: [15, 32, 56, 66] of dimension 4
+MHS encountered : 71 
+
+MHS found: [15, 32, 61, 66] of dimension 4
+MHS encountered : 72 
+
+MHS found: [15, 34, 56, 66] of dimension 4
+MHS encountered : 73 
+
+MHS found: [15, 34, 61, 66] of dimension 4
+MHS encountered : 74 
+
+MHS found: [15, 35, 56, 66] of dimension 4
+MHS encountered : 75 
+
+MHS found: [15, 35, 61, 66] of dimension 4
+MHS encountered : 76 
+
+MHS found: [15, 36, 56, 66] of dimension 4
+MHS encountered : 77 
+
+MHS found: [15, 36, 61, 66] of dimension 4
+MHS encountered : 78 
+
+MHS found: [15, 37, 56, 66] of dimension 4
+MHS encountered : 79 
+
+MHS found: [15, 37, 61, 66] of dimension 4
+MHS encountered : 80 
+
+MHS found: [15, 38, 56, 66] of dimension 4
+MHS encountered : 81 
+
+MHS found: [15, 38, 61, 66] of dimension 4
+MHS encountered : 82 
+
+MHS found: [15, 46, 56, 66] of dimension 4
+MHS encountered : 83 
+
+MHS found: [15, 46, 61, 66] of dimension 4
+MHS encountered : 84 
+
+MHS found: [15, 47, 56, 66] of dimension 4
+MHS encountered : 85 
+
+MHS found: [15, 47, 61, 66] of dimension 4
+MHS encountered : 86 
+
+MHS found: [15, 48, 56, 66] of dimension 4
+MHS encountered : 87 
+
+MHS found: [15, 48, 61, 66] of dimension 4
+MHS encountered : 88 
+
+MHS found: [15, 49, 56, 66] of dimension 4
+MHS encountered : 89 
+
+MHS found: [15, 49, 61, 66] of dimension 4
+MHS encountered : 90 
+
+MHS found: [15, 55, 56, 66] of dimension 4
+MHS encountered : 91 
+
+MHS found: [15, 55, 61, 66] of dimension 4
+MHS encountered : 92 
+
+MHS found: [15, 56, 59, 66] of dimension 4
+MHS encountered : 93 
+
+MHS found: [15, 56, 63, 66] of dimension 4
+MHS encountered : 94 
+
+MHS found: [15, 59, 61, 66] of dimension 4
+MHS encountered : 95 
+
+MHS found: [15, 61, 63, 66] of dimension 4
+MHS encountered : 96 
+
+MHS found: [19, 29, 56, 66] of dimension 4
+MHS encountered : 97 
+
+MHS found: [19, 29, 61, 66] of dimension 4
+MHS encountered : 98 
+
+MHS found: [19, 30, 56, 66] of dimension 4
+MHS encountered : 99 
+
+MHS found: [19, 30, 61, 66] of dimension 4
+MHS encountered : 100 
+
+MHS found: [24, 29, 56, 66] of dimension 4
+MHS encountered : 101 
+
+MHS found: [24, 29, 61, 66] of dimension 4
+MHS encountered : 102 
+
+MHS found: [24, 30, 56, 66] of dimension 4
+MHS encountered : 103 
+
+MHS found: [24, 30, 61, 66] of dimension 4
+MHS encountered : 104 
+
+MHS found: [27, 35, 56, 66] of dimension 4
+MHS encountered : 105 
+
+MHS found: [27, 35, 61, 66] of dimension 4
+MHS encountered : 106 
+
+MHS found: [27, 36, 56, 66] of dimension 4
+MHS encountered : 107 
+
+MHS found: [27, 36, 61, 66] of dimension 4
+MHS encountered : 108 
+
+MHS found: [27, 37, 56, 66] of dimension 4
+MHS encountered : 109 
+
+MHS found: [27, 37, 61, 66] of dimension 4
+MHS encountered : 110 
+
+MHS found: [27, 38, 56, 66] of dimension 4
+MHS encountered : 111 
+
+MHS found: [27, 38, 61, 66] of dimension 4
+MHS encountered : 112 
+
+MHS found: [27, 55, 56, 66] of dimension 4
+MHS encountered : 113 
+
+MHS found: [27, 55, 61, 66] of dimension 4
+MHS encountered : 114 
+
+MHS found: [29, 30, 56, 66] of dimension 4
+MHS encountered : 115 
+
+MHS found: [29, 30, 61, 66] of dimension 4
+MHS encountered : 116 
+
+MHS found: [29, 32, 56, 66] of dimension 4
+MHS encountered : 117 
+
+MHS found: [29, 32, 61, 66] of dimension 4
+MHS encountered : 118 
+
+MHS found: [29, 34, 56, 66] of dimension 4
+MHS encountered : 119 
+
+MHS found: [29, 34, 61, 66] of dimension 4
+MHS encountered : 120 
+
+MHS found: [29, 35, 56, 66] of dimension 4
+MHS encountered : 121 
+
+MHS found: [29, 35, 61, 66] of dimension 4
+MHS encountered : 122 
+
+MHS found: [29, 36, 56, 66] of dimension 4
+MHS encountered : 123 
+
+MHS found: [29, 36, 61, 66] of dimension 4
+MHS encountered : 124 
+
+MHS found: [29, 37, 56, 66] of dimension 4
+MHS encountered : 125 
+
+MHS found: [29, 37, 61, 66] of dimension 4
+MHS encountered : 126 
+
+MHS found: [29, 38, 56, 66] of dimension 4
+MHS encountered : 127 
+
+MHS found: [29, 38, 61, 66] of dimension 4
+MHS encountered : 128 
+
+MHS found: [29, 55, 56, 66] of dimension 4
+MHS encountered : 129 
+
+MHS found: [29, 55, 61, 66] of dimension 4
+MHS encountered : 130 
+
+MHS found: [30, 32, 56, 66] of dimension 4
+MHS encountered : 131 
+
+MHS found: [30, 32, 61, 66] of dimension 4
+MHS encountered : 132 
+
+MHS found: [30, 34, 56, 66] of dimension 4
+MHS encountered : 133 
+
+MHS found: [30, 34, 61, 66] of dimension 4
+MHS encountered : 134 
+
+MHS found: [30, 35, 56, 66] of dimension 4
+MHS encountered : 135 
+
+MHS found: [30, 35, 61, 66] of dimension 4
+MHS encountered : 136 
+
+MHS found: [30, 36, 56, 66] of dimension 4
+MHS encountered : 137 
+
+MHS found: [30, 36, 61, 66] of dimension 4
+MHS encountered : 138 
+
+MHS found: [30, 37, 56, 66] of dimension 4
+MHS encountered : 139 
+
+MHS found: [30, 37, 61, 66] of dimension 4
+MHS encountered : 140 
+
+MHS found: [30, 38, 56, 66] of dimension 4
+MHS encountered : 141 
+
+MHS found: [30, 38, 61, 66] of dimension 4
+MHS encountered : 142 
+
+MHS found: [30, 46, 56, 66] of dimension 4
+MHS encountered : 143 
+
+MHS found: [30, 46, 61, 66] of dimension 4
+MHS encountered : 144 
+
+MHS found: [30, 47, 56, 66] of dimension 4
+MHS encountered : 145 
+
+MHS found: [30, 47, 61, 66] of dimension 4
+MHS encountered : 146 
+
+MHS found: [30, 48, 56, 66] of dimension 4
+MHS encountered : 147 
+
+MHS found: [30, 48, 61, 66] of dimension 4
+MHS encountered : 148 
+
+MHS found: [30, 49, 56, 66] of dimension 4
+MHS encountered : 149 
+
+MHS found: [30, 49, 61, 66] of dimension 4
+MHS encountered : 150 
+
+MHS found: [30, 55, 56, 66] of dimension 4
+MHS encountered : 151 
+
+MHS found: [30, 55, 61, 66] of dimension 4
+MHS encountered : 152 
+
+MHS found: [30, 56, 59, 66] of dimension 4
+MHS encountered : 153 
+
+MHS found: [30, 56, 63, 66] of dimension 4
+MHS encountered : 154 
+
+MHS found: [30, 59, 61, 66] of dimension 4
+MHS encountered : 155 
+
+MHS found: [30, 61, 63, 66] of dimension 4
+MHS encountered : 156 
+
+MHS found: [35, 41, 56, 66] of dimension 4
+MHS encountered : 157 
+
+MHS found: [35, 41, 61, 66] of dimension 4
+MHS encountered : 158 
+
+MHS found: [35, 42, 56, 66] of dimension 4
+MHS encountered : 159 
+
+MHS found: [35, 42, 61, 66] of dimension 4
+MHS encountered : 160 
+
+MHS found: [35, 43, 56, 66] of dimension 4
+MHS encountered : 161 
+
+MHS found: [35, 43, 61, 66] of dimension 4
+MHS encountered : 162 
+
+MHS found: [35, 44, 56, 66] of dimension 4
+MHS encountered : 163 
+
+MHS found: [35, 44, 61, 66] of dimension 4
+MHS encountered : 164 
+
+MHS found: [35, 45, 56, 66] of dimension 4
+MHS encountered : 165 
+
+MHS found: [35, 45, 61, 66] of dimension 4
+MHS encountered : 166 
+
+MHS found: [35, 56, 58, 66] of dimension 4
+MHS encountered : 167 
+
+MHS found: [35, 56, 62, 66] of dimension 4
+MHS encountered : 168 
+
+MHS found: [35, 58, 61, 66] of dimension 4
+MHS encountered : 169 
+
+MHS found: [35, 61, 62, 66] of dimension 4
+MHS encountered : 170 
+
+MHS found: [36, 41, 56, 66] of dimension 4
+MHS encountered : 171 
+
+MHS found: [36, 41, 61, 66] of dimension 4
+MHS encountered : 172 
+
+MHS found: [36, 42, 56, 66] of dimension 4
+MHS encountered : 173 
+
+MHS found: [36, 42, 61, 66] of dimension 4
+MHS encountered : 174 
+
+MHS found: [36, 43, 56, 66] of dimension 4
+MHS encountered : 175 
+
+MHS found: [36, 43, 61, 66] of dimension 4
+MHS encountered : 176 
+
+MHS found: [36, 44, 56, 66] of dimension 4
+MHS encountered : 177 
+
+MHS found: [36, 44, 61, 66] of dimension 4
+MHS encountered : 178 
+
+MHS found: [36, 45, 56, 66] of dimension 4
+MHS encountered : 179 
+
+MHS found: [36, 45, 61, 66] of dimension 4
+MHS encountered : 180 
+
+MHS found: [36, 56, 58, 66] of dimension 4
+MHS encountered : 181 
+
+MHS found: [36, 56, 62, 66] of dimension 4
+MHS encountered : 182 
+
+MHS found: [36, 58, 61, 66] of dimension 4
+MHS encountered : 183 
+
+MHS found: [36, 61, 62, 66] of dimension 4
+MHS encountered : 184 
+
+MHS found: [37, 41, 56, 66] of dimension 4
+MHS encountered : 185 
+
+MHS found: [37, 41, 61, 66] of dimension 4
+MHS encountered : 186 
+
+MHS found: [37, 42, 56, 66] of dimension 4
+MHS encountered : 187 
+
+MHS found: [37, 42, 61, 66] of dimension 4
+MHS encountered : 188 
+
+MHS found: [37, 43, 56, 66] of dimension 4
+MHS encountered : 189 
+
+MHS found: [37, 43, 61, 66] of dimension 4
+MHS encountered : 190 
+
+MHS found: [37, 44, 56, 66] of dimension 4
+MHS encountered : 191 
+
+MHS found: [37, 44, 61, 66] of dimension 4
+MHS encountered : 192 
+
+MHS found: [37, 45, 56, 66] of dimension 4
+MHS encountered : 193 
+
+MHS found: [37, 45, 61, 66] of dimension 4
+MHS encountered : 194 
+
+MHS found: [37, 56, 58, 66] of dimension 4
+MHS encountered : 195 
+
+MHS found: [37, 56, 62, 66] of dimension 4
+MHS encountered : 196 
+
+MHS found: [37, 58, 61, 66] of dimension 4
+MHS encountered : 197 
+
+MHS found: [37, 61, 62, 66] of dimension 4
+MHS encountered : 198 
+
+MHS found: [38, 41, 56, 66] of dimension 4
+MHS encountered : 199 
+
+MHS found: [38, 41, 61, 66] of dimension 4
+MHS encountered : 200 
+
+MHS found: [38, 42, 56, 66] of dimension 4
+MHS encountered : 201 
+
+MHS found: [38, 42, 61, 66] of dimension 4
+MHS encountered : 202 
+
+MHS found: [38, 43, 56, 66] of dimension 4
+MHS encountered : 203 
+
+MHS found: [38, 43, 61, 66] of dimension 4
+MHS encountered : 204 
+
+MHS found: [38, 44, 56, 66] of dimension 4
+MHS encountered : 205 
+
+MHS found: [38, 44, 61, 66] of dimension 4
+MHS encountered : 206 
+
+MHS found: [38, 45, 56, 66] of dimension 4
+MHS encountered : 207 
+
+MHS found: [38, 45, 61, 66] of dimension 4
+MHS encountered : 208 
+
+MHS found: [38, 56, 58, 66] of dimension 4
+MHS encountered : 209 
+
+MHS found: [38, 56, 62, 66] of dimension 4
+MHS encountered : 210 
+
+MHS found: [38, 58, 61, 66] of dimension 4
+MHS encountered : 211 
+
+MHS found: [38, 61, 62, 66] of dimension 4
+MHS encountered : 212 
+
+MHS found: [41, 55, 56, 66] of dimension 4
+MHS encountered : 213 
+
+MHS found: [41, 55, 61, 66] of dimension 4
+MHS encountered : 214 
+
+MHS found: [42, 55, 56, 66] of dimension 4
+MHS encountered : 215 
+
+MHS found: [42, 55, 61, 66] of dimension 4
+MHS encountered : 216 
+
+MHS found: [43, 55, 56, 66] of dimension 4
+MHS encountered : 217 
+
+MHS found: [43, 55, 61, 66] of dimension 4
+MHS encountered : 218 
+
+MHS found: [44, 55, 56, 66] of dimension 4
+MHS encountered : 219 
+
+MHS found: [44, 55, 61, 66] of dimension 4
+MHS encountered : 220 
+
+MHS found: [45, 55, 56, 66] of dimension 4
+MHS encountered : 221 
+
+MHS found: [45, 55, 61, 66] of dimension 4
+MHS encountered : 222 
+
+MHS found: [55, 56, 58, 66] of dimension 4
+MHS encountered : 223 
+
+MHS found: [55, 56, 62, 66] of dimension 4
+MHS encountered : 224 
+
+MHS found: [55, 58, 61, 66] of dimension 4
+MHS encountered : 225 
+
+MHS found: [55, 61, 62, 66] of dimension 4
+MHS encountered : 226 
+
+MBASE required 0.678071 seconds to execute 
+ Execution completed 
+
