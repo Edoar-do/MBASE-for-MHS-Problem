@@ -127,6 +127,11 @@ def getSingletonRepresentativeMatrix(A):
     return A
 
 def del_rows(A):
+    '''
+    funzione che cancella le righe di A che specificano per insiemi che sono super-insiemi di altri insiemi in A
+    :param A matrice in ingresso
+    :return la matrice A privata delle righe sopracitate
+    '''
     toBeRemoved = []
     i = 0
     while i <= A.shape[0]-2:
@@ -144,6 +149,11 @@ def del_rows(A):
     return np.delete(A, toBeRemoved, axis=0)
 
 def del_cols(A):
+    '''
+    funzione che cancella colonne interamente nulle da A
+    :param A matrice in ingresso dopo la cancellazione delle righe per mezzo di del_cols (nessun controllo in merito a questa precedenza)
+    :return la matrice A' dopo la cancellazione di righe e colonne
+    '''
     zeroCols =(~np.all(A==0, axis=0)).tolist()
     indecesRemoved = []
     for i in range(len(zeroCols)):

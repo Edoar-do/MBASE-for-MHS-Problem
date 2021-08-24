@@ -1,0 +1,5142 @@
+Insert filename: 
+c432.000.matrix
+(|N| = 4, |M| = 161) 
+
+MHS found: [161] of dimension 1
+MHS encountered : 1 
+
+MHS found: [49, 65] of dimension 2
+MHS encountered : 2 
+
+MHS found: [49, 98] of dimension 2
+MHS encountered : 3 
+
+MHS found: [49, 99] of dimension 2
+MHS encountered : 4 
+
+MHS found: [49, 114] of dimension 2
+MHS encountered : 5 
+
+MHS found: [49, 135] of dimension 2
+MHS encountered : 6 
+
+MHS found: [49, 141] of dimension 2
+MHS encountered : 7 
+
+MHS found: [49, 144] of dimension 2
+MHS encountered : 8 
+
+MHS found: [49, 150] of dimension 2
+MHS encountered : 9 
+
+MHS found: [49, 151] of dimension 2
+MHS encountered : 10 
+
+MHS found: [49, 155] of dimension 2
+MHS encountered : 11 
+
+MHS found: [49, 156] of dimension 2
+MHS encountered : 12 
+
+MHS found: [49, 159] of dimension 2
+MHS encountered : 13 
+
+MHS found: [50, 65] of dimension 2
+MHS encountered : 14 
+
+MHS found: [50, 98] of dimension 2
+MHS encountered : 15 
+
+MHS found: [50, 114] of dimension 2
+MHS encountered : 16 
+
+MHS found: [50, 135] of dimension 2
+MHS encountered : 17 
+
+MHS found: [50, 141] of dimension 2
+MHS encountered : 18 
+
+MHS found: [50, 144] of dimension 2
+MHS encountered : 19 
+
+MHS found: [50, 151] of dimension 2
+MHS encountered : 20 
+
+MHS found: [50, 156] of dimension 2
+MHS encountered : 21 
+
+MHS found: [65, 66] of dimension 2
+MHS encountered : 22 
+
+MHS found: [65, 145] of dimension 2
+MHS encountered : 23 
+
+MHS found: [65, 152] of dimension 2
+MHS encountered : 24 
+
+MHS found: [65, 157] of dimension 2
+MHS encountered : 25 
+
+MHS found: [65, 160] of dimension 2
+MHS encountered : 26 
+
+MHS found: [66, 98] of dimension 2
+MHS encountered : 27 
+
+MHS found: [66, 114] of dimension 2
+MHS encountered : 28 
+
+MHS found: [66, 135] of dimension 2
+MHS encountered : 29 
+
+MHS found: [66, 141] of dimension 2
+MHS encountered : 30 
+
+MHS found: [66, 144] of dimension 2
+MHS encountered : 31 
+
+MHS found: [66, 151] of dimension 2
+MHS encountered : 32 
+
+MHS found: [66, 156] of dimension 2
+MHS encountered : 33 
+
+MHS found: [98, 145] of dimension 2
+MHS encountered : 34 
+
+MHS found: [98, 152] of dimension 2
+MHS encountered : 35 
+
+MHS found: [98, 157] of dimension 2
+MHS encountered : 36 
+
+MHS found: [98, 160] of dimension 2
+MHS encountered : 37 
+
+MHS found: [114, 145] of dimension 2
+MHS encountered : 38 
+
+MHS found: [114, 152] of dimension 2
+MHS encountered : 39 
+
+MHS found: [114, 157] of dimension 2
+MHS encountered : 40 
+
+MHS found: [114, 160] of dimension 2
+MHS encountered : 41 
+
+MHS found: [135, 145] of dimension 2
+MHS encountered : 42 
+
+MHS found: [135, 152] of dimension 2
+MHS encountered : 43 
+
+MHS found: [135, 157] of dimension 2
+MHS encountered : 44 
+
+MHS found: [135, 160] of dimension 2
+MHS encountered : 45 
+
+MHS found: [141, 145] of dimension 2
+MHS encountered : 46 
+
+MHS found: [141, 152] of dimension 2
+MHS encountered : 47 
+
+MHS found: [141, 157] of dimension 2
+MHS encountered : 48 
+
+MHS found: [141, 159] of dimension 2
+MHS encountered : 49 
+
+MHS found: [141, 160] of dimension 2
+MHS encountered : 50 
+
+MHS found: [144, 145] of dimension 2
+MHS encountered : 51 
+
+MHS found: [144, 152] of dimension 2
+MHS encountered : 52 
+
+MHS found: [144, 157] of dimension 2
+MHS encountered : 53 
+
+MHS found: [144, 160] of dimension 2
+MHS encountered : 54 
+
+MHS found: [145, 151] of dimension 2
+MHS encountered : 55 
+
+MHS found: [145, 156] of dimension 2
+MHS encountered : 56 
+
+MHS found: [151, 152] of dimension 2
+MHS encountered : 57 
+
+MHS found: [151, 157] of dimension 2
+MHS encountered : 58 
+
+MHS found: [151, 160] of dimension 2
+MHS encountered : 59 
+
+MHS found: [152, 156] of dimension 2
+MHS encountered : 60 
+
+MHS found: [156, 157] of dimension 2
+MHS encountered : 61 
+
+MHS found: [156, 160] of dimension 2
+MHS encountered : 62 
+
+MHS found: [4, 50, 99] of dimension 3
+MHS encountered : 63 
+
+MHS found: [4, 50, 150] of dimension 3
+MHS encountered : 64 
+
+MHS found: [4, 50, 155] of dimension 3
+MHS encountered : 65 
+
+MHS found: [4, 50, 159] of dimension 3
+MHS encountered : 66 
+
+MHS found: [4, 66, 99] of dimension 3
+MHS encountered : 67 
+
+MHS found: [4, 66, 150] of dimension 3
+MHS encountered : 68 
+
+MHS found: [4, 66, 155] of dimension 3
+MHS encountered : 69 
+
+MHS found: [4, 66, 159] of dimension 3
+MHS encountered : 70 
+
+MHS found: [4, 99, 145] of dimension 3
+MHS encountered : 71 
+
+MHS found: [4, 99, 152] of dimension 3
+MHS encountered : 72 
+
+MHS found: [4, 99, 157] of dimension 3
+MHS encountered : 73 
+
+MHS found: [4, 99, 160] of dimension 3
+MHS encountered : 74 
+
+MHS found: [4, 145, 150] of dimension 3
+MHS encountered : 75 
+
+MHS found: [4, 145, 155] of dimension 3
+MHS encountered : 76 
+
+MHS found: [4, 145, 159] of dimension 3
+MHS encountered : 77 
+
+MHS found: [4, 150, 152] of dimension 3
+MHS encountered : 78 
+
+MHS found: [4, 150, 157] of dimension 3
+MHS encountered : 79 
+
+MHS found: [4, 150, 160] of dimension 3
+MHS encountered : 80 
+
+MHS found: [4, 152, 155] of dimension 3
+MHS encountered : 81 
+
+MHS found: [4, 152, 159] of dimension 3
+MHS encountered : 82 
+
+MHS found: [4, 155, 157] of dimension 3
+MHS encountered : 83 
+
+MHS found: [4, 155, 160] of dimension 3
+MHS encountered : 84 
+
+MHS found: [4, 157, 159] of dimension 3
+MHS encountered : 85 
+
+MHS found: [4, 159, 160] of dimension 3
+MHS encountered : 86 
+
+MHS found: [8, 50, 99] of dimension 3
+MHS encountered : 87 
+
+MHS found: [8, 50, 150] of dimension 3
+MHS encountered : 88 
+
+MHS found: [8, 50, 155] of dimension 3
+MHS encountered : 89 
+
+MHS found: [8, 50, 159] of dimension 3
+MHS encountered : 90 
+
+MHS found: [8, 66, 99] of dimension 3
+MHS encountered : 91 
+
+MHS found: [8, 66, 150] of dimension 3
+MHS encountered : 92 
+
+MHS found: [8, 66, 155] of dimension 3
+MHS encountered : 93 
+
+MHS found: [8, 66, 159] of dimension 3
+MHS encountered : 94 
+
+MHS found: [8, 99, 145] of dimension 3
+MHS encountered : 95 
+
+MHS found: [8, 99, 152] of dimension 3
+MHS encountered : 96 
+
+MHS found: [8, 99, 157] of dimension 3
+MHS encountered : 97 
+
+MHS found: [8, 99, 160] of dimension 3
+MHS encountered : 98 
+
+MHS found: [8, 145, 150] of dimension 3
+MHS encountered : 99 
+
+MHS found: [8, 145, 155] of dimension 3
+MHS encountered : 100 
+
+MHS found: [8, 145, 159] of dimension 3
+MHS encountered : 101 
+
+MHS found: [8, 150, 152] of dimension 3
+MHS encountered : 102 
+
+MHS found: [8, 150, 157] of dimension 3
+MHS encountered : 103 
+
+MHS found: [8, 150, 160] of dimension 3
+MHS encountered : 104 
+
+MHS found: [8, 152, 155] of dimension 3
+MHS encountered : 105 
+
+MHS found: [8, 152, 159] of dimension 3
+MHS encountered : 106 
+
+MHS found: [8, 155, 157] of dimension 3
+MHS encountered : 107 
+
+MHS found: [8, 155, 160] of dimension 3
+MHS encountered : 108 
+
+MHS found: [8, 157, 159] of dimension 3
+MHS encountered : 109 
+
+MHS found: [8, 159, 160] of dimension 3
+MHS encountered : 110 
+
+MHS found: [10, 50, 99] of dimension 3
+MHS encountered : 111 
+
+MHS found: [10, 50, 150] of dimension 3
+MHS encountered : 112 
+
+MHS found: [10, 50, 155] of dimension 3
+MHS encountered : 113 
+
+MHS found: [10, 50, 159] of dimension 3
+MHS encountered : 114 
+
+MHS found: [10, 66, 99] of dimension 3
+MHS encountered : 115 
+
+MHS found: [10, 66, 150] of dimension 3
+MHS encountered : 116 
+
+MHS found: [10, 66, 155] of dimension 3
+MHS encountered : 117 
+
+MHS found: [10, 66, 159] of dimension 3
+MHS encountered : 118 
+
+MHS found: [10, 99, 145] of dimension 3
+MHS encountered : 119 
+
+MHS found: [10, 99, 152] of dimension 3
+MHS encountered : 120 
+
+MHS found: [10, 99, 157] of dimension 3
+MHS encountered : 121 
+
+MHS found: [10, 99, 160] of dimension 3
+MHS encountered : 122 
+
+MHS found: [10, 145, 150] of dimension 3
+MHS encountered : 123 
+
+MHS found: [10, 145, 155] of dimension 3
+MHS encountered : 124 
+
+MHS found: [10, 145, 159] of dimension 3
+MHS encountered : 125 
+
+MHS found: [10, 150, 152] of dimension 3
+MHS encountered : 126 
+
+MHS found: [10, 150, 157] of dimension 3
+MHS encountered : 127 
+
+MHS found: [10, 150, 160] of dimension 3
+MHS encountered : 128 
+
+MHS found: [10, 152, 155] of dimension 3
+MHS encountered : 129 
+
+MHS found: [10, 152, 159] of dimension 3
+MHS encountered : 130 
+
+MHS found: [10, 155, 157] of dimension 3
+MHS encountered : 131 
+
+MHS found: [10, 155, 160] of dimension 3
+MHS encountered : 132 
+
+MHS found: [10, 157, 159] of dimension 3
+MHS encountered : 133 
+
+MHS found: [10, 159, 160] of dimension 3
+MHS encountered : 134 
+
+MHS found: [12, 50, 99] of dimension 3
+MHS encountered : 135 
+
+MHS found: [12, 50, 150] of dimension 3
+MHS encountered : 136 
+
+MHS found: [12, 50, 155] of dimension 3
+MHS encountered : 137 
+
+MHS found: [12, 50, 159] of dimension 3
+MHS encountered : 138 
+
+MHS found: [12, 66, 99] of dimension 3
+MHS encountered : 139 
+
+MHS found: [12, 66, 150] of dimension 3
+MHS encountered : 140 
+
+MHS found: [12, 66, 155] of dimension 3
+MHS encountered : 141 
+
+MHS found: [12, 66, 159] of dimension 3
+MHS encountered : 142 
+
+MHS found: [12, 99, 145] of dimension 3
+MHS encountered : 143 
+
+MHS found: [12, 99, 152] of dimension 3
+MHS encountered : 144 
+
+MHS found: [12, 99, 157] of dimension 3
+MHS encountered : 145 
+
+MHS found: [12, 99, 160] of dimension 3
+MHS encountered : 146 
+
+MHS found: [12, 145, 150] of dimension 3
+MHS encountered : 147 
+
+MHS found: [12, 145, 155] of dimension 3
+MHS encountered : 148 
+
+MHS found: [12, 145, 159] of dimension 3
+MHS encountered : 149 
+
+MHS found: [12, 150, 152] of dimension 3
+MHS encountered : 150 
+
+MHS found: [12, 150, 157] of dimension 3
+MHS encountered : 151 
+
+MHS found: [12, 150, 160] of dimension 3
+MHS encountered : 152 
+
+MHS found: [12, 152, 155] of dimension 3
+MHS encountered : 153 
+
+MHS found: [12, 152, 159] of dimension 3
+MHS encountered : 154 
+
+MHS found: [12, 155, 157] of dimension 3
+MHS encountered : 155 
+
+MHS found: [12, 155, 160] of dimension 3
+MHS encountered : 156 
+
+MHS found: [12, 157, 159] of dimension 3
+MHS encountered : 157 
+
+MHS found: [12, 159, 160] of dimension 3
+MHS encountered : 158 
+
+MHS found: [21, 50, 99] of dimension 3
+MHS encountered : 159 
+
+MHS found: [21, 50, 150] of dimension 3
+MHS encountered : 160 
+
+MHS found: [21, 50, 155] of dimension 3
+MHS encountered : 161 
+
+MHS found: [21, 50, 159] of dimension 3
+MHS encountered : 162 
+
+MHS found: [21, 66, 99] of dimension 3
+MHS encountered : 163 
+
+MHS found: [21, 66, 150] of dimension 3
+MHS encountered : 164 
+
+MHS found: [21, 66, 155] of dimension 3
+MHS encountered : 165 
+
+MHS found: [21, 66, 159] of dimension 3
+MHS encountered : 166 
+
+MHS found: [21, 99, 145] of dimension 3
+MHS encountered : 167 
+
+MHS found: [21, 99, 152] of dimension 3
+MHS encountered : 168 
+
+MHS found: [21, 99, 157] of dimension 3
+MHS encountered : 169 
+
+MHS found: [21, 99, 160] of dimension 3
+MHS encountered : 170 
+
+MHS found: [21, 145, 150] of dimension 3
+MHS encountered : 171 
+
+MHS found: [21, 145, 155] of dimension 3
+MHS encountered : 172 
+
+MHS found: [21, 145, 159] of dimension 3
+MHS encountered : 173 
+
+MHS found: [21, 150, 152] of dimension 3
+MHS encountered : 174 
+
+MHS found: [21, 150, 157] of dimension 3
+MHS encountered : 175 
+
+MHS found: [21, 150, 160] of dimension 3
+MHS encountered : 176 
+
+MHS found: [21, 152, 155] of dimension 3
+MHS encountered : 177 
+
+MHS found: [21, 152, 159] of dimension 3
+MHS encountered : 178 
+
+MHS found: [21, 155, 157] of dimension 3
+MHS encountered : 179 
+
+MHS found: [21, 155, 160] of dimension 3
+MHS encountered : 180 
+
+MHS found: [21, 157, 159] of dimension 3
+MHS encountered : 181 
+
+MHS found: [21, 159, 160] of dimension 3
+MHS encountered : 182 
+
+MHS found: [23, 50, 99] of dimension 3
+MHS encountered : 183 
+
+MHS found: [23, 50, 150] of dimension 3
+MHS encountered : 184 
+
+MHS found: [23, 50, 155] of dimension 3
+MHS encountered : 185 
+
+MHS found: [23, 50, 159] of dimension 3
+MHS encountered : 186 
+
+MHS found: [23, 66, 99] of dimension 3
+MHS encountered : 187 
+
+MHS found: [23, 66, 150] of dimension 3
+MHS encountered : 188 
+
+MHS found: [23, 66, 155] of dimension 3
+MHS encountered : 189 
+
+MHS found: [23, 66, 159] of dimension 3
+MHS encountered : 190 
+
+MHS found: [23, 99, 145] of dimension 3
+MHS encountered : 191 
+
+MHS found: [23, 99, 152] of dimension 3
+MHS encountered : 192 
+
+MHS found: [23, 99, 157] of dimension 3
+MHS encountered : 193 
+
+MHS found: [23, 99, 160] of dimension 3
+MHS encountered : 194 
+
+MHS found: [23, 145, 150] of dimension 3
+MHS encountered : 195 
+
+MHS found: [23, 145, 155] of dimension 3
+MHS encountered : 196 
+
+MHS found: [23, 145, 159] of dimension 3
+MHS encountered : 197 
+
+MHS found: [23, 150, 152] of dimension 3
+MHS encountered : 198 
+
+MHS found: [23, 150, 157] of dimension 3
+MHS encountered : 199 
+
+MHS found: [23, 150, 160] of dimension 3
+MHS encountered : 200 
+
+MHS found: [23, 152, 155] of dimension 3
+MHS encountered : 201 
+
+MHS found: [23, 152, 159] of dimension 3
+MHS encountered : 202 
+
+MHS found: [23, 155, 157] of dimension 3
+MHS encountered : 203 
+
+MHS found: [23, 155, 160] of dimension 3
+MHS encountered : 204 
+
+MHS found: [23, 157, 159] of dimension 3
+MHS encountered : 205 
+
+MHS found: [23, 159, 160] of dimension 3
+MHS encountered : 206 
+
+MHS found: [25, 50, 99] of dimension 3
+MHS encountered : 207 
+
+MHS found: [25, 50, 150] of dimension 3
+MHS encountered : 208 
+
+MHS found: [25, 50, 155] of dimension 3
+MHS encountered : 209 
+
+MHS found: [25, 50, 159] of dimension 3
+MHS encountered : 210 
+
+MHS found: [25, 66, 99] of dimension 3
+MHS encountered : 211 
+
+MHS found: [25, 66, 150] of dimension 3
+MHS encountered : 212 
+
+MHS found: [25, 66, 155] of dimension 3
+MHS encountered : 213 
+
+MHS found: [25, 66, 159] of dimension 3
+MHS encountered : 214 
+
+MHS found: [25, 99, 145] of dimension 3
+MHS encountered : 215 
+
+MHS found: [25, 99, 152] of dimension 3
+MHS encountered : 216 
+
+MHS found: [25, 99, 157] of dimension 3
+MHS encountered : 217 
+
+MHS found: [25, 99, 160] of dimension 3
+MHS encountered : 218 
+
+MHS found: [25, 145, 150] of dimension 3
+MHS encountered : 219 
+
+MHS found: [25, 145, 155] of dimension 3
+MHS encountered : 220 
+
+MHS found: [25, 145, 159] of dimension 3
+MHS encountered : 221 
+
+MHS found: [25, 150, 152] of dimension 3
+MHS encountered : 222 
+
+MHS found: [25, 150, 157] of dimension 3
+MHS encountered : 223 
+
+MHS found: [25, 150, 160] of dimension 3
+MHS encountered : 224 
+
+MHS found: [25, 152, 155] of dimension 3
+MHS encountered : 225 
+
+MHS found: [25, 152, 159] of dimension 3
+MHS encountered : 226 
+
+MHS found: [25, 155, 157] of dimension 3
+MHS encountered : 227 
+
+MHS found: [25, 155, 160] of dimension 3
+MHS encountered : 228 
+
+MHS found: [25, 157, 159] of dimension 3
+MHS encountered : 229 
+
+MHS found: [25, 159, 160] of dimension 3
+MHS encountered : 230 
+
+MHS found: [26, 50, 99] of dimension 3
+MHS encountered : 231 
+
+MHS found: [26, 50, 150] of dimension 3
+MHS encountered : 232 
+
+MHS found: [26, 50, 155] of dimension 3
+MHS encountered : 233 
+
+MHS found: [26, 50, 159] of dimension 3
+MHS encountered : 234 
+
+MHS found: [26, 66, 99] of dimension 3
+MHS encountered : 235 
+
+MHS found: [26, 66, 150] of dimension 3
+MHS encountered : 236 
+
+MHS found: [26, 66, 155] of dimension 3
+MHS encountered : 237 
+
+MHS found: [26, 66, 159] of dimension 3
+MHS encountered : 238 
+
+MHS found: [26, 99, 145] of dimension 3
+MHS encountered : 239 
+
+MHS found: [26, 99, 152] of dimension 3
+MHS encountered : 240 
+
+MHS found: [26, 99, 157] of dimension 3
+MHS encountered : 241 
+
+MHS found: [26, 99, 160] of dimension 3
+MHS encountered : 242 
+
+MHS found: [26, 145, 150] of dimension 3
+MHS encountered : 243 
+
+MHS found: [26, 145, 155] of dimension 3
+MHS encountered : 244 
+
+MHS found: [26, 145, 159] of dimension 3
+MHS encountered : 245 
+
+MHS found: [26, 150, 152] of dimension 3
+MHS encountered : 246 
+
+MHS found: [26, 150, 157] of dimension 3
+MHS encountered : 247 
+
+MHS found: [26, 150, 160] of dimension 3
+MHS encountered : 248 
+
+MHS found: [26, 152, 155] of dimension 3
+MHS encountered : 249 
+
+MHS found: [26, 152, 159] of dimension 3
+MHS encountered : 250 
+
+MHS found: [26, 155, 157] of dimension 3
+MHS encountered : 251 
+
+MHS found: [26, 155, 160] of dimension 3
+MHS encountered : 252 
+
+MHS found: [26, 157, 159] of dimension 3
+MHS encountered : 253 
+
+MHS found: [26, 159, 160] of dimension 3
+MHS encountered : 254 
+
+MHS found: [27, 50, 99] of dimension 3
+MHS encountered : 255 
+
+MHS found: [27, 50, 150] of dimension 3
+MHS encountered : 256 
+
+MHS found: [27, 50, 155] of dimension 3
+MHS encountered : 257 
+
+MHS found: [27, 50, 159] of dimension 3
+MHS encountered : 258 
+
+MHS found: [27, 66, 99] of dimension 3
+MHS encountered : 259 
+
+MHS found: [27, 66, 150] of dimension 3
+MHS encountered : 260 
+
+MHS found: [27, 66, 155] of dimension 3
+MHS encountered : 261 
+
+MHS found: [27, 66, 159] of dimension 3
+MHS encountered : 262 
+
+MHS found: [27, 99, 145] of dimension 3
+MHS encountered : 263 
+
+MHS found: [27, 99, 152] of dimension 3
+MHS encountered : 264 
+
+MHS found: [27, 99, 157] of dimension 3
+MHS encountered : 265 
+
+MHS found: [27, 99, 160] of dimension 3
+MHS encountered : 266 
+
+MHS found: [27, 145, 150] of dimension 3
+MHS encountered : 267 
+
+MHS found: [27, 145, 155] of dimension 3
+MHS encountered : 268 
+
+MHS found: [27, 145, 159] of dimension 3
+MHS encountered : 269 
+
+MHS found: [27, 150, 152] of dimension 3
+MHS encountered : 270 
+
+MHS found: [27, 150, 157] of dimension 3
+MHS encountered : 271 
+
+MHS found: [27, 150, 160] of dimension 3
+MHS encountered : 272 
+
+MHS found: [27, 152, 155] of dimension 3
+MHS encountered : 273 
+
+MHS found: [27, 152, 159] of dimension 3
+MHS encountered : 274 
+
+MHS found: [27, 155, 157] of dimension 3
+MHS encountered : 275 
+
+MHS found: [27, 155, 160] of dimension 3
+MHS encountered : 276 
+
+MHS found: [27, 157, 159] of dimension 3
+MHS encountered : 277 
+
+MHS found: [27, 159, 160] of dimension 3
+MHS encountered : 278 
+
+MHS found: [33, 50, 99] of dimension 3
+MHS encountered : 279 
+
+MHS found: [33, 50, 150] of dimension 3
+MHS encountered : 280 
+
+MHS found: [33, 50, 155] of dimension 3
+MHS encountered : 281 
+
+MHS found: [33, 50, 159] of dimension 3
+MHS encountered : 282 
+
+MHS found: [33, 66, 99] of dimension 3
+MHS encountered : 283 
+
+MHS found: [33, 66, 150] of dimension 3
+MHS encountered : 284 
+
+MHS found: [33, 66, 155] of dimension 3
+MHS encountered : 285 
+
+MHS found: [33, 66, 159] of dimension 3
+MHS encountered : 286 
+
+MHS found: [33, 99, 145] of dimension 3
+MHS encountered : 287 
+
+MHS found: [33, 99, 152] of dimension 3
+MHS encountered : 288 
+
+MHS found: [33, 99, 157] of dimension 3
+MHS encountered : 289 
+
+MHS found: [33, 99, 160] of dimension 3
+MHS encountered : 290 
+
+MHS found: [33, 145, 150] of dimension 3
+MHS encountered : 291 
+
+MHS found: [33, 145, 155] of dimension 3
+MHS encountered : 292 
+
+MHS found: [33, 145, 159] of dimension 3
+MHS encountered : 293 
+
+MHS found: [33, 150, 152] of dimension 3
+MHS encountered : 294 
+
+MHS found: [33, 150, 157] of dimension 3
+MHS encountered : 295 
+
+MHS found: [33, 150, 160] of dimension 3
+MHS encountered : 296 
+
+MHS found: [33, 152, 155] of dimension 3
+MHS encountered : 297 
+
+MHS found: [33, 152, 159] of dimension 3
+MHS encountered : 298 
+
+MHS found: [33, 155, 157] of dimension 3
+MHS encountered : 299 
+
+MHS found: [33, 155, 160] of dimension 3
+MHS encountered : 300 
+
+MHS found: [33, 157, 159] of dimension 3
+MHS encountered : 301 
+
+MHS found: [33, 159, 160] of dimension 3
+MHS encountered : 302 
+
+MHS found: [39, 50, 99] of dimension 3
+MHS encountered : 303 
+
+MHS found: [39, 50, 150] of dimension 3
+MHS encountered : 304 
+
+MHS found: [39, 50, 155] of dimension 3
+MHS encountered : 305 
+
+MHS found: [39, 50, 159] of dimension 3
+MHS encountered : 306 
+
+MHS found: [39, 66, 99] of dimension 3
+MHS encountered : 307 
+
+MHS found: [39, 66, 150] of dimension 3
+MHS encountered : 308 
+
+MHS found: [39, 66, 155] of dimension 3
+MHS encountered : 309 
+
+MHS found: [39, 66, 159] of dimension 3
+MHS encountered : 310 
+
+MHS found: [39, 99, 145] of dimension 3
+MHS encountered : 311 
+
+MHS found: [39, 99, 152] of dimension 3
+MHS encountered : 312 
+
+MHS found: [39, 99, 157] of dimension 3
+MHS encountered : 313 
+
+MHS found: [39, 99, 160] of dimension 3
+MHS encountered : 314 
+
+MHS found: [39, 145, 150] of dimension 3
+MHS encountered : 315 
+
+MHS found: [39, 145, 155] of dimension 3
+MHS encountered : 316 
+
+MHS found: [39, 145, 159] of dimension 3
+MHS encountered : 317 
+
+MHS found: [39, 150, 152] of dimension 3
+MHS encountered : 318 
+
+MHS found: [39, 150, 157] of dimension 3
+MHS encountered : 319 
+
+MHS found: [39, 150, 160] of dimension 3
+MHS encountered : 320 
+
+MHS found: [39, 152, 155] of dimension 3
+MHS encountered : 321 
+
+MHS found: [39, 152, 159] of dimension 3
+MHS encountered : 322 
+
+MHS found: [39, 155, 157] of dimension 3
+MHS encountered : 323 
+
+MHS found: [39, 155, 160] of dimension 3
+MHS encountered : 324 
+
+MHS found: [39, 157, 159] of dimension 3
+MHS encountered : 325 
+
+MHS found: [39, 159, 160] of dimension 3
+MHS encountered : 326 
+
+MHS found: [41, 50, 99] of dimension 3
+MHS encountered : 327 
+
+MHS found: [41, 50, 150] of dimension 3
+MHS encountered : 328 
+
+MHS found: [41, 50, 155] of dimension 3
+MHS encountered : 329 
+
+MHS found: [41, 50, 159] of dimension 3
+MHS encountered : 330 
+
+MHS found: [41, 66, 99] of dimension 3
+MHS encountered : 331 
+
+MHS found: [41, 66, 150] of dimension 3
+MHS encountered : 332 
+
+MHS found: [41, 66, 155] of dimension 3
+MHS encountered : 333 
+
+MHS found: [41, 66, 159] of dimension 3
+MHS encountered : 334 
+
+MHS found: [41, 99, 145] of dimension 3
+MHS encountered : 335 
+
+MHS found: [41, 99, 152] of dimension 3
+MHS encountered : 336 
+
+MHS found: [41, 99, 157] of dimension 3
+MHS encountered : 337 
+
+MHS found: [41, 99, 160] of dimension 3
+MHS encountered : 338 
+
+MHS found: [41, 145, 150] of dimension 3
+MHS encountered : 339 
+
+MHS found: [41, 145, 155] of dimension 3
+MHS encountered : 340 
+
+MHS found: [41, 145, 159] of dimension 3
+MHS encountered : 341 
+
+MHS found: [41, 150, 152] of dimension 3
+MHS encountered : 342 
+
+MHS found: [41, 150, 157] of dimension 3
+MHS encountered : 343 
+
+MHS found: [41, 150, 160] of dimension 3
+MHS encountered : 344 
+
+MHS found: [41, 152, 155] of dimension 3
+MHS encountered : 345 
+
+MHS found: [41, 152, 159] of dimension 3
+MHS encountered : 346 
+
+MHS found: [41, 155, 157] of dimension 3
+MHS encountered : 347 
+
+MHS found: [41, 155, 160] of dimension 3
+MHS encountered : 348 
+
+MHS found: [41, 157, 159] of dimension 3
+MHS encountered : 349 
+
+MHS found: [41, 159, 160] of dimension 3
+MHS encountered : 350 
+
+MHS found: [43, 50, 99] of dimension 3
+MHS encountered : 351 
+
+MHS found: [43, 50, 150] of dimension 3
+MHS encountered : 352 
+
+MHS found: [43, 50, 155] of dimension 3
+MHS encountered : 353 
+
+MHS found: [43, 50, 159] of dimension 3
+MHS encountered : 354 
+
+MHS found: [43, 66, 99] of dimension 3
+MHS encountered : 355 
+
+MHS found: [43, 66, 150] of dimension 3
+MHS encountered : 356 
+
+MHS found: [43, 66, 155] of dimension 3
+MHS encountered : 357 
+
+MHS found: [43, 66, 159] of dimension 3
+MHS encountered : 358 
+
+MHS found: [43, 99, 145] of dimension 3
+MHS encountered : 359 
+
+MHS found: [43, 99, 152] of dimension 3
+MHS encountered : 360 
+
+MHS found: [43, 99, 157] of dimension 3
+MHS encountered : 361 
+
+MHS found: [43, 99, 160] of dimension 3
+MHS encountered : 362 
+
+MHS found: [43, 145, 150] of dimension 3
+MHS encountered : 363 
+
+MHS found: [43, 145, 155] of dimension 3
+MHS encountered : 364 
+
+MHS found: [43, 145, 159] of dimension 3
+MHS encountered : 365 
+
+MHS found: [43, 150, 152] of dimension 3
+MHS encountered : 366 
+
+MHS found: [43, 150, 157] of dimension 3
+MHS encountered : 367 
+
+MHS found: [43, 150, 160] of dimension 3
+MHS encountered : 368 
+
+MHS found: [43, 152, 155] of dimension 3
+MHS encountered : 369 
+
+MHS found: [43, 152, 159] of dimension 3
+MHS encountered : 370 
+
+MHS found: [43, 155, 157] of dimension 3
+MHS encountered : 371 
+
+MHS found: [43, 155, 160] of dimension 3
+MHS encountered : 372 
+
+MHS found: [43, 157, 159] of dimension 3
+MHS encountered : 373 
+
+MHS found: [43, 159, 160] of dimension 3
+MHS encountered : 374 
+
+MHS found: [45, 50, 99] of dimension 3
+MHS encountered : 375 
+
+MHS found: [45, 50, 150] of dimension 3
+MHS encountered : 376 
+
+MHS found: [45, 50, 155] of dimension 3
+MHS encountered : 377 
+
+MHS found: [45, 50, 159] of dimension 3
+MHS encountered : 378 
+
+MHS found: [45, 66, 99] of dimension 3
+MHS encountered : 379 
+
+MHS found: [45, 66, 150] of dimension 3
+MHS encountered : 380 
+
+MHS found: [45, 66, 155] of dimension 3
+MHS encountered : 381 
+
+MHS found: [45, 66, 159] of dimension 3
+MHS encountered : 382 
+
+MHS found: [45, 99, 145] of dimension 3
+MHS encountered : 383 
+
+MHS found: [45, 99, 152] of dimension 3
+MHS encountered : 384 
+
+MHS found: [45, 99, 157] of dimension 3
+MHS encountered : 385 
+
+MHS found: [45, 99, 160] of dimension 3
+MHS encountered : 386 
+
+MHS found: [45, 145, 150] of dimension 3
+MHS encountered : 387 
+
+MHS found: [45, 145, 155] of dimension 3
+MHS encountered : 388 
+
+MHS found: [45, 145, 159] of dimension 3
+MHS encountered : 389 
+
+MHS found: [45, 150, 152] of dimension 3
+MHS encountered : 390 
+
+MHS found: [45, 150, 157] of dimension 3
+MHS encountered : 391 
+
+MHS found: [45, 150, 160] of dimension 3
+MHS encountered : 392 
+
+MHS found: [45, 152, 155] of dimension 3
+MHS encountered : 393 
+
+MHS found: [45, 152, 159] of dimension 3
+MHS encountered : 394 
+
+MHS found: [45, 155, 157] of dimension 3
+MHS encountered : 395 
+
+MHS found: [45, 155, 160] of dimension 3
+MHS encountered : 396 
+
+MHS found: [45, 157, 159] of dimension 3
+MHS encountered : 397 
+
+MHS found: [45, 159, 160] of dimension 3
+MHS encountered : 398 
+
+MHS found: [47, 50, 99] of dimension 3
+MHS encountered : 399 
+
+MHS found: [47, 50, 150] of dimension 3
+MHS encountered : 400 
+
+MHS found: [47, 50, 155] of dimension 3
+MHS encountered : 401 
+
+MHS found: [47, 50, 159] of dimension 3
+MHS encountered : 402 
+
+MHS found: [47, 66, 99] of dimension 3
+MHS encountered : 403 
+
+MHS found: [47, 66, 150] of dimension 3
+MHS encountered : 404 
+
+MHS found: [47, 66, 155] of dimension 3
+MHS encountered : 405 
+
+MHS found: [47, 66, 159] of dimension 3
+MHS encountered : 406 
+
+MHS found: [47, 99, 145] of dimension 3
+MHS encountered : 407 
+
+MHS found: [47, 99, 152] of dimension 3
+MHS encountered : 408 
+
+MHS found: [47, 99, 157] of dimension 3
+MHS encountered : 409 
+
+MHS found: [47, 99, 160] of dimension 3
+MHS encountered : 410 
+
+MHS found: [47, 145, 150] of dimension 3
+MHS encountered : 411 
+
+MHS found: [47, 145, 155] of dimension 3
+MHS encountered : 412 
+
+MHS found: [47, 145, 159] of dimension 3
+MHS encountered : 413 
+
+MHS found: [47, 150, 152] of dimension 3
+MHS encountered : 414 
+
+MHS found: [47, 150, 157] of dimension 3
+MHS encountered : 415 
+
+MHS found: [47, 150, 160] of dimension 3
+MHS encountered : 416 
+
+MHS found: [47, 152, 155] of dimension 3
+MHS encountered : 417 
+
+MHS found: [47, 152, 159] of dimension 3
+MHS encountered : 418 
+
+MHS found: [47, 155, 157] of dimension 3
+MHS encountered : 419 
+
+MHS found: [47, 155, 160] of dimension 3
+MHS encountered : 420 
+
+MHS found: [47, 157, 159] of dimension 3
+MHS encountered : 421 
+
+MHS found: [47, 159, 160] of dimension 3
+MHS encountered : 422 
+
+MHS found: [48, 50, 99] of dimension 3
+MHS encountered : 423 
+
+MHS found: [48, 50, 150] of dimension 3
+MHS encountered : 424 
+
+MHS found: [48, 50, 155] of dimension 3
+MHS encountered : 425 
+
+MHS found: [48, 50, 159] of dimension 3
+MHS encountered : 426 
+
+MHS found: [48, 66, 99] of dimension 3
+MHS encountered : 427 
+
+MHS found: [48, 66, 150] of dimension 3
+MHS encountered : 428 
+
+MHS found: [48, 66, 155] of dimension 3
+MHS encountered : 429 
+
+MHS found: [48, 66, 159] of dimension 3
+MHS encountered : 430 
+
+MHS found: [48, 99, 145] of dimension 3
+MHS encountered : 431 
+
+MHS found: [48, 99, 152] of dimension 3
+MHS encountered : 432 
+
+MHS found: [48, 99, 157] of dimension 3
+MHS encountered : 433 
+
+MHS found: [48, 99, 160] of dimension 3
+MHS encountered : 434 
+
+MHS found: [48, 145, 150] of dimension 3
+MHS encountered : 435 
+
+MHS found: [48, 145, 155] of dimension 3
+MHS encountered : 436 
+
+MHS found: [48, 145, 159] of dimension 3
+MHS encountered : 437 
+
+MHS found: [48, 150, 152] of dimension 3
+MHS encountered : 438 
+
+MHS found: [48, 150, 157] of dimension 3
+MHS encountered : 439 
+
+MHS found: [48, 150, 160] of dimension 3
+MHS encountered : 440 
+
+MHS found: [48, 152, 155] of dimension 3
+MHS encountered : 441 
+
+MHS found: [48, 152, 159] of dimension 3
+MHS encountered : 442 
+
+MHS found: [48, 155, 157] of dimension 3
+MHS encountered : 443 
+
+MHS found: [48, 155, 160] of dimension 3
+MHS encountered : 444 
+
+MHS found: [48, 157, 159] of dimension 3
+MHS encountered : 445 
+
+MHS found: [48, 159, 160] of dimension 3
+MHS encountered : 446 
+
+MHS found: [50, 52, 99] of dimension 3
+MHS encountered : 447 
+
+MHS found: [50, 52, 150] of dimension 3
+MHS encountered : 448 
+
+MHS found: [50, 52, 155] of dimension 3
+MHS encountered : 449 
+
+MHS found: [50, 52, 159] of dimension 3
+MHS encountered : 450 
+
+MHS found: [50, 54, 99] of dimension 3
+MHS encountered : 451 
+
+MHS found: [50, 54, 150] of dimension 3
+MHS encountered : 452 
+
+MHS found: [50, 54, 155] of dimension 3
+MHS encountered : 453 
+
+MHS found: [50, 54, 159] of dimension 3
+MHS encountered : 454 
+
+MHS found: [50, 55, 99] of dimension 3
+MHS encountered : 455 
+
+MHS found: [50, 55, 150] of dimension 3
+MHS encountered : 456 
+
+MHS found: [50, 55, 155] of dimension 3
+MHS encountered : 457 
+
+MHS found: [50, 55, 159] of dimension 3
+MHS encountered : 458 
+
+MHS found: [50, 63, 99] of dimension 3
+MHS encountered : 459 
+
+MHS found: [50, 63, 150] of dimension 3
+MHS encountered : 460 
+
+MHS found: [50, 63, 155] of dimension 3
+MHS encountered : 461 
+
+MHS found: [50, 63, 159] of dimension 3
+MHS encountered : 462 
+
+MHS found: [50, 64, 99] of dimension 3
+MHS encountered : 463 
+
+MHS found: [50, 64, 150] of dimension 3
+MHS encountered : 464 
+
+MHS found: [50, 64, 155] of dimension 3
+MHS encountered : 465 
+
+MHS found: [50, 64, 159] of dimension 3
+MHS encountered : 466 
+
+MHS found: [50, 69, 99] of dimension 3
+MHS encountered : 467 
+
+MHS found: [50, 69, 150] of dimension 3
+MHS encountered : 468 
+
+MHS found: [50, 69, 155] of dimension 3
+MHS encountered : 469 
+
+MHS found: [50, 69, 159] of dimension 3
+MHS encountered : 470 
+
+MHS found: [50, 71, 99] of dimension 3
+MHS encountered : 471 
+
+MHS found: [50, 71, 150] of dimension 3
+MHS encountered : 472 
+
+MHS found: [50, 71, 155] of dimension 3
+MHS encountered : 473 
+
+MHS found: [50, 71, 159] of dimension 3
+MHS encountered : 474 
+
+MHS found: [50, 72, 99] of dimension 3
+MHS encountered : 475 
+
+MHS found: [50, 72, 150] of dimension 3
+MHS encountered : 476 
+
+MHS found: [50, 72, 155] of dimension 3
+MHS encountered : 477 
+
+MHS found: [50, 72, 159] of dimension 3
+MHS encountered : 478 
+
+MHS found: [50, 73, 99] of dimension 3
+MHS encountered : 479 
+
+MHS found: [50, 73, 150] of dimension 3
+MHS encountered : 480 
+
+MHS found: [50, 73, 155] of dimension 3
+MHS encountered : 481 
+
+MHS found: [50, 73, 159] of dimension 3
+MHS encountered : 482 
+
+MHS found: [50, 74, 99] of dimension 3
+MHS encountered : 483 
+
+MHS found: [50, 74, 150] of dimension 3
+MHS encountered : 484 
+
+MHS found: [50, 74, 155] of dimension 3
+MHS encountered : 485 
+
+MHS found: [50, 74, 159] of dimension 3
+MHS encountered : 486 
+
+MHS found: [50, 75, 99] of dimension 3
+MHS encountered : 487 
+
+MHS found: [50, 75, 150] of dimension 3
+MHS encountered : 488 
+
+MHS found: [50, 75, 155] of dimension 3
+MHS encountered : 489 
+
+MHS found: [50, 75, 159] of dimension 3
+MHS encountered : 490 
+
+MHS found: [50, 76, 99] of dimension 3
+MHS encountered : 491 
+
+MHS found: [50, 76, 150] of dimension 3
+MHS encountered : 492 
+
+MHS found: [50, 76, 155] of dimension 3
+MHS encountered : 493 
+
+MHS found: [50, 76, 159] of dimension 3
+MHS encountered : 494 
+
+MHS found: [50, 77, 99] of dimension 3
+MHS encountered : 495 
+
+MHS found: [50, 77, 150] of dimension 3
+MHS encountered : 496 
+
+MHS found: [50, 77, 155] of dimension 3
+MHS encountered : 497 
+
+MHS found: [50, 77, 159] of dimension 3
+MHS encountered : 498 
+
+MHS found: [50, 78, 99] of dimension 3
+MHS encountered : 499 
+
+MHS found: [50, 78, 150] of dimension 3
+MHS encountered : 500 
+
+MHS found: [50, 78, 155] of dimension 3
+MHS encountered : 501 
+
+MHS found: [50, 78, 159] of dimension 3
+MHS encountered : 502 
+
+MHS found: [50, 87, 99] of dimension 3
+MHS encountered : 503 
+
+MHS found: [50, 87, 150] of dimension 3
+MHS encountered : 504 
+
+MHS found: [50, 87, 155] of dimension 3
+MHS encountered : 505 
+
+MHS found: [50, 87, 159] of dimension 3
+MHS encountered : 506 
+
+MHS found: [50, 99, 142] of dimension 3
+MHS encountered : 507 
+
+MHS found: [50, 99, 143] of dimension 3
+MHS encountered : 508 
+
+MHS found: [50, 142, 150] of dimension 3
+MHS encountered : 509 
+
+MHS found: [50, 142, 155] of dimension 3
+MHS encountered : 510 
+
+MHS found: [50, 142, 159] of dimension 3
+MHS encountered : 511 
+
+MHS found: [50, 143, 150] of dimension 3
+MHS encountered : 512 
+
+MHS found: [50, 143, 155] of dimension 3
+MHS encountered : 513 
+
+MHS found: [50, 143, 159] of dimension 3
+MHS encountered : 514 
+
+MHS found: [52, 66, 99] of dimension 3
+MHS encountered : 515 
+
+MHS found: [52, 66, 150] of dimension 3
+MHS encountered : 516 
+
+MHS found: [52, 66, 155] of dimension 3
+MHS encountered : 517 
+
+MHS found: [52, 66, 159] of dimension 3
+MHS encountered : 518 
+
+MHS found: [52, 99, 145] of dimension 3
+MHS encountered : 519 
+
+MHS found: [52, 99, 152] of dimension 3
+MHS encountered : 520 
+
+MHS found: [52, 99, 157] of dimension 3
+MHS encountered : 521 
+
+MHS found: [52, 99, 160] of dimension 3
+MHS encountered : 522 
+
+MHS found: [52, 145, 150] of dimension 3
+MHS encountered : 523 
+
+MHS found: [52, 145, 155] of dimension 3
+MHS encountered : 524 
+
+MHS found: [52, 145, 159] of dimension 3
+MHS encountered : 525 
+
+MHS found: [52, 150, 152] of dimension 3
+MHS encountered : 526 
+
+MHS found: [52, 150, 157] of dimension 3
+MHS encountered : 527 
+
+MHS found: [52, 150, 160] of dimension 3
+MHS encountered : 528 
+
+MHS found: [52, 152, 155] of dimension 3
+MHS encountered : 529 
+
+MHS found: [52, 152, 159] of dimension 3
+MHS encountered : 530 
+
+MHS found: [52, 155, 157] of dimension 3
+MHS encountered : 531 
+
+MHS found: [52, 155, 160] of dimension 3
+MHS encountered : 532 
+
+MHS found: [52, 157, 159] of dimension 3
+MHS encountered : 533 
+
+MHS found: [52, 159, 160] of dimension 3
+MHS encountered : 534 
+
+MHS found: [54, 66, 99] of dimension 3
+MHS encountered : 535 
+
+MHS found: [54, 66, 150] of dimension 3
+MHS encountered : 536 
+
+MHS found: [54, 66, 155] of dimension 3
+MHS encountered : 537 
+
+MHS found: [54, 66, 159] of dimension 3
+MHS encountered : 538 
+
+MHS found: [54, 99, 145] of dimension 3
+MHS encountered : 539 
+
+MHS found: [54, 99, 152] of dimension 3
+MHS encountered : 540 
+
+MHS found: [54, 99, 157] of dimension 3
+MHS encountered : 541 
+
+MHS found: [54, 99, 160] of dimension 3
+MHS encountered : 542 
+
+MHS found: [54, 145, 150] of dimension 3
+MHS encountered : 543 
+
+MHS found: [54, 145, 155] of dimension 3
+MHS encountered : 544 
+
+MHS found: [54, 145, 159] of dimension 3
+MHS encountered : 545 
+
+MHS found: [54, 150, 152] of dimension 3
+MHS encountered : 546 
+
+MHS found: [54, 150, 157] of dimension 3
+MHS encountered : 547 
+
+MHS found: [54, 150, 160] of dimension 3
+MHS encountered : 548 
+
+MHS found: [54, 152, 155] of dimension 3
+MHS encountered : 549 
+
+MHS found: [54, 152, 159] of dimension 3
+MHS encountered : 550 
+
+MHS found: [54, 155, 157] of dimension 3
+MHS encountered : 551 
+
+MHS found: [54, 155, 160] of dimension 3
+MHS encountered : 552 
+
+MHS found: [54, 157, 159] of dimension 3
+MHS encountered : 553 
+
+MHS found: [54, 159, 160] of dimension 3
+MHS encountered : 554 
+
+MHS found: [55, 66, 99] of dimension 3
+MHS encountered : 555 
+
+MHS found: [55, 66, 150] of dimension 3
+MHS encountered : 556 
+
+MHS found: [55, 66, 155] of dimension 3
+MHS encountered : 557 
+
+MHS found: [55, 66, 159] of dimension 3
+MHS encountered : 558 
+
+MHS found: [55, 99, 145] of dimension 3
+MHS encountered : 559 
+
+MHS found: [55, 99, 152] of dimension 3
+MHS encountered : 560 
+
+MHS found: [55, 99, 157] of dimension 3
+MHS encountered : 561 
+
+MHS found: [55, 99, 160] of dimension 3
+MHS encountered : 562 
+
+MHS found: [55, 145, 150] of dimension 3
+MHS encountered : 563 
+
+MHS found: [55, 145, 155] of dimension 3
+MHS encountered : 564 
+
+MHS found: [55, 145, 159] of dimension 3
+MHS encountered : 565 
+
+MHS found: [55, 150, 152] of dimension 3
+MHS encountered : 566 
+
+MHS found: [55, 150, 157] of dimension 3
+MHS encountered : 567 
+
+MHS found: [55, 150, 160] of dimension 3
+MHS encountered : 568 
+
+MHS found: [55, 152, 155] of dimension 3
+MHS encountered : 569 
+
+MHS found: [55, 152, 159] of dimension 3
+MHS encountered : 570 
+
+MHS found: [55, 155, 157] of dimension 3
+MHS encountered : 571 
+
+MHS found: [55, 155, 160] of dimension 3
+MHS encountered : 572 
+
+MHS found: [55, 157, 159] of dimension 3
+MHS encountered : 573 
+
+MHS found: [55, 159, 160] of dimension 3
+MHS encountered : 574 
+
+MHS found: [63, 66, 99] of dimension 3
+MHS encountered : 575 
+
+MHS found: [63, 66, 150] of dimension 3
+MHS encountered : 576 
+
+MHS found: [63, 66, 155] of dimension 3
+MHS encountered : 577 
+
+MHS found: [63, 66, 159] of dimension 3
+MHS encountered : 578 
+
+MHS found: [63, 99, 145] of dimension 3
+MHS encountered : 579 
+
+MHS found: [63, 99, 152] of dimension 3
+MHS encountered : 580 
+
+MHS found: [63, 99, 157] of dimension 3
+MHS encountered : 581 
+
+MHS found: [63, 99, 160] of dimension 3
+MHS encountered : 582 
+
+MHS found: [63, 145, 150] of dimension 3
+MHS encountered : 583 
+
+MHS found: [63, 145, 155] of dimension 3
+MHS encountered : 584 
+
+MHS found: [63, 145, 159] of dimension 3
+MHS encountered : 585 
+
+MHS found: [63, 150, 152] of dimension 3
+MHS encountered : 586 
+
+MHS found: [63, 150, 157] of dimension 3
+MHS encountered : 587 
+
+MHS found: [63, 150, 160] of dimension 3
+MHS encountered : 588 
+
+MHS found: [63, 152, 155] of dimension 3
+MHS encountered : 589 
+
+MHS found: [63, 152, 159] of dimension 3
+MHS encountered : 590 
+
+MHS found: [63, 155, 157] of dimension 3
+MHS encountered : 591 
+
+MHS found: [63, 155, 160] of dimension 3
+MHS encountered : 592 
+
+MHS found: [63, 157, 159] of dimension 3
+MHS encountered : 593 
+
+MHS found: [63, 159, 160] of dimension 3
+MHS encountered : 594 
+
+MHS found: [64, 66, 99] of dimension 3
+MHS encountered : 595 
+
+MHS found: [64, 66, 150] of dimension 3
+MHS encountered : 596 
+
+MHS found: [64, 66, 155] of dimension 3
+MHS encountered : 597 
+
+MHS found: [64, 66, 159] of dimension 3
+MHS encountered : 598 
+
+MHS found: [64, 99, 145] of dimension 3
+MHS encountered : 599 
+
+MHS found: [64, 99, 152] of dimension 3
+MHS encountered : 600 
+
+MHS found: [64, 99, 157] of dimension 3
+MHS encountered : 601 
+
+MHS found: [64, 99, 160] of dimension 3
+MHS encountered : 602 
+
+MHS found: [64, 145, 150] of dimension 3
+MHS encountered : 603 
+
+MHS found: [64, 145, 155] of dimension 3
+MHS encountered : 604 
+
+MHS found: [64, 145, 159] of dimension 3
+MHS encountered : 605 
+
+MHS found: [64, 150, 152] of dimension 3
+MHS encountered : 606 
+
+MHS found: [64, 150, 157] of dimension 3
+MHS encountered : 607 
+
+MHS found: [64, 150, 160] of dimension 3
+MHS encountered : 608 
+
+MHS found: [64, 152, 155] of dimension 3
+MHS encountered : 609 
+
+MHS found: [64, 152, 159] of dimension 3
+MHS encountered : 610 
+
+MHS found: [64, 155, 157] of dimension 3
+MHS encountered : 611 
+
+MHS found: [64, 155, 160] of dimension 3
+MHS encountered : 612 
+
+MHS found: [64, 157, 159] of dimension 3
+MHS encountered : 613 
+
+MHS found: [64, 159, 160] of dimension 3
+MHS encountered : 614 
+
+MHS found: [66, 69, 99] of dimension 3
+MHS encountered : 615 
+
+MHS found: [66, 69, 150] of dimension 3
+MHS encountered : 616 
+
+MHS found: [66, 69, 155] of dimension 3
+MHS encountered : 617 
+
+MHS found: [66, 69, 159] of dimension 3
+MHS encountered : 618 
+
+MHS found: [66, 71, 99] of dimension 3
+MHS encountered : 619 
+
+MHS found: [66, 71, 150] of dimension 3
+MHS encountered : 620 
+
+MHS found: [66, 71, 155] of dimension 3
+MHS encountered : 621 
+
+MHS found: [66, 71, 159] of dimension 3
+MHS encountered : 622 
+
+MHS found: [66, 72, 99] of dimension 3
+MHS encountered : 623 
+
+MHS found: [66, 72, 150] of dimension 3
+MHS encountered : 624 
+
+MHS found: [66, 72, 155] of dimension 3
+MHS encountered : 625 
+
+MHS found: [66, 72, 159] of dimension 3
+MHS encountered : 626 
+
+MHS found: [66, 73, 99] of dimension 3
+MHS encountered : 627 
+
+MHS found: [66, 73, 150] of dimension 3
+MHS encountered : 628 
+
+MHS found: [66, 73, 155] of dimension 3
+MHS encountered : 629 
+
+MHS found: [66, 73, 159] of dimension 3
+MHS encountered : 630 
+
+MHS found: [66, 74, 99] of dimension 3
+MHS encountered : 631 
+
+MHS found: [66, 74, 150] of dimension 3
+MHS encountered : 632 
+
+MHS found: [66, 74, 155] of dimension 3
+MHS encountered : 633 
+
+MHS found: [66, 74, 159] of dimension 3
+MHS encountered : 634 
+
+MHS found: [66, 75, 99] of dimension 3
+MHS encountered : 635 
+
+MHS found: [66, 75, 150] of dimension 3
+MHS encountered : 636 
+
+MHS found: [66, 75, 155] of dimension 3
+MHS encountered : 637 
+
+MHS found: [66, 75, 159] of dimension 3
+MHS encountered : 638 
+
+MHS found: [66, 76, 99] of dimension 3
+MHS encountered : 639 
+
+MHS found: [66, 76, 150] of dimension 3
+MHS encountered : 640 
+
+MHS found: [66, 76, 155] of dimension 3
+MHS encountered : 641 
+
+MHS found: [66, 76, 159] of dimension 3
+MHS encountered : 642 
+
+MHS found: [66, 77, 99] of dimension 3
+MHS encountered : 643 
+
+MHS found: [66, 77, 150] of dimension 3
+MHS encountered : 644 
+
+MHS found: [66, 77, 155] of dimension 3
+MHS encountered : 645 
+
+MHS found: [66, 77, 159] of dimension 3
+MHS encountered : 646 
+
+MHS found: [66, 78, 99] of dimension 3
+MHS encountered : 647 
+
+MHS found: [66, 78, 150] of dimension 3
+MHS encountered : 648 
+
+MHS found: [66, 78, 155] of dimension 3
+MHS encountered : 649 
+
+MHS found: [66, 78, 159] of dimension 3
+MHS encountered : 650 
+
+MHS found: [66, 87, 99] of dimension 3
+MHS encountered : 651 
+
+MHS found: [66, 87, 150] of dimension 3
+MHS encountered : 652 
+
+MHS found: [66, 87, 155] of dimension 3
+MHS encountered : 653 
+
+MHS found: [66, 87, 159] of dimension 3
+MHS encountered : 654 
+
+MHS found: [66, 99, 142] of dimension 3
+MHS encountered : 655 
+
+MHS found: [66, 99, 143] of dimension 3
+MHS encountered : 656 
+
+MHS found: [66, 142, 150] of dimension 3
+MHS encountered : 657 
+
+MHS found: [66, 142, 155] of dimension 3
+MHS encountered : 658 
+
+MHS found: [66, 142, 159] of dimension 3
+MHS encountered : 659 
+
+MHS found: [66, 143, 150] of dimension 3
+MHS encountered : 660 
+
+MHS found: [66, 143, 155] of dimension 3
+MHS encountered : 661 
+
+MHS found: [66, 143, 159] of dimension 3
+MHS encountered : 662 
+
+MHS found: [69, 99, 145] of dimension 3
+MHS encountered : 663 
+
+MHS found: [69, 99, 152] of dimension 3
+MHS encountered : 664 
+
+MHS found: [69, 99, 157] of dimension 3
+MHS encountered : 665 
+
+MHS found: [69, 99, 160] of dimension 3
+MHS encountered : 666 
+
+MHS found: [69, 145, 150] of dimension 3
+MHS encountered : 667 
+
+MHS found: [69, 145, 155] of dimension 3
+MHS encountered : 668 
+
+MHS found: [69, 145, 159] of dimension 3
+MHS encountered : 669 
+
+MHS found: [69, 150, 152] of dimension 3
+MHS encountered : 670 
+
+MHS found: [69, 150, 157] of dimension 3
+MHS encountered : 671 
+
+MHS found: [69, 150, 160] of dimension 3
+MHS encountered : 672 
+
+MHS found: [69, 152, 155] of dimension 3
+MHS encountered : 673 
+
+MHS found: [69, 152, 159] of dimension 3
+MHS encountered : 674 
+
+MHS found: [69, 155, 157] of dimension 3
+MHS encountered : 675 
+
+MHS found: [69, 155, 160] of dimension 3
+MHS encountered : 676 
+
+MHS found: [69, 157, 159] of dimension 3
+MHS encountered : 677 
+
+MHS found: [69, 159, 160] of dimension 3
+MHS encountered : 678 
+
+MHS found: [71, 99, 145] of dimension 3
+MHS encountered : 679 
+
+MHS found: [71, 99, 152] of dimension 3
+MHS encountered : 680 
+
+MHS found: [71, 99, 157] of dimension 3
+MHS encountered : 681 
+
+MHS found: [71, 99, 160] of dimension 3
+MHS encountered : 682 
+
+MHS found: [71, 145, 150] of dimension 3
+MHS encountered : 683 
+
+MHS found: [71, 145, 155] of dimension 3
+MHS encountered : 684 
+
+MHS found: [71, 145, 159] of dimension 3
+MHS encountered : 685 
+
+MHS found: [71, 150, 152] of dimension 3
+MHS encountered : 686 
+
+MHS found: [71, 150, 157] of dimension 3
+MHS encountered : 687 
+
+MHS found: [71, 150, 160] of dimension 3
+MHS encountered : 688 
+
+MHS found: [71, 152, 155] of dimension 3
+MHS encountered : 689 
+
+MHS found: [71, 152, 159] of dimension 3
+MHS encountered : 690 
+
+MHS found: [71, 155, 157] of dimension 3
+MHS encountered : 691 
+
+MHS found: [71, 155, 160] of dimension 3
+MHS encountered : 692 
+
+MHS found: [71, 157, 159] of dimension 3
+MHS encountered : 693 
+
+MHS found: [71, 159, 160] of dimension 3
+MHS encountered : 694 
+
+MHS found: [72, 99, 145] of dimension 3
+MHS encountered : 695 
+
+MHS found: [72, 99, 152] of dimension 3
+MHS encountered : 696 
+
+MHS found: [72, 99, 157] of dimension 3
+MHS encountered : 697 
+
+MHS found: [72, 99, 160] of dimension 3
+MHS encountered : 698 
+
+MHS found: [72, 145, 150] of dimension 3
+MHS encountered : 699 
+
+MHS found: [72, 145, 155] of dimension 3
+MHS encountered : 700 
+
+MHS found: [72, 145, 159] of dimension 3
+MHS encountered : 701 
+
+MHS found: [72, 150, 152] of dimension 3
+MHS encountered : 702 
+
+MHS found: [72, 150, 157] of dimension 3
+MHS encountered : 703 
+
+MHS found: [72, 150, 160] of dimension 3
+MHS encountered : 704 
+
+MHS found: [72, 152, 155] of dimension 3
+MHS encountered : 705 
+
+MHS found: [72, 152, 159] of dimension 3
+MHS encountered : 706 
+
+MHS found: [72, 155, 157] of dimension 3
+MHS encountered : 707 
+
+MHS found: [72, 155, 160] of dimension 3
+MHS encountered : 708 
+
+MHS found: [72, 157, 159] of dimension 3
+MHS encountered : 709 
+
+MHS found: [72, 159, 160] of dimension 3
+MHS encountered : 710 
+
+MHS found: [73, 99, 145] of dimension 3
+MHS encountered : 711 
+
+MHS found: [73, 99, 152] of dimension 3
+MHS encountered : 712 
+
+MHS found: [73, 99, 157] of dimension 3
+MHS encountered : 713 
+
+MHS found: [73, 99, 160] of dimension 3
+MHS encountered : 714 
+
+MHS found: [73, 145, 150] of dimension 3
+MHS encountered : 715 
+
+MHS found: [73, 145, 155] of dimension 3
+MHS encountered : 716 
+
+MHS found: [73, 145, 159] of dimension 3
+MHS encountered : 717 
+
+MHS found: [73, 150, 152] of dimension 3
+MHS encountered : 718 
+
+MHS found: [73, 150, 157] of dimension 3
+MHS encountered : 719 
+
+MHS found: [73, 150, 160] of dimension 3
+MHS encountered : 720 
+
+MHS found: [73, 152, 155] of dimension 3
+MHS encountered : 721 
+
+MHS found: [73, 152, 159] of dimension 3
+MHS encountered : 722 
+
+MHS found: [73, 155, 157] of dimension 3
+MHS encountered : 723 
+
+MHS found: [73, 155, 160] of dimension 3
+MHS encountered : 724 
+
+MHS found: [73, 157, 159] of dimension 3
+MHS encountered : 725 
+
+MHS found: [73, 159, 160] of dimension 3
+MHS encountered : 726 
+
+MHS found: [74, 99, 145] of dimension 3
+MHS encountered : 727 
+
+MHS found: [74, 99, 152] of dimension 3
+MHS encountered : 728 
+
+MHS found: [74, 99, 157] of dimension 3
+MHS encountered : 729 
+
+MHS found: [74, 99, 160] of dimension 3
+MHS encountered : 730 
+
+MHS found: [74, 145, 150] of dimension 3
+MHS encountered : 731 
+
+MHS found: [74, 145, 155] of dimension 3
+MHS encountered : 732 
+
+MHS found: [74, 145, 159] of dimension 3
+MHS encountered : 733 
+
+MHS found: [74, 150, 152] of dimension 3
+MHS encountered : 734 
+
+MHS found: [74, 150, 157] of dimension 3
+MHS encountered : 735 
+
+MHS found: [74, 150, 160] of dimension 3
+MHS encountered : 736 
+
+MHS found: [74, 152, 155] of dimension 3
+MHS encountered : 737 
+
+MHS found: [74, 152, 159] of dimension 3
+MHS encountered : 738 
+
+MHS found: [74, 155, 157] of dimension 3
+MHS encountered : 739 
+
+MHS found: [74, 155, 160] of dimension 3
+MHS encountered : 740 
+
+MHS found: [74, 157, 159] of dimension 3
+MHS encountered : 741 
+
+MHS found: [74, 159, 160] of dimension 3
+MHS encountered : 742 
+
+MHS found: [75, 99, 145] of dimension 3
+MHS encountered : 743 
+
+MHS found: [75, 99, 152] of dimension 3
+MHS encountered : 744 
+
+MHS found: [75, 99, 157] of dimension 3
+MHS encountered : 745 
+
+MHS found: [75, 99, 160] of dimension 3
+MHS encountered : 746 
+
+MHS found: [75, 145, 150] of dimension 3
+MHS encountered : 747 
+
+MHS found: [75, 145, 155] of dimension 3
+MHS encountered : 748 
+
+MHS found: [75, 145, 159] of dimension 3
+MHS encountered : 749 
+
+MHS found: [75, 150, 152] of dimension 3
+MHS encountered : 750 
+
+MHS found: [75, 150, 157] of dimension 3
+MHS encountered : 751 
+
+MHS found: [75, 150, 160] of dimension 3
+MHS encountered : 752 
+
+MHS found: [75, 152, 155] of dimension 3
+MHS encountered : 753 
+
+MHS found: [75, 152, 159] of dimension 3
+MHS encountered : 754 
+
+MHS found: [75, 155, 157] of dimension 3
+MHS encountered : 755 
+
+MHS found: [75, 155, 160] of dimension 3
+MHS encountered : 756 
+
+MHS found: [75, 157, 159] of dimension 3
+MHS encountered : 757 
+
+MHS found: [75, 159, 160] of dimension 3
+MHS encountered : 758 
+
+MHS found: [76, 99, 145] of dimension 3
+MHS encountered : 759 
+
+MHS found: [76, 99, 152] of dimension 3
+MHS encountered : 760 
+
+MHS found: [76, 99, 157] of dimension 3
+MHS encountered : 761 
+
+MHS found: [76, 99, 160] of dimension 3
+MHS encountered : 762 
+
+MHS found: [76, 145, 150] of dimension 3
+MHS encountered : 763 
+
+MHS found: [76, 145, 155] of dimension 3
+MHS encountered : 764 
+
+MHS found: [76, 145, 159] of dimension 3
+MHS encountered : 765 
+
+MHS found: [76, 150, 152] of dimension 3
+MHS encountered : 766 
+
+MHS found: [76, 150, 157] of dimension 3
+MHS encountered : 767 
+
+MHS found: [76, 150, 160] of dimension 3
+MHS encountered : 768 
+
+MHS found: [76, 152, 155] of dimension 3
+MHS encountered : 769 
+
+MHS found: [76, 152, 159] of dimension 3
+MHS encountered : 770 
+
+MHS found: [76, 155, 157] of dimension 3
+MHS encountered : 771 
+
+MHS found: [76, 155, 160] of dimension 3
+MHS encountered : 772 
+
+MHS found: [76, 157, 159] of dimension 3
+MHS encountered : 773 
+
+MHS found: [76, 159, 160] of dimension 3
+MHS encountered : 774 
+
+MHS found: [77, 99, 145] of dimension 3
+MHS encountered : 775 
+
+MHS found: [77, 99, 152] of dimension 3
+MHS encountered : 776 
+
+MHS found: [77, 99, 157] of dimension 3
+MHS encountered : 777 
+
+MHS found: [77, 99, 160] of dimension 3
+MHS encountered : 778 
+
+MHS found: [77, 145, 150] of dimension 3
+MHS encountered : 779 
+
+MHS found: [77, 145, 155] of dimension 3
+MHS encountered : 780 
+
+MHS found: [77, 145, 159] of dimension 3
+MHS encountered : 781 
+
+MHS found: [77, 150, 152] of dimension 3
+MHS encountered : 782 
+
+MHS found: [77, 150, 157] of dimension 3
+MHS encountered : 783 
+
+MHS found: [77, 150, 160] of dimension 3
+MHS encountered : 784 
+
+MHS found: [77, 152, 155] of dimension 3
+MHS encountered : 785 
+
+MHS found: [77, 152, 159] of dimension 3
+MHS encountered : 786 
+
+MHS found: [77, 155, 157] of dimension 3
+MHS encountered : 787 
+
+MHS found: [77, 155, 160] of dimension 3
+MHS encountered : 788 
+
+MHS found: [77, 157, 159] of dimension 3
+MHS encountered : 789 
+
+MHS found: [77, 159, 160] of dimension 3
+MHS encountered : 790 
+
+MHS found: [78, 99, 145] of dimension 3
+MHS encountered : 791 
+
+MHS found: [78, 99, 152] of dimension 3
+MHS encountered : 792 
+
+MHS found: [78, 99, 157] of dimension 3
+MHS encountered : 793 
+
+MHS found: [78, 99, 160] of dimension 3
+MHS encountered : 794 
+
+MHS found: [78, 145, 150] of dimension 3
+MHS encountered : 795 
+
+MHS found: [78, 145, 155] of dimension 3
+MHS encountered : 796 
+
+MHS found: [78, 145, 159] of dimension 3
+MHS encountered : 797 
+
+MHS found: [78, 150, 152] of dimension 3
+MHS encountered : 798 
+
+MHS found: [78, 150, 157] of dimension 3
+MHS encountered : 799 
+
+MHS found: [78, 150, 160] of dimension 3
+MHS encountered : 800 
+
+MHS found: [78, 152, 155] of dimension 3
+MHS encountered : 801 
+
+MHS found: [78, 152, 159] of dimension 3
+MHS encountered : 802 
+
+MHS found: [78, 155, 157] of dimension 3
+MHS encountered : 803 
+
+MHS found: [78, 155, 160] of dimension 3
+MHS encountered : 804 
+
+MHS found: [78, 157, 159] of dimension 3
+MHS encountered : 805 
+
+MHS found: [78, 159, 160] of dimension 3
+MHS encountered : 806 
+
+MHS found: [87, 99, 145] of dimension 3
+MHS encountered : 807 
+
+MHS found: [87, 99, 152] of dimension 3
+MHS encountered : 808 
+
+MHS found: [87, 99, 157] of dimension 3
+MHS encountered : 809 
+
+MHS found: [87, 99, 160] of dimension 3
+MHS encountered : 810 
+
+MHS found: [87, 145, 150] of dimension 3
+MHS encountered : 811 
+
+MHS found: [87, 145, 155] of dimension 3
+MHS encountered : 812 
+
+MHS found: [87, 145, 159] of dimension 3
+MHS encountered : 813 
+
+MHS found: [87, 150, 152] of dimension 3
+MHS encountered : 814 
+
+MHS found: [87, 150, 157] of dimension 3
+MHS encountered : 815 
+
+MHS found: [87, 150, 160] of dimension 3
+MHS encountered : 816 
+
+MHS found: [87, 152, 155] of dimension 3
+MHS encountered : 817 
+
+MHS found: [87, 152, 159] of dimension 3
+MHS encountered : 818 
+
+MHS found: [87, 155, 157] of dimension 3
+MHS encountered : 819 
+
+MHS found: [87, 155, 160] of dimension 3
+MHS encountered : 820 
+
+MHS found: [87, 157, 159] of dimension 3
+MHS encountered : 821 
+
+MHS found: [87, 159, 160] of dimension 3
+MHS encountered : 822 
+
+MHS found: [99, 142, 145] of dimension 3
+MHS encountered : 823 
+
+MHS found: [99, 142, 152] of dimension 3
+MHS encountered : 824 
+
+MHS found: [99, 142, 157] of dimension 3
+MHS encountered : 825 
+
+MHS found: [99, 142, 160] of dimension 3
+MHS encountered : 826 
+
+MHS found: [99, 143, 145] of dimension 3
+MHS encountered : 827 
+
+MHS found: [99, 143, 152] of dimension 3
+MHS encountered : 828 
+
+MHS found: [99, 143, 157] of dimension 3
+MHS encountered : 829 
+
+MHS found: [99, 143, 160] of dimension 3
+MHS encountered : 830 
+
+MHS found: [142, 145, 150] of dimension 3
+MHS encountered : 831 
+
+MHS found: [142, 145, 155] of dimension 3
+MHS encountered : 832 
+
+MHS found: [142, 145, 159] of dimension 3
+MHS encountered : 833 
+
+MHS found: [142, 150, 152] of dimension 3
+MHS encountered : 834 
+
+MHS found: [142, 150, 157] of dimension 3
+MHS encountered : 835 
+
+MHS found: [142, 150, 160] of dimension 3
+MHS encountered : 836 
+
+MHS found: [142, 152, 155] of dimension 3
+MHS encountered : 837 
+
+MHS found: [142, 152, 159] of dimension 3
+MHS encountered : 838 
+
+MHS found: [142, 155, 157] of dimension 3
+MHS encountered : 839 
+
+MHS found: [142, 155, 160] of dimension 3
+MHS encountered : 840 
+
+MHS found: [142, 157, 159] of dimension 3
+MHS encountered : 841 
+
+MHS found: [142, 159, 160] of dimension 3
+MHS encountered : 842 
+
+MHS found: [143, 145, 150] of dimension 3
+MHS encountered : 843 
+
+MHS found: [143, 145, 155] of dimension 3
+MHS encountered : 844 
+
+MHS found: [143, 145, 159] of dimension 3
+MHS encountered : 845 
+
+MHS found: [143, 150, 152] of dimension 3
+MHS encountered : 846 
+
+MHS found: [143, 150, 157] of dimension 3
+MHS encountered : 847 
+
+MHS found: [143, 150, 160] of dimension 3
+MHS encountered : 848 
+
+MHS found: [143, 152, 155] of dimension 3
+MHS encountered : 849 
+
+MHS found: [143, 152, 159] of dimension 3
+MHS encountered : 850 
+
+MHS found: [143, 155, 157] of dimension 3
+MHS encountered : 851 
+
+MHS found: [143, 155, 160] of dimension 3
+MHS encountered : 852 
+
+MHS found: [143, 157, 159] of dimension 3
+MHS encountered : 853 
+
+MHS found: [143, 159, 160] of dimension 3
+MHS encountered : 854 
+
+MBASE required 0.591028 seconds to execute 
+ Execution completed 
+
+Rows dropped in pre-processing: [] 
+
+Columns dropped in preprocessing: [1, 2, 3, 5, 6, 7, 9, 11, 13, 14, 15, 16, 17, 18, 19, 20, 22, 24, 28, 29, 30, 31, 32, 34, 35, 36, 37, 38, 40, 42, 44, 46, 51, 53, 56, 57, 58, 59, 60, 61, 62, 67, 68, 70, 79, 80, 81, 82, 83, 84, 85, 86, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 136, 137, 138, 139, 140, 146, 147, 148, 149, 153, 154, 158] 
+
+Preprocessing required 0.005241 seconds to execute 
+
+(|N| = 4, |M| = 53) 
+
+MHS found: [161] of dimension 1
+MHS encountered : 1 
+
+MHS found: [49, 65] of dimension 2
+MHS encountered : 2 
+
+MHS found: [49, 98] of dimension 2
+MHS encountered : 3 
+
+MHS found: [49, 99] of dimension 2
+MHS encountered : 4 
+
+MHS found: [49, 114] of dimension 2
+MHS encountered : 5 
+
+MHS found: [49, 135] of dimension 2
+MHS encountered : 6 
+
+MHS found: [49, 141] of dimension 2
+MHS encountered : 7 
+
+MHS found: [49, 144] of dimension 2
+MHS encountered : 8 
+
+MHS found: [49, 150] of dimension 2
+MHS encountered : 9 
+
+MHS found: [49, 151] of dimension 2
+MHS encountered : 10 
+
+MHS found: [49, 155] of dimension 2
+MHS encountered : 11 
+
+MHS found: [49, 156] of dimension 2
+MHS encountered : 12 
+
+MHS found: [49, 159] of dimension 2
+MHS encountered : 13 
+
+MHS found: [50, 65] of dimension 2
+MHS encountered : 14 
+
+MHS found: [50, 98] of dimension 2
+MHS encountered : 15 
+
+MHS found: [50, 114] of dimension 2
+MHS encountered : 16 
+
+MHS found: [50, 135] of dimension 2
+MHS encountered : 17 
+
+MHS found: [50, 141] of dimension 2
+MHS encountered : 18 
+
+MHS found: [50, 144] of dimension 2
+MHS encountered : 19 
+
+MHS found: [50, 151] of dimension 2
+MHS encountered : 20 
+
+MHS found: [50, 156] of dimension 2
+MHS encountered : 21 
+
+MHS found: [65, 66] of dimension 2
+MHS encountered : 22 
+
+MHS found: [65, 145] of dimension 2
+MHS encountered : 23 
+
+MHS found: [65, 152] of dimension 2
+MHS encountered : 24 
+
+MHS found: [65, 157] of dimension 2
+MHS encountered : 25 
+
+MHS found: [65, 160] of dimension 2
+MHS encountered : 26 
+
+MHS found: [66, 98] of dimension 2
+MHS encountered : 27 
+
+MHS found: [66, 114] of dimension 2
+MHS encountered : 28 
+
+MHS found: [66, 135] of dimension 2
+MHS encountered : 29 
+
+MHS found: [66, 141] of dimension 2
+MHS encountered : 30 
+
+MHS found: [66, 144] of dimension 2
+MHS encountered : 31 
+
+MHS found: [66, 151] of dimension 2
+MHS encountered : 32 
+
+MHS found: [66, 156] of dimension 2
+MHS encountered : 33 
+
+MHS found: [98, 145] of dimension 2
+MHS encountered : 34 
+
+MHS found: [98, 152] of dimension 2
+MHS encountered : 35 
+
+MHS found: [98, 157] of dimension 2
+MHS encountered : 36 
+
+MHS found: [98, 160] of dimension 2
+MHS encountered : 37 
+
+MHS found: [114, 145] of dimension 2
+MHS encountered : 38 
+
+MHS found: [114, 152] of dimension 2
+MHS encountered : 39 
+
+MHS found: [114, 157] of dimension 2
+MHS encountered : 40 
+
+MHS found: [114, 160] of dimension 2
+MHS encountered : 41 
+
+MHS found: [135, 145] of dimension 2
+MHS encountered : 42 
+
+MHS found: [135, 152] of dimension 2
+MHS encountered : 43 
+
+MHS found: [135, 157] of dimension 2
+MHS encountered : 44 
+
+MHS found: [135, 160] of dimension 2
+MHS encountered : 45 
+
+MHS found: [141, 145] of dimension 2
+MHS encountered : 46 
+
+MHS found: [141, 152] of dimension 2
+MHS encountered : 47 
+
+MHS found: [141, 157] of dimension 2
+MHS encountered : 48 
+
+MHS found: [141, 159] of dimension 2
+MHS encountered : 49 
+
+MHS found: [141, 160] of dimension 2
+MHS encountered : 50 
+
+MHS found: [144, 145] of dimension 2
+MHS encountered : 51 
+
+MHS found: [144, 152] of dimension 2
+MHS encountered : 52 
+
+MHS found: [144, 157] of dimension 2
+MHS encountered : 53 
+
+MHS found: [144, 160] of dimension 2
+MHS encountered : 54 
+
+MHS found: [145, 151] of dimension 2
+MHS encountered : 55 
+
+MHS found: [145, 156] of dimension 2
+MHS encountered : 56 
+
+MHS found: [151, 152] of dimension 2
+MHS encountered : 57 
+
+MHS found: [151, 157] of dimension 2
+MHS encountered : 58 
+
+MHS found: [151, 160] of dimension 2
+MHS encountered : 59 
+
+MHS found: [152, 156] of dimension 2
+MHS encountered : 60 
+
+MHS found: [156, 157] of dimension 2
+MHS encountered : 61 
+
+MHS found: [156, 160] of dimension 2
+MHS encountered : 62 
+
+MHS found: [4, 50, 99] of dimension 3
+MHS encountered : 63 
+
+MHS found: [4, 50, 150] of dimension 3
+MHS encountered : 64 
+
+MHS found: [4, 50, 155] of dimension 3
+MHS encountered : 65 
+
+MHS found: [4, 50, 159] of dimension 3
+MHS encountered : 66 
+
+MHS found: [4, 66, 99] of dimension 3
+MHS encountered : 67 
+
+MHS found: [4, 66, 150] of dimension 3
+MHS encountered : 68 
+
+MHS found: [4, 66, 155] of dimension 3
+MHS encountered : 69 
+
+MHS found: [4, 66, 159] of dimension 3
+MHS encountered : 70 
+
+MHS found: [4, 99, 145] of dimension 3
+MHS encountered : 71 
+
+MHS found: [4, 99, 152] of dimension 3
+MHS encountered : 72 
+
+MHS found: [4, 99, 157] of dimension 3
+MHS encountered : 73 
+
+MHS found: [4, 99, 160] of dimension 3
+MHS encountered : 74 
+
+MHS found: [4, 145, 150] of dimension 3
+MHS encountered : 75 
+
+MHS found: [4, 145, 155] of dimension 3
+MHS encountered : 76 
+
+MHS found: [4, 145, 159] of dimension 3
+MHS encountered : 77 
+
+MHS found: [4, 150, 152] of dimension 3
+MHS encountered : 78 
+
+MHS found: [4, 150, 157] of dimension 3
+MHS encountered : 79 
+
+MHS found: [4, 150, 160] of dimension 3
+MHS encountered : 80 
+
+MHS found: [4, 152, 155] of dimension 3
+MHS encountered : 81 
+
+MHS found: [4, 152, 159] of dimension 3
+MHS encountered : 82 
+
+MHS found: [4, 155, 157] of dimension 3
+MHS encountered : 83 
+
+MHS found: [4, 155, 160] of dimension 3
+MHS encountered : 84 
+
+MHS found: [4, 157, 159] of dimension 3
+MHS encountered : 85 
+
+MHS found: [4, 159, 160] of dimension 3
+MHS encountered : 86 
+
+MHS found: [8, 50, 99] of dimension 3
+MHS encountered : 87 
+
+MHS found: [8, 50, 150] of dimension 3
+MHS encountered : 88 
+
+MHS found: [8, 50, 155] of dimension 3
+MHS encountered : 89 
+
+MHS found: [8, 50, 159] of dimension 3
+MHS encountered : 90 
+
+MHS found: [8, 66, 99] of dimension 3
+MHS encountered : 91 
+
+MHS found: [8, 66, 150] of dimension 3
+MHS encountered : 92 
+
+MHS found: [8, 66, 155] of dimension 3
+MHS encountered : 93 
+
+MHS found: [8, 66, 159] of dimension 3
+MHS encountered : 94 
+
+MHS found: [8, 99, 145] of dimension 3
+MHS encountered : 95 
+
+MHS found: [8, 99, 152] of dimension 3
+MHS encountered : 96 
+
+MHS found: [8, 99, 157] of dimension 3
+MHS encountered : 97 
+
+MHS found: [8, 99, 160] of dimension 3
+MHS encountered : 98 
+
+MHS found: [8, 145, 150] of dimension 3
+MHS encountered : 99 
+
+MHS found: [8, 145, 155] of dimension 3
+MHS encountered : 100 
+
+MHS found: [8, 145, 159] of dimension 3
+MHS encountered : 101 
+
+MHS found: [8, 150, 152] of dimension 3
+MHS encountered : 102 
+
+MHS found: [8, 150, 157] of dimension 3
+MHS encountered : 103 
+
+MHS found: [8, 150, 160] of dimension 3
+MHS encountered : 104 
+
+MHS found: [8, 152, 155] of dimension 3
+MHS encountered : 105 
+
+MHS found: [8, 152, 159] of dimension 3
+MHS encountered : 106 
+
+MHS found: [8, 155, 157] of dimension 3
+MHS encountered : 107 
+
+MHS found: [8, 155, 160] of dimension 3
+MHS encountered : 108 
+
+MHS found: [8, 157, 159] of dimension 3
+MHS encountered : 109 
+
+MHS found: [8, 159, 160] of dimension 3
+MHS encountered : 110 
+
+MHS found: [10, 50, 99] of dimension 3
+MHS encountered : 111 
+
+MHS found: [10, 50, 150] of dimension 3
+MHS encountered : 112 
+
+MHS found: [10, 50, 155] of dimension 3
+MHS encountered : 113 
+
+MHS found: [10, 50, 159] of dimension 3
+MHS encountered : 114 
+
+MHS found: [10, 66, 99] of dimension 3
+MHS encountered : 115 
+
+MHS found: [10, 66, 150] of dimension 3
+MHS encountered : 116 
+
+MHS found: [10, 66, 155] of dimension 3
+MHS encountered : 117 
+
+MHS found: [10, 66, 159] of dimension 3
+MHS encountered : 118 
+
+MHS found: [10, 99, 145] of dimension 3
+MHS encountered : 119 
+
+MHS found: [10, 99, 152] of dimension 3
+MHS encountered : 120 
+
+MHS found: [10, 99, 157] of dimension 3
+MHS encountered : 121 
+
+MHS found: [10, 99, 160] of dimension 3
+MHS encountered : 122 
+
+MHS found: [10, 145, 150] of dimension 3
+MHS encountered : 123 
+
+MHS found: [10, 145, 155] of dimension 3
+MHS encountered : 124 
+
+MHS found: [10, 145, 159] of dimension 3
+MHS encountered : 125 
+
+MHS found: [10, 150, 152] of dimension 3
+MHS encountered : 126 
+
+MHS found: [10, 150, 157] of dimension 3
+MHS encountered : 127 
+
+MHS found: [10, 150, 160] of dimension 3
+MHS encountered : 128 
+
+MHS found: [10, 152, 155] of dimension 3
+MHS encountered : 129 
+
+MHS found: [10, 152, 159] of dimension 3
+MHS encountered : 130 
+
+MHS found: [10, 155, 157] of dimension 3
+MHS encountered : 131 
+
+MHS found: [10, 155, 160] of dimension 3
+MHS encountered : 132 
+
+MHS found: [10, 157, 159] of dimension 3
+MHS encountered : 133 
+
+MHS found: [10, 159, 160] of dimension 3
+MHS encountered : 134 
+
+MHS found: [12, 50, 99] of dimension 3
+MHS encountered : 135 
+
+MHS found: [12, 50, 150] of dimension 3
+MHS encountered : 136 
+
+MHS found: [12, 50, 155] of dimension 3
+MHS encountered : 137 
+
+MHS found: [12, 50, 159] of dimension 3
+MHS encountered : 138 
+
+MHS found: [12, 66, 99] of dimension 3
+MHS encountered : 139 
+
+MHS found: [12, 66, 150] of dimension 3
+MHS encountered : 140 
+
+MHS found: [12, 66, 155] of dimension 3
+MHS encountered : 141 
+
+MHS found: [12, 66, 159] of dimension 3
+MHS encountered : 142 
+
+MHS found: [12, 99, 145] of dimension 3
+MHS encountered : 143 
+
+MHS found: [12, 99, 152] of dimension 3
+MHS encountered : 144 
+
+MHS found: [12, 99, 157] of dimension 3
+MHS encountered : 145 
+
+MHS found: [12, 99, 160] of dimension 3
+MHS encountered : 146 
+
+MHS found: [12, 145, 150] of dimension 3
+MHS encountered : 147 
+
+MHS found: [12, 145, 155] of dimension 3
+MHS encountered : 148 
+
+MHS found: [12, 145, 159] of dimension 3
+MHS encountered : 149 
+
+MHS found: [12, 150, 152] of dimension 3
+MHS encountered : 150 
+
+MHS found: [12, 150, 157] of dimension 3
+MHS encountered : 151 
+
+MHS found: [12, 150, 160] of dimension 3
+MHS encountered : 152 
+
+MHS found: [12, 152, 155] of dimension 3
+MHS encountered : 153 
+
+MHS found: [12, 152, 159] of dimension 3
+MHS encountered : 154 
+
+MHS found: [12, 155, 157] of dimension 3
+MHS encountered : 155 
+
+MHS found: [12, 155, 160] of dimension 3
+MHS encountered : 156 
+
+MHS found: [12, 157, 159] of dimension 3
+MHS encountered : 157 
+
+MHS found: [12, 159, 160] of dimension 3
+MHS encountered : 158 
+
+MHS found: [21, 50, 99] of dimension 3
+MHS encountered : 159 
+
+MHS found: [21, 50, 150] of dimension 3
+MHS encountered : 160 
+
+MHS found: [21, 50, 155] of dimension 3
+MHS encountered : 161 
+
+MHS found: [21, 50, 159] of dimension 3
+MHS encountered : 162 
+
+MHS found: [21, 66, 99] of dimension 3
+MHS encountered : 163 
+
+MHS found: [21, 66, 150] of dimension 3
+MHS encountered : 164 
+
+MHS found: [21, 66, 155] of dimension 3
+MHS encountered : 165 
+
+MHS found: [21, 66, 159] of dimension 3
+MHS encountered : 166 
+
+MHS found: [21, 99, 145] of dimension 3
+MHS encountered : 167 
+
+MHS found: [21, 99, 152] of dimension 3
+MHS encountered : 168 
+
+MHS found: [21, 99, 157] of dimension 3
+MHS encountered : 169 
+
+MHS found: [21, 99, 160] of dimension 3
+MHS encountered : 170 
+
+MHS found: [21, 145, 150] of dimension 3
+MHS encountered : 171 
+
+MHS found: [21, 145, 155] of dimension 3
+MHS encountered : 172 
+
+MHS found: [21, 145, 159] of dimension 3
+MHS encountered : 173 
+
+MHS found: [21, 150, 152] of dimension 3
+MHS encountered : 174 
+
+MHS found: [21, 150, 157] of dimension 3
+MHS encountered : 175 
+
+MHS found: [21, 150, 160] of dimension 3
+MHS encountered : 176 
+
+MHS found: [21, 152, 155] of dimension 3
+MHS encountered : 177 
+
+MHS found: [21, 152, 159] of dimension 3
+MHS encountered : 178 
+
+MHS found: [21, 155, 157] of dimension 3
+MHS encountered : 179 
+
+MHS found: [21, 155, 160] of dimension 3
+MHS encountered : 180 
+
+MHS found: [21, 157, 159] of dimension 3
+MHS encountered : 181 
+
+MHS found: [21, 159, 160] of dimension 3
+MHS encountered : 182 
+
+MHS found: [23, 50, 99] of dimension 3
+MHS encountered : 183 
+
+MHS found: [23, 50, 150] of dimension 3
+MHS encountered : 184 
+
+MHS found: [23, 50, 155] of dimension 3
+MHS encountered : 185 
+
+MHS found: [23, 50, 159] of dimension 3
+MHS encountered : 186 
+
+MHS found: [23, 66, 99] of dimension 3
+MHS encountered : 187 
+
+MHS found: [23, 66, 150] of dimension 3
+MHS encountered : 188 
+
+MHS found: [23, 66, 155] of dimension 3
+MHS encountered : 189 
+
+MHS found: [23, 66, 159] of dimension 3
+MHS encountered : 190 
+
+MHS found: [23, 99, 145] of dimension 3
+MHS encountered : 191 
+
+MHS found: [23, 99, 152] of dimension 3
+MHS encountered : 192 
+
+MHS found: [23, 99, 157] of dimension 3
+MHS encountered : 193 
+
+MHS found: [23, 99, 160] of dimension 3
+MHS encountered : 194 
+
+MHS found: [23, 145, 150] of dimension 3
+MHS encountered : 195 
+
+MHS found: [23, 145, 155] of dimension 3
+MHS encountered : 196 
+
+MHS found: [23, 145, 159] of dimension 3
+MHS encountered : 197 
+
+MHS found: [23, 150, 152] of dimension 3
+MHS encountered : 198 
+
+MHS found: [23, 150, 157] of dimension 3
+MHS encountered : 199 
+
+MHS found: [23, 150, 160] of dimension 3
+MHS encountered : 200 
+
+MHS found: [23, 152, 155] of dimension 3
+MHS encountered : 201 
+
+MHS found: [23, 152, 159] of dimension 3
+MHS encountered : 202 
+
+MHS found: [23, 155, 157] of dimension 3
+MHS encountered : 203 
+
+MHS found: [23, 155, 160] of dimension 3
+MHS encountered : 204 
+
+MHS found: [23, 157, 159] of dimension 3
+MHS encountered : 205 
+
+MHS found: [23, 159, 160] of dimension 3
+MHS encountered : 206 
+
+MHS found: [25, 50, 99] of dimension 3
+MHS encountered : 207 
+
+MHS found: [25, 50, 150] of dimension 3
+MHS encountered : 208 
+
+MHS found: [25, 50, 155] of dimension 3
+MHS encountered : 209 
+
+MHS found: [25, 50, 159] of dimension 3
+MHS encountered : 210 
+
+MHS found: [25, 66, 99] of dimension 3
+MHS encountered : 211 
+
+MHS found: [25, 66, 150] of dimension 3
+MHS encountered : 212 
+
+MHS found: [25, 66, 155] of dimension 3
+MHS encountered : 213 
+
+MHS found: [25, 66, 159] of dimension 3
+MHS encountered : 214 
+
+MHS found: [25, 99, 145] of dimension 3
+MHS encountered : 215 
+
+MHS found: [25, 99, 152] of dimension 3
+MHS encountered : 216 
+
+MHS found: [25, 99, 157] of dimension 3
+MHS encountered : 217 
+
+MHS found: [25, 99, 160] of dimension 3
+MHS encountered : 218 
+
+MHS found: [25, 145, 150] of dimension 3
+MHS encountered : 219 
+
+MHS found: [25, 145, 155] of dimension 3
+MHS encountered : 220 
+
+MHS found: [25, 145, 159] of dimension 3
+MHS encountered : 221 
+
+MHS found: [25, 150, 152] of dimension 3
+MHS encountered : 222 
+
+MHS found: [25, 150, 157] of dimension 3
+MHS encountered : 223 
+
+MHS found: [25, 150, 160] of dimension 3
+MHS encountered : 224 
+
+MHS found: [25, 152, 155] of dimension 3
+MHS encountered : 225 
+
+MHS found: [25, 152, 159] of dimension 3
+MHS encountered : 226 
+
+MHS found: [25, 155, 157] of dimension 3
+MHS encountered : 227 
+
+MHS found: [25, 155, 160] of dimension 3
+MHS encountered : 228 
+
+MHS found: [25, 157, 159] of dimension 3
+MHS encountered : 229 
+
+MHS found: [25, 159, 160] of dimension 3
+MHS encountered : 230 
+
+MHS found: [26, 50, 99] of dimension 3
+MHS encountered : 231 
+
+MHS found: [26, 50, 150] of dimension 3
+MHS encountered : 232 
+
+MHS found: [26, 50, 155] of dimension 3
+MHS encountered : 233 
+
+MHS found: [26, 50, 159] of dimension 3
+MHS encountered : 234 
+
+MHS found: [26, 66, 99] of dimension 3
+MHS encountered : 235 
+
+MHS found: [26, 66, 150] of dimension 3
+MHS encountered : 236 
+
+MHS found: [26, 66, 155] of dimension 3
+MHS encountered : 237 
+
+MHS found: [26, 66, 159] of dimension 3
+MHS encountered : 238 
+
+MHS found: [26, 99, 145] of dimension 3
+MHS encountered : 239 
+
+MHS found: [26, 99, 152] of dimension 3
+MHS encountered : 240 
+
+MHS found: [26, 99, 157] of dimension 3
+MHS encountered : 241 
+
+MHS found: [26, 99, 160] of dimension 3
+MHS encountered : 242 
+
+MHS found: [26, 145, 150] of dimension 3
+MHS encountered : 243 
+
+MHS found: [26, 145, 155] of dimension 3
+MHS encountered : 244 
+
+MHS found: [26, 145, 159] of dimension 3
+MHS encountered : 245 
+
+MHS found: [26, 150, 152] of dimension 3
+MHS encountered : 246 
+
+MHS found: [26, 150, 157] of dimension 3
+MHS encountered : 247 
+
+MHS found: [26, 150, 160] of dimension 3
+MHS encountered : 248 
+
+MHS found: [26, 152, 155] of dimension 3
+MHS encountered : 249 
+
+MHS found: [26, 152, 159] of dimension 3
+MHS encountered : 250 
+
+MHS found: [26, 155, 157] of dimension 3
+MHS encountered : 251 
+
+MHS found: [26, 155, 160] of dimension 3
+MHS encountered : 252 
+
+MHS found: [26, 157, 159] of dimension 3
+MHS encountered : 253 
+
+MHS found: [26, 159, 160] of dimension 3
+MHS encountered : 254 
+
+MHS found: [27, 50, 99] of dimension 3
+MHS encountered : 255 
+
+MHS found: [27, 50, 150] of dimension 3
+MHS encountered : 256 
+
+MHS found: [27, 50, 155] of dimension 3
+MHS encountered : 257 
+
+MHS found: [27, 50, 159] of dimension 3
+MHS encountered : 258 
+
+MHS found: [27, 66, 99] of dimension 3
+MHS encountered : 259 
+
+MHS found: [27, 66, 150] of dimension 3
+MHS encountered : 260 
+
+MHS found: [27, 66, 155] of dimension 3
+MHS encountered : 261 
+
+MHS found: [27, 66, 159] of dimension 3
+MHS encountered : 262 
+
+MHS found: [27, 99, 145] of dimension 3
+MHS encountered : 263 
+
+MHS found: [27, 99, 152] of dimension 3
+MHS encountered : 264 
+
+MHS found: [27, 99, 157] of dimension 3
+MHS encountered : 265 
+
+MHS found: [27, 99, 160] of dimension 3
+MHS encountered : 266 
+
+MHS found: [27, 145, 150] of dimension 3
+MHS encountered : 267 
+
+MHS found: [27, 145, 155] of dimension 3
+MHS encountered : 268 
+
+MHS found: [27, 145, 159] of dimension 3
+MHS encountered : 269 
+
+MHS found: [27, 150, 152] of dimension 3
+MHS encountered : 270 
+
+MHS found: [27, 150, 157] of dimension 3
+MHS encountered : 271 
+
+MHS found: [27, 150, 160] of dimension 3
+MHS encountered : 272 
+
+MHS found: [27, 152, 155] of dimension 3
+MHS encountered : 273 
+
+MHS found: [27, 152, 159] of dimension 3
+MHS encountered : 274 
+
+MHS found: [27, 155, 157] of dimension 3
+MHS encountered : 275 
+
+MHS found: [27, 155, 160] of dimension 3
+MHS encountered : 276 
+
+MHS found: [27, 157, 159] of dimension 3
+MHS encountered : 277 
+
+MHS found: [27, 159, 160] of dimension 3
+MHS encountered : 278 
+
+MHS found: [33, 50, 99] of dimension 3
+MHS encountered : 279 
+
+MHS found: [33, 50, 150] of dimension 3
+MHS encountered : 280 
+
+MHS found: [33, 50, 155] of dimension 3
+MHS encountered : 281 
+
+MHS found: [33, 50, 159] of dimension 3
+MHS encountered : 282 
+
+MHS found: [33, 66, 99] of dimension 3
+MHS encountered : 283 
+
+MHS found: [33, 66, 150] of dimension 3
+MHS encountered : 284 
+
+MHS found: [33, 66, 155] of dimension 3
+MHS encountered : 285 
+
+MHS found: [33, 66, 159] of dimension 3
+MHS encountered : 286 
+
+MHS found: [33, 99, 145] of dimension 3
+MHS encountered : 287 
+
+MHS found: [33, 99, 152] of dimension 3
+MHS encountered : 288 
+
+MHS found: [33, 99, 157] of dimension 3
+MHS encountered : 289 
+
+MHS found: [33, 99, 160] of dimension 3
+MHS encountered : 290 
+
+MHS found: [33, 145, 150] of dimension 3
+MHS encountered : 291 
+
+MHS found: [33, 145, 155] of dimension 3
+MHS encountered : 292 
+
+MHS found: [33, 145, 159] of dimension 3
+MHS encountered : 293 
+
+MHS found: [33, 150, 152] of dimension 3
+MHS encountered : 294 
+
+MHS found: [33, 150, 157] of dimension 3
+MHS encountered : 295 
+
+MHS found: [33, 150, 160] of dimension 3
+MHS encountered : 296 
+
+MHS found: [33, 152, 155] of dimension 3
+MHS encountered : 297 
+
+MHS found: [33, 152, 159] of dimension 3
+MHS encountered : 298 
+
+MHS found: [33, 155, 157] of dimension 3
+MHS encountered : 299 
+
+MHS found: [33, 155, 160] of dimension 3
+MHS encountered : 300 
+
+MHS found: [33, 157, 159] of dimension 3
+MHS encountered : 301 
+
+MHS found: [33, 159, 160] of dimension 3
+MHS encountered : 302 
+
+MHS found: [39, 50, 99] of dimension 3
+MHS encountered : 303 
+
+MHS found: [39, 50, 150] of dimension 3
+MHS encountered : 304 
+
+MHS found: [39, 50, 155] of dimension 3
+MHS encountered : 305 
+
+MHS found: [39, 50, 159] of dimension 3
+MHS encountered : 306 
+
+MHS found: [39, 66, 99] of dimension 3
+MHS encountered : 307 
+
+MHS found: [39, 66, 150] of dimension 3
+MHS encountered : 308 
+
+MHS found: [39, 66, 155] of dimension 3
+MHS encountered : 309 
+
+MHS found: [39, 66, 159] of dimension 3
+MHS encountered : 310 
+
+MHS found: [39, 99, 145] of dimension 3
+MHS encountered : 311 
+
+MHS found: [39, 99, 152] of dimension 3
+MHS encountered : 312 
+
+MHS found: [39, 99, 157] of dimension 3
+MHS encountered : 313 
+
+MHS found: [39, 99, 160] of dimension 3
+MHS encountered : 314 
+
+MHS found: [39, 145, 150] of dimension 3
+MHS encountered : 315 
+
+MHS found: [39, 145, 155] of dimension 3
+MHS encountered : 316 
+
+MHS found: [39, 145, 159] of dimension 3
+MHS encountered : 317 
+
+MHS found: [39, 150, 152] of dimension 3
+MHS encountered : 318 
+
+MHS found: [39, 150, 157] of dimension 3
+MHS encountered : 319 
+
+MHS found: [39, 150, 160] of dimension 3
+MHS encountered : 320 
+
+MHS found: [39, 152, 155] of dimension 3
+MHS encountered : 321 
+
+MHS found: [39, 152, 159] of dimension 3
+MHS encountered : 322 
+
+MHS found: [39, 155, 157] of dimension 3
+MHS encountered : 323 
+
+MHS found: [39, 155, 160] of dimension 3
+MHS encountered : 324 
+
+MHS found: [39, 157, 159] of dimension 3
+MHS encountered : 325 
+
+MHS found: [39, 159, 160] of dimension 3
+MHS encountered : 326 
+
+MHS found: [41, 50, 99] of dimension 3
+MHS encountered : 327 
+
+MHS found: [41, 50, 150] of dimension 3
+MHS encountered : 328 
+
+MHS found: [41, 50, 155] of dimension 3
+MHS encountered : 329 
+
+MHS found: [41, 50, 159] of dimension 3
+MHS encountered : 330 
+
+MHS found: [41, 66, 99] of dimension 3
+MHS encountered : 331 
+
+MHS found: [41, 66, 150] of dimension 3
+MHS encountered : 332 
+
+MHS found: [41, 66, 155] of dimension 3
+MHS encountered : 333 
+
+MHS found: [41, 66, 159] of dimension 3
+MHS encountered : 334 
+
+MHS found: [41, 99, 145] of dimension 3
+MHS encountered : 335 
+
+MHS found: [41, 99, 152] of dimension 3
+MHS encountered : 336 
+
+MHS found: [41, 99, 157] of dimension 3
+MHS encountered : 337 
+
+MHS found: [41, 99, 160] of dimension 3
+MHS encountered : 338 
+
+MHS found: [41, 145, 150] of dimension 3
+MHS encountered : 339 
+
+MHS found: [41, 145, 155] of dimension 3
+MHS encountered : 340 
+
+MHS found: [41, 145, 159] of dimension 3
+MHS encountered : 341 
+
+MHS found: [41, 150, 152] of dimension 3
+MHS encountered : 342 
+
+MHS found: [41, 150, 157] of dimension 3
+MHS encountered : 343 
+
+MHS found: [41, 150, 160] of dimension 3
+MHS encountered : 344 
+
+MHS found: [41, 152, 155] of dimension 3
+MHS encountered : 345 
+
+MHS found: [41, 152, 159] of dimension 3
+MHS encountered : 346 
+
+MHS found: [41, 155, 157] of dimension 3
+MHS encountered : 347 
+
+MHS found: [41, 155, 160] of dimension 3
+MHS encountered : 348 
+
+MHS found: [41, 157, 159] of dimension 3
+MHS encountered : 349 
+
+MHS found: [41, 159, 160] of dimension 3
+MHS encountered : 350 
+
+MHS found: [43, 50, 99] of dimension 3
+MHS encountered : 351 
+
+MHS found: [43, 50, 150] of dimension 3
+MHS encountered : 352 
+
+MHS found: [43, 50, 155] of dimension 3
+MHS encountered : 353 
+
+MHS found: [43, 50, 159] of dimension 3
+MHS encountered : 354 
+
+MHS found: [43, 66, 99] of dimension 3
+MHS encountered : 355 
+
+MHS found: [43, 66, 150] of dimension 3
+MHS encountered : 356 
+
+MHS found: [43, 66, 155] of dimension 3
+MHS encountered : 357 
+
+MHS found: [43, 66, 159] of dimension 3
+MHS encountered : 358 
+
+MHS found: [43, 99, 145] of dimension 3
+MHS encountered : 359 
+
+MHS found: [43, 99, 152] of dimension 3
+MHS encountered : 360 
+
+MHS found: [43, 99, 157] of dimension 3
+MHS encountered : 361 
+
+MHS found: [43, 99, 160] of dimension 3
+MHS encountered : 362 
+
+MHS found: [43, 145, 150] of dimension 3
+MHS encountered : 363 
+
+MHS found: [43, 145, 155] of dimension 3
+MHS encountered : 364 
+
+MHS found: [43, 145, 159] of dimension 3
+MHS encountered : 365 
+
+MHS found: [43, 150, 152] of dimension 3
+MHS encountered : 366 
+
+MHS found: [43, 150, 157] of dimension 3
+MHS encountered : 367 
+
+MHS found: [43, 150, 160] of dimension 3
+MHS encountered : 368 
+
+MHS found: [43, 152, 155] of dimension 3
+MHS encountered : 369 
+
+MHS found: [43, 152, 159] of dimension 3
+MHS encountered : 370 
+
+MHS found: [43, 155, 157] of dimension 3
+MHS encountered : 371 
+
+MHS found: [43, 155, 160] of dimension 3
+MHS encountered : 372 
+
+MHS found: [43, 157, 159] of dimension 3
+MHS encountered : 373 
+
+MHS found: [43, 159, 160] of dimension 3
+MHS encountered : 374 
+
+MHS found: [45, 50, 99] of dimension 3
+MHS encountered : 375 
+
+MHS found: [45, 50, 150] of dimension 3
+MHS encountered : 376 
+
+MHS found: [45, 50, 155] of dimension 3
+MHS encountered : 377 
+
+MHS found: [45, 50, 159] of dimension 3
+MHS encountered : 378 
+
+MHS found: [45, 66, 99] of dimension 3
+MHS encountered : 379 
+
+MHS found: [45, 66, 150] of dimension 3
+MHS encountered : 380 
+
+MHS found: [45, 66, 155] of dimension 3
+MHS encountered : 381 
+
+MHS found: [45, 66, 159] of dimension 3
+MHS encountered : 382 
+
+MHS found: [45, 99, 145] of dimension 3
+MHS encountered : 383 
+
+MHS found: [45, 99, 152] of dimension 3
+MHS encountered : 384 
+
+MHS found: [45, 99, 157] of dimension 3
+MHS encountered : 385 
+
+MHS found: [45, 99, 160] of dimension 3
+MHS encountered : 386 
+
+MHS found: [45, 145, 150] of dimension 3
+MHS encountered : 387 
+
+MHS found: [45, 145, 155] of dimension 3
+MHS encountered : 388 
+
+MHS found: [45, 145, 159] of dimension 3
+MHS encountered : 389 
+
+MHS found: [45, 150, 152] of dimension 3
+MHS encountered : 390 
+
+MHS found: [45, 150, 157] of dimension 3
+MHS encountered : 391 
+
+MHS found: [45, 150, 160] of dimension 3
+MHS encountered : 392 
+
+MHS found: [45, 152, 155] of dimension 3
+MHS encountered : 393 
+
+MHS found: [45, 152, 159] of dimension 3
+MHS encountered : 394 
+
+MHS found: [45, 155, 157] of dimension 3
+MHS encountered : 395 
+
+MHS found: [45, 155, 160] of dimension 3
+MHS encountered : 396 
+
+MHS found: [45, 157, 159] of dimension 3
+MHS encountered : 397 
+
+MHS found: [45, 159, 160] of dimension 3
+MHS encountered : 398 
+
+MHS found: [47, 50, 99] of dimension 3
+MHS encountered : 399 
+
+MHS found: [47, 50, 150] of dimension 3
+MHS encountered : 400 
+
+MHS found: [47, 50, 155] of dimension 3
+MHS encountered : 401 
+
+MHS found: [47, 50, 159] of dimension 3
+MHS encountered : 402 
+
+MHS found: [47, 66, 99] of dimension 3
+MHS encountered : 403 
+
+MHS found: [47, 66, 150] of dimension 3
+MHS encountered : 404 
+
+MHS found: [47, 66, 155] of dimension 3
+MHS encountered : 405 
+
+MHS found: [47, 66, 159] of dimension 3
+MHS encountered : 406 
+
+MHS found: [47, 99, 145] of dimension 3
+MHS encountered : 407 
+
+MHS found: [47, 99, 152] of dimension 3
+MHS encountered : 408 
+
+MHS found: [47, 99, 157] of dimension 3
+MHS encountered : 409 
+
+MHS found: [47, 99, 160] of dimension 3
+MHS encountered : 410 
+
+MHS found: [47, 145, 150] of dimension 3
+MHS encountered : 411 
+
+MHS found: [47, 145, 155] of dimension 3
+MHS encountered : 412 
+
+MHS found: [47, 145, 159] of dimension 3
+MHS encountered : 413 
+
+MHS found: [47, 150, 152] of dimension 3
+MHS encountered : 414 
+
+MHS found: [47, 150, 157] of dimension 3
+MHS encountered : 415 
+
+MHS found: [47, 150, 160] of dimension 3
+MHS encountered : 416 
+
+MHS found: [47, 152, 155] of dimension 3
+MHS encountered : 417 
+
+MHS found: [47, 152, 159] of dimension 3
+MHS encountered : 418 
+
+MHS found: [47, 155, 157] of dimension 3
+MHS encountered : 419 
+
+MHS found: [47, 155, 160] of dimension 3
+MHS encountered : 420 
+
+MHS found: [47, 157, 159] of dimension 3
+MHS encountered : 421 
+
+MHS found: [47, 159, 160] of dimension 3
+MHS encountered : 422 
+
+MHS found: [48, 50, 99] of dimension 3
+MHS encountered : 423 
+
+MHS found: [48, 50, 150] of dimension 3
+MHS encountered : 424 
+
+MHS found: [48, 50, 155] of dimension 3
+MHS encountered : 425 
+
+MHS found: [48, 50, 159] of dimension 3
+MHS encountered : 426 
+
+MHS found: [48, 66, 99] of dimension 3
+MHS encountered : 427 
+
+MHS found: [48, 66, 150] of dimension 3
+MHS encountered : 428 
+
+MHS found: [48, 66, 155] of dimension 3
+MHS encountered : 429 
+
+MHS found: [48, 66, 159] of dimension 3
+MHS encountered : 430 
+
+MHS found: [48, 99, 145] of dimension 3
+MHS encountered : 431 
+
+MHS found: [48, 99, 152] of dimension 3
+MHS encountered : 432 
+
+MHS found: [48, 99, 157] of dimension 3
+MHS encountered : 433 
+
+MHS found: [48, 99, 160] of dimension 3
+MHS encountered : 434 
+
+MHS found: [48, 145, 150] of dimension 3
+MHS encountered : 435 
+
+MHS found: [48, 145, 155] of dimension 3
+MHS encountered : 436 
+
+MHS found: [48, 145, 159] of dimension 3
+MHS encountered : 437 
+
+MHS found: [48, 150, 152] of dimension 3
+MHS encountered : 438 
+
+MHS found: [48, 150, 157] of dimension 3
+MHS encountered : 439 
+
+MHS found: [48, 150, 160] of dimension 3
+MHS encountered : 440 
+
+MHS found: [48, 152, 155] of dimension 3
+MHS encountered : 441 
+
+MHS found: [48, 152, 159] of dimension 3
+MHS encountered : 442 
+
+MHS found: [48, 155, 157] of dimension 3
+MHS encountered : 443 
+
+MHS found: [48, 155, 160] of dimension 3
+MHS encountered : 444 
+
+MHS found: [48, 157, 159] of dimension 3
+MHS encountered : 445 
+
+MHS found: [48, 159, 160] of dimension 3
+MHS encountered : 446 
+
+MHS found: [50, 52, 99] of dimension 3
+MHS encountered : 447 
+
+MHS found: [50, 52, 150] of dimension 3
+MHS encountered : 448 
+
+MHS found: [50, 52, 155] of dimension 3
+MHS encountered : 449 
+
+MHS found: [50, 52, 159] of dimension 3
+MHS encountered : 450 
+
+MHS found: [50, 54, 99] of dimension 3
+MHS encountered : 451 
+
+MHS found: [50, 54, 150] of dimension 3
+MHS encountered : 452 
+
+MHS found: [50, 54, 155] of dimension 3
+MHS encountered : 453 
+
+MHS found: [50, 54, 159] of dimension 3
+MHS encountered : 454 
+
+MHS found: [50, 55, 99] of dimension 3
+MHS encountered : 455 
+
+MHS found: [50, 55, 150] of dimension 3
+MHS encountered : 456 
+
+MHS found: [50, 55, 155] of dimension 3
+MHS encountered : 457 
+
+MHS found: [50, 55, 159] of dimension 3
+MHS encountered : 458 
+
+MHS found: [50, 63, 99] of dimension 3
+MHS encountered : 459 
+
+MHS found: [50, 63, 150] of dimension 3
+MHS encountered : 460 
+
+MHS found: [50, 63, 155] of dimension 3
+MHS encountered : 461 
+
+MHS found: [50, 63, 159] of dimension 3
+MHS encountered : 462 
+
+MHS found: [50, 64, 99] of dimension 3
+MHS encountered : 463 
+
+MHS found: [50, 64, 150] of dimension 3
+MHS encountered : 464 
+
+MHS found: [50, 64, 155] of dimension 3
+MHS encountered : 465 
+
+MHS found: [50, 64, 159] of dimension 3
+MHS encountered : 466 
+
+MHS found: [50, 69, 99] of dimension 3
+MHS encountered : 467 
+
+MHS found: [50, 69, 150] of dimension 3
+MHS encountered : 468 
+
+MHS found: [50, 69, 155] of dimension 3
+MHS encountered : 469 
+
+MHS found: [50, 69, 159] of dimension 3
+MHS encountered : 470 
+
+MHS found: [50, 71, 99] of dimension 3
+MHS encountered : 471 
+
+MHS found: [50, 71, 150] of dimension 3
+MHS encountered : 472 
+
+MHS found: [50, 71, 155] of dimension 3
+MHS encountered : 473 
+
+MHS found: [50, 71, 159] of dimension 3
+MHS encountered : 474 
+
+MHS found: [50, 72, 99] of dimension 3
+MHS encountered : 475 
+
+MHS found: [50, 72, 150] of dimension 3
+MHS encountered : 476 
+
+MHS found: [50, 72, 155] of dimension 3
+MHS encountered : 477 
+
+MHS found: [50, 72, 159] of dimension 3
+MHS encountered : 478 
+
+MHS found: [50, 73, 99] of dimension 3
+MHS encountered : 479 
+
+MHS found: [50, 73, 150] of dimension 3
+MHS encountered : 480 
+
+MHS found: [50, 73, 155] of dimension 3
+MHS encountered : 481 
+
+MHS found: [50, 73, 159] of dimension 3
+MHS encountered : 482 
+
+MHS found: [50, 74, 99] of dimension 3
+MHS encountered : 483 
+
+MHS found: [50, 74, 150] of dimension 3
+MHS encountered : 484 
+
+MHS found: [50, 74, 155] of dimension 3
+MHS encountered : 485 
+
+MHS found: [50, 74, 159] of dimension 3
+MHS encountered : 486 
+
+MHS found: [50, 75, 99] of dimension 3
+MHS encountered : 487 
+
+MHS found: [50, 75, 150] of dimension 3
+MHS encountered : 488 
+
+MHS found: [50, 75, 155] of dimension 3
+MHS encountered : 489 
+
+MHS found: [50, 75, 159] of dimension 3
+MHS encountered : 490 
+
+MHS found: [50, 76, 99] of dimension 3
+MHS encountered : 491 
+
+MHS found: [50, 76, 150] of dimension 3
+MHS encountered : 492 
+
+MHS found: [50, 76, 155] of dimension 3
+MHS encountered : 493 
+
+MHS found: [50, 76, 159] of dimension 3
+MHS encountered : 494 
+
+MHS found: [50, 77, 99] of dimension 3
+MHS encountered : 495 
+
+MHS found: [50, 77, 150] of dimension 3
+MHS encountered : 496 
+
+MHS found: [50, 77, 155] of dimension 3
+MHS encountered : 497 
+
+MHS found: [50, 77, 159] of dimension 3
+MHS encountered : 498 
+
+MHS found: [50, 78, 99] of dimension 3
+MHS encountered : 499 
+
+MHS found: [50, 78, 150] of dimension 3
+MHS encountered : 500 
+
+MHS found: [50, 78, 155] of dimension 3
+MHS encountered : 501 
+
+MHS found: [50, 78, 159] of dimension 3
+MHS encountered : 502 
+
+MHS found: [50, 87, 99] of dimension 3
+MHS encountered : 503 
+
+MHS found: [50, 87, 150] of dimension 3
+MHS encountered : 504 
+
+MHS found: [50, 87, 155] of dimension 3
+MHS encountered : 505 
+
+MHS found: [50, 87, 159] of dimension 3
+MHS encountered : 506 
+
+MHS found: [50, 99, 142] of dimension 3
+MHS encountered : 507 
+
+MHS found: [50, 99, 143] of dimension 3
+MHS encountered : 508 
+
+MHS found: [50, 142, 150] of dimension 3
+MHS encountered : 509 
+
+MHS found: [50, 142, 155] of dimension 3
+MHS encountered : 510 
+
+MHS found: [50, 142, 159] of dimension 3
+MHS encountered : 511 
+
+MHS found: [50, 143, 150] of dimension 3
+MHS encountered : 512 
+
+MHS found: [50, 143, 155] of dimension 3
+MHS encountered : 513 
+
+MHS found: [50, 143, 159] of dimension 3
+MHS encountered : 514 
+
+MHS found: [52, 66, 99] of dimension 3
+MHS encountered : 515 
+
+MHS found: [52, 66, 150] of dimension 3
+MHS encountered : 516 
+
+MHS found: [52, 66, 155] of dimension 3
+MHS encountered : 517 
+
+MHS found: [52, 66, 159] of dimension 3
+MHS encountered : 518 
+
+MHS found: [52, 99, 145] of dimension 3
+MHS encountered : 519 
+
+MHS found: [52, 99, 152] of dimension 3
+MHS encountered : 520 
+
+MHS found: [52, 99, 157] of dimension 3
+MHS encountered : 521 
+
+MHS found: [52, 99, 160] of dimension 3
+MHS encountered : 522 
+
+MHS found: [52, 145, 150] of dimension 3
+MHS encountered : 523 
+
+MHS found: [52, 145, 155] of dimension 3
+MHS encountered : 524 
+
+MHS found: [52, 145, 159] of dimension 3
+MHS encountered : 525 
+
+MHS found: [52, 150, 152] of dimension 3
+MHS encountered : 526 
+
+MHS found: [52, 150, 157] of dimension 3
+MHS encountered : 527 
+
+MHS found: [52, 150, 160] of dimension 3
+MHS encountered : 528 
+
+MHS found: [52, 152, 155] of dimension 3
+MHS encountered : 529 
+
+MHS found: [52, 152, 159] of dimension 3
+MHS encountered : 530 
+
+MHS found: [52, 155, 157] of dimension 3
+MHS encountered : 531 
+
+MHS found: [52, 155, 160] of dimension 3
+MHS encountered : 532 
+
+MHS found: [52, 157, 159] of dimension 3
+MHS encountered : 533 
+
+MHS found: [52, 159, 160] of dimension 3
+MHS encountered : 534 
+
+MHS found: [54, 66, 99] of dimension 3
+MHS encountered : 535 
+
+MHS found: [54, 66, 150] of dimension 3
+MHS encountered : 536 
+
+MHS found: [54, 66, 155] of dimension 3
+MHS encountered : 537 
+
+MHS found: [54, 66, 159] of dimension 3
+MHS encountered : 538 
+
+MHS found: [54, 99, 145] of dimension 3
+MHS encountered : 539 
+
+MHS found: [54, 99, 152] of dimension 3
+MHS encountered : 540 
+
+MHS found: [54, 99, 157] of dimension 3
+MHS encountered : 541 
+
+MHS found: [54, 99, 160] of dimension 3
+MHS encountered : 542 
+
+MHS found: [54, 145, 150] of dimension 3
+MHS encountered : 543 
+
+MHS found: [54, 145, 155] of dimension 3
+MHS encountered : 544 
+
+MHS found: [54, 145, 159] of dimension 3
+MHS encountered : 545 
+
+MHS found: [54, 150, 152] of dimension 3
+MHS encountered : 546 
+
+MHS found: [54, 150, 157] of dimension 3
+MHS encountered : 547 
+
+MHS found: [54, 150, 160] of dimension 3
+MHS encountered : 548 
+
+MHS found: [54, 152, 155] of dimension 3
+MHS encountered : 549 
+
+MHS found: [54, 152, 159] of dimension 3
+MHS encountered : 550 
+
+MHS found: [54, 155, 157] of dimension 3
+MHS encountered : 551 
+
+MHS found: [54, 155, 160] of dimension 3
+MHS encountered : 552 
+
+MHS found: [54, 157, 159] of dimension 3
+MHS encountered : 553 
+
+MHS found: [54, 159, 160] of dimension 3
+MHS encountered : 554 
+
+MHS found: [55, 66, 99] of dimension 3
+MHS encountered : 555 
+
+MHS found: [55, 66, 150] of dimension 3
+MHS encountered : 556 
+
+MHS found: [55, 66, 155] of dimension 3
+MHS encountered : 557 
+
+MHS found: [55, 66, 159] of dimension 3
+MHS encountered : 558 
+
+MHS found: [55, 99, 145] of dimension 3
+MHS encountered : 559 
+
+MHS found: [55, 99, 152] of dimension 3
+MHS encountered : 560 
+
+MHS found: [55, 99, 157] of dimension 3
+MHS encountered : 561 
+
+MHS found: [55, 99, 160] of dimension 3
+MHS encountered : 562 
+
+MHS found: [55, 145, 150] of dimension 3
+MHS encountered : 563 
+
+MHS found: [55, 145, 155] of dimension 3
+MHS encountered : 564 
+
+MHS found: [55, 145, 159] of dimension 3
+MHS encountered : 565 
+
+MHS found: [55, 150, 152] of dimension 3
+MHS encountered : 566 
+
+MHS found: [55, 150, 157] of dimension 3
+MHS encountered : 567 
+
+MHS found: [55, 150, 160] of dimension 3
+MHS encountered : 568 
+
+MHS found: [55, 152, 155] of dimension 3
+MHS encountered : 569 
+
+MHS found: [55, 152, 159] of dimension 3
+MHS encountered : 570 
+
+MHS found: [55, 155, 157] of dimension 3
+MHS encountered : 571 
+
+MHS found: [55, 155, 160] of dimension 3
+MHS encountered : 572 
+
+MHS found: [55, 157, 159] of dimension 3
+MHS encountered : 573 
+
+MHS found: [55, 159, 160] of dimension 3
+MHS encountered : 574 
+
+MHS found: [63, 66, 99] of dimension 3
+MHS encountered : 575 
+
+MHS found: [63, 66, 150] of dimension 3
+MHS encountered : 576 
+
+MHS found: [63, 66, 155] of dimension 3
+MHS encountered : 577 
+
+MHS found: [63, 66, 159] of dimension 3
+MHS encountered : 578 
+
+MHS found: [63, 99, 145] of dimension 3
+MHS encountered : 579 
+
+MHS found: [63, 99, 152] of dimension 3
+MHS encountered : 580 
+
+MHS found: [63, 99, 157] of dimension 3
+MHS encountered : 581 
+
+MHS found: [63, 99, 160] of dimension 3
+MHS encountered : 582 
+
+MHS found: [63, 145, 150] of dimension 3
+MHS encountered : 583 
+
+MHS found: [63, 145, 155] of dimension 3
+MHS encountered : 584 
+
+MHS found: [63, 145, 159] of dimension 3
+MHS encountered : 585 
+
+MHS found: [63, 150, 152] of dimension 3
+MHS encountered : 586 
+
+MHS found: [63, 150, 157] of dimension 3
+MHS encountered : 587 
+
+MHS found: [63, 150, 160] of dimension 3
+MHS encountered : 588 
+
+MHS found: [63, 152, 155] of dimension 3
+MHS encountered : 589 
+
+MHS found: [63, 152, 159] of dimension 3
+MHS encountered : 590 
+
+MHS found: [63, 155, 157] of dimension 3
+MHS encountered : 591 
+
+MHS found: [63, 155, 160] of dimension 3
+MHS encountered : 592 
+
+MHS found: [63, 157, 159] of dimension 3
+MHS encountered : 593 
+
+MHS found: [63, 159, 160] of dimension 3
+MHS encountered : 594 
+
+MHS found: [64, 66, 99] of dimension 3
+MHS encountered : 595 
+
+MHS found: [64, 66, 150] of dimension 3
+MHS encountered : 596 
+
+MHS found: [64, 66, 155] of dimension 3
+MHS encountered : 597 
+
+MHS found: [64, 66, 159] of dimension 3
+MHS encountered : 598 
+
+MHS found: [64, 99, 145] of dimension 3
+MHS encountered : 599 
+
+MHS found: [64, 99, 152] of dimension 3
+MHS encountered : 600 
+
+MHS found: [64, 99, 157] of dimension 3
+MHS encountered : 601 
+
+MHS found: [64, 99, 160] of dimension 3
+MHS encountered : 602 
+
+MHS found: [64, 145, 150] of dimension 3
+MHS encountered : 603 
+
+MHS found: [64, 145, 155] of dimension 3
+MHS encountered : 604 
+
+MHS found: [64, 145, 159] of dimension 3
+MHS encountered : 605 
+
+MHS found: [64, 150, 152] of dimension 3
+MHS encountered : 606 
+
+MHS found: [64, 150, 157] of dimension 3
+MHS encountered : 607 
+
+MHS found: [64, 150, 160] of dimension 3
+MHS encountered : 608 
+
+MHS found: [64, 152, 155] of dimension 3
+MHS encountered : 609 
+
+MHS found: [64, 152, 159] of dimension 3
+MHS encountered : 610 
+
+MHS found: [64, 155, 157] of dimension 3
+MHS encountered : 611 
+
+MHS found: [64, 155, 160] of dimension 3
+MHS encountered : 612 
+
+MHS found: [64, 157, 159] of dimension 3
+MHS encountered : 613 
+
+MHS found: [64, 159, 160] of dimension 3
+MHS encountered : 614 
+
+MHS found: [66, 69, 99] of dimension 3
+MHS encountered : 615 
+
+MHS found: [66, 69, 150] of dimension 3
+MHS encountered : 616 
+
+MHS found: [66, 69, 155] of dimension 3
+MHS encountered : 617 
+
+MHS found: [66, 69, 159] of dimension 3
+MHS encountered : 618 
+
+MHS found: [66, 71, 99] of dimension 3
+MHS encountered : 619 
+
+MHS found: [66, 71, 150] of dimension 3
+MHS encountered : 620 
+
+MHS found: [66, 71, 155] of dimension 3
+MHS encountered : 621 
+
+MHS found: [66, 71, 159] of dimension 3
+MHS encountered : 622 
+
+MHS found: [66, 72, 99] of dimension 3
+MHS encountered : 623 
+
+MHS found: [66, 72, 150] of dimension 3
+MHS encountered : 624 
+
+MHS found: [66, 72, 155] of dimension 3
+MHS encountered : 625 
+
+MHS found: [66, 72, 159] of dimension 3
+MHS encountered : 626 
+
+MHS found: [66, 73, 99] of dimension 3
+MHS encountered : 627 
+
+MHS found: [66, 73, 150] of dimension 3
+MHS encountered : 628 
+
+MHS found: [66, 73, 155] of dimension 3
+MHS encountered : 629 
+
+MHS found: [66, 73, 159] of dimension 3
+MHS encountered : 630 
+
+MHS found: [66, 74, 99] of dimension 3
+MHS encountered : 631 
+
+MHS found: [66, 74, 150] of dimension 3
+MHS encountered : 632 
+
+MHS found: [66, 74, 155] of dimension 3
+MHS encountered : 633 
+
+MHS found: [66, 74, 159] of dimension 3
+MHS encountered : 634 
+
+MHS found: [66, 75, 99] of dimension 3
+MHS encountered : 635 
+
+MHS found: [66, 75, 150] of dimension 3
+MHS encountered : 636 
+
+MHS found: [66, 75, 155] of dimension 3
+MHS encountered : 637 
+
+MHS found: [66, 75, 159] of dimension 3
+MHS encountered : 638 
+
+MHS found: [66, 76, 99] of dimension 3
+MHS encountered : 639 
+
+MHS found: [66, 76, 150] of dimension 3
+MHS encountered : 640 
+
+MHS found: [66, 76, 155] of dimension 3
+MHS encountered : 641 
+
+MHS found: [66, 76, 159] of dimension 3
+MHS encountered : 642 
+
+MHS found: [66, 77, 99] of dimension 3
+MHS encountered : 643 
+
+MHS found: [66, 77, 150] of dimension 3
+MHS encountered : 644 
+
+MHS found: [66, 77, 155] of dimension 3
+MHS encountered : 645 
+
+MHS found: [66, 77, 159] of dimension 3
+MHS encountered : 646 
+
+MHS found: [66, 78, 99] of dimension 3
+MHS encountered : 647 
+
+MHS found: [66, 78, 150] of dimension 3
+MHS encountered : 648 
+
+MHS found: [66, 78, 155] of dimension 3
+MHS encountered : 649 
+
+MHS found: [66, 78, 159] of dimension 3
+MHS encountered : 650 
+
+MHS found: [66, 87, 99] of dimension 3
+MHS encountered : 651 
+
+MHS found: [66, 87, 150] of dimension 3
+MHS encountered : 652 
+
+MHS found: [66, 87, 155] of dimension 3
+MHS encountered : 653 
+
+MHS found: [66, 87, 159] of dimension 3
+MHS encountered : 654 
+
+MHS found: [66, 99, 142] of dimension 3
+MHS encountered : 655 
+
+MHS found: [66, 99, 143] of dimension 3
+MHS encountered : 656 
+
+MHS found: [66, 142, 150] of dimension 3
+MHS encountered : 657 
+
+MHS found: [66, 142, 155] of dimension 3
+MHS encountered : 658 
+
+MHS found: [66, 142, 159] of dimension 3
+MHS encountered : 659 
+
+MHS found: [66, 143, 150] of dimension 3
+MHS encountered : 660 
+
+MHS found: [66, 143, 155] of dimension 3
+MHS encountered : 661 
+
+MHS found: [66, 143, 159] of dimension 3
+MHS encountered : 662 
+
+MHS found: [69, 99, 145] of dimension 3
+MHS encountered : 663 
+
+MHS found: [69, 99, 152] of dimension 3
+MHS encountered : 664 
+
+MHS found: [69, 99, 157] of dimension 3
+MHS encountered : 665 
+
+MHS found: [69, 99, 160] of dimension 3
+MHS encountered : 666 
+
+MHS found: [69, 145, 150] of dimension 3
+MHS encountered : 667 
+
+MHS found: [69, 145, 155] of dimension 3
+MHS encountered : 668 
+
+MHS found: [69, 145, 159] of dimension 3
+MHS encountered : 669 
+
+MHS found: [69, 150, 152] of dimension 3
+MHS encountered : 670 
+
+MHS found: [69, 150, 157] of dimension 3
+MHS encountered : 671 
+
+MHS found: [69, 150, 160] of dimension 3
+MHS encountered : 672 
+
+MHS found: [69, 152, 155] of dimension 3
+MHS encountered : 673 
+
+MHS found: [69, 152, 159] of dimension 3
+MHS encountered : 674 
+
+MHS found: [69, 155, 157] of dimension 3
+MHS encountered : 675 
+
+MHS found: [69, 155, 160] of dimension 3
+MHS encountered : 676 
+
+MHS found: [69, 157, 159] of dimension 3
+MHS encountered : 677 
+
+MHS found: [69, 159, 160] of dimension 3
+MHS encountered : 678 
+
+MHS found: [71, 99, 145] of dimension 3
+MHS encountered : 679 
+
+MHS found: [71, 99, 152] of dimension 3
+MHS encountered : 680 
+
+MHS found: [71, 99, 157] of dimension 3
+MHS encountered : 681 
+
+MHS found: [71, 99, 160] of dimension 3
+MHS encountered : 682 
+
+MHS found: [71, 145, 150] of dimension 3
+MHS encountered : 683 
+
+MHS found: [71, 145, 155] of dimension 3
+MHS encountered : 684 
+
+MHS found: [71, 145, 159] of dimension 3
+MHS encountered : 685 
+
+MHS found: [71, 150, 152] of dimension 3
+MHS encountered : 686 
+
+MHS found: [71, 150, 157] of dimension 3
+MHS encountered : 687 
+
+MHS found: [71, 150, 160] of dimension 3
+MHS encountered : 688 
+
+MHS found: [71, 152, 155] of dimension 3
+MHS encountered : 689 
+
+MHS found: [71, 152, 159] of dimension 3
+MHS encountered : 690 
+
+MHS found: [71, 155, 157] of dimension 3
+MHS encountered : 691 
+
+MHS found: [71, 155, 160] of dimension 3
+MHS encountered : 692 
+
+MHS found: [71, 157, 159] of dimension 3
+MHS encountered : 693 
+
+MHS found: [71, 159, 160] of dimension 3
+MHS encountered : 694 
+
+MHS found: [72, 99, 145] of dimension 3
+MHS encountered : 695 
+
+MHS found: [72, 99, 152] of dimension 3
+MHS encountered : 696 
+
+MHS found: [72, 99, 157] of dimension 3
+MHS encountered : 697 
+
+MHS found: [72, 99, 160] of dimension 3
+MHS encountered : 698 
+
+MHS found: [72, 145, 150] of dimension 3
+MHS encountered : 699 
+
+MHS found: [72, 145, 155] of dimension 3
+MHS encountered : 700 
+
+MHS found: [72, 145, 159] of dimension 3
+MHS encountered : 701 
+
+MHS found: [72, 150, 152] of dimension 3
+MHS encountered : 702 
+
+MHS found: [72, 150, 157] of dimension 3
+MHS encountered : 703 
+
+MHS found: [72, 150, 160] of dimension 3
+MHS encountered : 704 
+
+MHS found: [72, 152, 155] of dimension 3
+MHS encountered : 705 
+
+MHS found: [72, 152, 159] of dimension 3
+MHS encountered : 706 
+
+MHS found: [72, 155, 157] of dimension 3
+MHS encountered : 707 
+
+MHS found: [72, 155, 160] of dimension 3
+MHS encountered : 708 
+
+MHS found: [72, 157, 159] of dimension 3
+MHS encountered : 709 
+
+MHS found: [72, 159, 160] of dimension 3
+MHS encountered : 710 
+
+MHS found: [73, 99, 145] of dimension 3
+MHS encountered : 711 
+
+MHS found: [73, 99, 152] of dimension 3
+MHS encountered : 712 
+
+MHS found: [73, 99, 157] of dimension 3
+MHS encountered : 713 
+
+MHS found: [73, 99, 160] of dimension 3
+MHS encountered : 714 
+
+MHS found: [73, 145, 150] of dimension 3
+MHS encountered : 715 
+
+MHS found: [73, 145, 155] of dimension 3
+MHS encountered : 716 
+
+MHS found: [73, 145, 159] of dimension 3
+MHS encountered : 717 
+
+MHS found: [73, 150, 152] of dimension 3
+MHS encountered : 718 
+
+MHS found: [73, 150, 157] of dimension 3
+MHS encountered : 719 
+
+MHS found: [73, 150, 160] of dimension 3
+MHS encountered : 720 
+
+MHS found: [73, 152, 155] of dimension 3
+MHS encountered : 721 
+
+MHS found: [73, 152, 159] of dimension 3
+MHS encountered : 722 
+
+MHS found: [73, 155, 157] of dimension 3
+MHS encountered : 723 
+
+MHS found: [73, 155, 160] of dimension 3
+MHS encountered : 724 
+
+MHS found: [73, 157, 159] of dimension 3
+MHS encountered : 725 
+
+MHS found: [73, 159, 160] of dimension 3
+MHS encountered : 726 
+
+MHS found: [74, 99, 145] of dimension 3
+MHS encountered : 727 
+
+MHS found: [74, 99, 152] of dimension 3
+MHS encountered : 728 
+
+MHS found: [74, 99, 157] of dimension 3
+MHS encountered : 729 
+
+MHS found: [74, 99, 160] of dimension 3
+MHS encountered : 730 
+
+MHS found: [74, 145, 150] of dimension 3
+MHS encountered : 731 
+
+MHS found: [74, 145, 155] of dimension 3
+MHS encountered : 732 
+
+MHS found: [74, 145, 159] of dimension 3
+MHS encountered : 733 
+
+MHS found: [74, 150, 152] of dimension 3
+MHS encountered : 734 
+
+MHS found: [74, 150, 157] of dimension 3
+MHS encountered : 735 
+
+MHS found: [74, 150, 160] of dimension 3
+MHS encountered : 736 
+
+MHS found: [74, 152, 155] of dimension 3
+MHS encountered : 737 
+
+MHS found: [74, 152, 159] of dimension 3
+MHS encountered : 738 
+
+MHS found: [74, 155, 157] of dimension 3
+MHS encountered : 739 
+
+MHS found: [74, 155, 160] of dimension 3
+MHS encountered : 740 
+
+MHS found: [74, 157, 159] of dimension 3
+MHS encountered : 741 
+
+MHS found: [74, 159, 160] of dimension 3
+MHS encountered : 742 
+
+MHS found: [75, 99, 145] of dimension 3
+MHS encountered : 743 
+
+MHS found: [75, 99, 152] of dimension 3
+MHS encountered : 744 
+
+MHS found: [75, 99, 157] of dimension 3
+MHS encountered : 745 
+
+MHS found: [75, 99, 160] of dimension 3
+MHS encountered : 746 
+
+MHS found: [75, 145, 150] of dimension 3
+MHS encountered : 747 
+
+MHS found: [75, 145, 155] of dimension 3
+MHS encountered : 748 
+
+MHS found: [75, 145, 159] of dimension 3
+MHS encountered : 749 
+
+MHS found: [75, 150, 152] of dimension 3
+MHS encountered : 750 
+
+MHS found: [75, 150, 157] of dimension 3
+MHS encountered : 751 
+
+MHS found: [75, 150, 160] of dimension 3
+MHS encountered : 752 
+
+MHS found: [75, 152, 155] of dimension 3
+MHS encountered : 753 
+
+MHS found: [75, 152, 159] of dimension 3
+MHS encountered : 754 
+
+MHS found: [75, 155, 157] of dimension 3
+MHS encountered : 755 
+
+MHS found: [75, 155, 160] of dimension 3
+MHS encountered : 756 
+
+MHS found: [75, 157, 159] of dimension 3
+MHS encountered : 757 
+
+MHS found: [75, 159, 160] of dimension 3
+MHS encountered : 758 
+
+MHS found: [76, 99, 145] of dimension 3
+MHS encountered : 759 
+
+MHS found: [76, 99, 152] of dimension 3
+MHS encountered : 760 
+
+MHS found: [76, 99, 157] of dimension 3
+MHS encountered : 761 
+
+MHS found: [76, 99, 160] of dimension 3
+MHS encountered : 762 
+
+MHS found: [76, 145, 150] of dimension 3
+MHS encountered : 763 
+
+MHS found: [76, 145, 155] of dimension 3
+MHS encountered : 764 
+
+MHS found: [76, 145, 159] of dimension 3
+MHS encountered : 765 
+
+MHS found: [76, 150, 152] of dimension 3
+MHS encountered : 766 
+
+MHS found: [76, 150, 157] of dimension 3
+MHS encountered : 767 
+
+MHS found: [76, 150, 160] of dimension 3
+MHS encountered : 768 
+
+MHS found: [76, 152, 155] of dimension 3
+MHS encountered : 769 
+
+MHS found: [76, 152, 159] of dimension 3
+MHS encountered : 770 
+
+MHS found: [76, 155, 157] of dimension 3
+MHS encountered : 771 
+
+MHS found: [76, 155, 160] of dimension 3
+MHS encountered : 772 
+
+MHS found: [76, 157, 159] of dimension 3
+MHS encountered : 773 
+
+MHS found: [76, 159, 160] of dimension 3
+MHS encountered : 774 
+
+MHS found: [77, 99, 145] of dimension 3
+MHS encountered : 775 
+
+MHS found: [77, 99, 152] of dimension 3
+MHS encountered : 776 
+
+MHS found: [77, 99, 157] of dimension 3
+MHS encountered : 777 
+
+MHS found: [77, 99, 160] of dimension 3
+MHS encountered : 778 
+
+MHS found: [77, 145, 150] of dimension 3
+MHS encountered : 779 
+
+MHS found: [77, 145, 155] of dimension 3
+MHS encountered : 780 
+
+MHS found: [77, 145, 159] of dimension 3
+MHS encountered : 781 
+
+MHS found: [77, 150, 152] of dimension 3
+MHS encountered : 782 
+
+MHS found: [77, 150, 157] of dimension 3
+MHS encountered : 783 
+
+MHS found: [77, 150, 160] of dimension 3
+MHS encountered : 784 
+
+MHS found: [77, 152, 155] of dimension 3
+MHS encountered : 785 
+
+MHS found: [77, 152, 159] of dimension 3
+MHS encountered : 786 
+
+MHS found: [77, 155, 157] of dimension 3
+MHS encountered : 787 
+
+MHS found: [77, 155, 160] of dimension 3
+MHS encountered : 788 
+
+MHS found: [77, 157, 159] of dimension 3
+MHS encountered : 789 
+
+MHS found: [77, 159, 160] of dimension 3
+MHS encountered : 790 
+
+MHS found: [78, 99, 145] of dimension 3
+MHS encountered : 791 
+
+MHS found: [78, 99, 152] of dimension 3
+MHS encountered : 792 
+
+MHS found: [78, 99, 157] of dimension 3
+MHS encountered : 793 
+
+MHS found: [78, 99, 160] of dimension 3
+MHS encountered : 794 
+
+MHS found: [78, 145, 150] of dimension 3
+MHS encountered : 795 
+
+MHS found: [78, 145, 155] of dimension 3
+MHS encountered : 796 
+
+MHS found: [78, 145, 159] of dimension 3
+MHS encountered : 797 
+
+MHS found: [78, 150, 152] of dimension 3
+MHS encountered : 798 
+
+MHS found: [78, 150, 157] of dimension 3
+MHS encountered : 799 
+
+MHS found: [78, 150, 160] of dimension 3
+MHS encountered : 800 
+
+MHS found: [78, 152, 155] of dimension 3
+MHS encountered : 801 
+
+MHS found: [78, 152, 159] of dimension 3
+MHS encountered : 802 
+
+MHS found: [78, 155, 157] of dimension 3
+MHS encountered : 803 
+
+MHS found: [78, 155, 160] of dimension 3
+MHS encountered : 804 
+
+MHS found: [78, 157, 159] of dimension 3
+MHS encountered : 805 
+
+MHS found: [78, 159, 160] of dimension 3
+MHS encountered : 806 
+
+MHS found: [87, 99, 145] of dimension 3
+MHS encountered : 807 
+
+MHS found: [87, 99, 152] of dimension 3
+MHS encountered : 808 
+
+MHS found: [87, 99, 157] of dimension 3
+MHS encountered : 809 
+
+MHS found: [87, 99, 160] of dimension 3
+MHS encountered : 810 
+
+MHS found: [87, 145, 150] of dimension 3
+MHS encountered : 811 
+
+MHS found: [87, 145, 155] of dimension 3
+MHS encountered : 812 
+
+MHS found: [87, 145, 159] of dimension 3
+MHS encountered : 813 
+
+MHS found: [87, 150, 152] of dimension 3
+MHS encountered : 814 
+
+MHS found: [87, 150, 157] of dimension 3
+MHS encountered : 815 
+
+MHS found: [87, 150, 160] of dimension 3
+MHS encountered : 816 
+
+MHS found: [87, 152, 155] of dimension 3
+MHS encountered : 817 
+
+MHS found: [87, 152, 159] of dimension 3
+MHS encountered : 818 
+
+MHS found: [87, 155, 157] of dimension 3
+MHS encountered : 819 
+
+MHS found: [87, 155, 160] of dimension 3
+MHS encountered : 820 
+
+MHS found: [87, 157, 159] of dimension 3
+MHS encountered : 821 
+
+MHS found: [87, 159, 160] of dimension 3
+MHS encountered : 822 
+
+MHS found: [99, 142, 145] of dimension 3
+MHS encountered : 823 
+
+MHS found: [99, 142, 152] of dimension 3
+MHS encountered : 824 
+
+MHS found: [99, 142, 157] of dimension 3
+MHS encountered : 825 
+
+MHS found: [99, 142, 160] of dimension 3
+MHS encountered : 826 
+
+MHS found: [99, 143, 145] of dimension 3
+MHS encountered : 827 
+
+MHS found: [99, 143, 152] of dimension 3
+MHS encountered : 828 
+
+MHS found: [99, 143, 157] of dimension 3
+MHS encountered : 829 
+
+MHS found: [99, 143, 160] of dimension 3
+MHS encountered : 830 
+
+MHS found: [142, 145, 150] of dimension 3
+MHS encountered : 831 
+
+MHS found: [142, 145, 155] of dimension 3
+MHS encountered : 832 
+
+MHS found: [142, 145, 159] of dimension 3
+MHS encountered : 833 
+
+MHS found: [142, 150, 152] of dimension 3
+MHS encountered : 834 
+
+MHS found: [142, 150, 157] of dimension 3
+MHS encountered : 835 
+
+MHS found: [142, 150, 160] of dimension 3
+MHS encountered : 836 
+
+MHS found: [142, 152, 155] of dimension 3
+MHS encountered : 837 
+
+MHS found: [142, 152, 159] of dimension 3
+MHS encountered : 838 
+
+MHS found: [142, 155, 157] of dimension 3
+MHS encountered : 839 
+
+MHS found: [142, 155, 160] of dimension 3
+MHS encountered : 840 
+
+MHS found: [142, 157, 159] of dimension 3
+MHS encountered : 841 
+
+MHS found: [142, 159, 160] of dimension 3
+MHS encountered : 842 
+
+MHS found: [143, 145, 150] of dimension 3
+MHS encountered : 843 
+
+MHS found: [143, 145, 155] of dimension 3
+MHS encountered : 844 
+
+MHS found: [143, 145, 159] of dimension 3
+MHS encountered : 845 
+
+MHS found: [143, 150, 152] of dimension 3
+MHS encountered : 846 
+
+MHS found: [143, 150, 157] of dimension 3
+MHS encountered : 847 
+
+MHS found: [143, 150, 160] of dimension 3
+MHS encountered : 848 
+
+MHS found: [143, 152, 155] of dimension 3
+MHS encountered : 849 
+
+MHS found: [143, 152, 159] of dimension 3
+MHS encountered : 850 
+
+MHS found: [143, 155, 157] of dimension 3
+MHS encountered : 851 
+
+MHS found: [143, 155, 160] of dimension 3
+MHS encountered : 852 
+
+MHS found: [143, 157, 159] of dimension 3
+MHS encountered : 853 
+
+MHS found: [143, 159, 160] of dimension 3
+MHS encountered : 854 
+
+MBASE required 0.189745 seconds to execute 
+ Execution completed 
+
