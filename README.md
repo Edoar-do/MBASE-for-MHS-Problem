@@ -8,6 +8,6 @@ not contain smaller hs
 
 The problem in the application is formulated as follows:
 
-A: boolean input matrix with |N| rows and |M| columns where  $ a_{ij} = 1 $ if $N_i$, the i_th set belonging to the collection N, has the j_th element of M (0 otherwise)
+A: boolean input matrix with |N| rows and |M| columns where  a_{ij} = 1  if N_i, the i_th set belonging to the collection N, has the j_th element of M (0 otherwise)
 MHS: output sequence of all the MHS found given the matrix A, generated in lexicographical order.
 Extra information: time required for computing the 'slow' version of the algorithm and the 'fast' one, in which some rows and cols are dropped in pre-processing
